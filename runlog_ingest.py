@@ -11,7 +11,7 @@ DATE_SUFFIX = datetime.now().strftime("%Y%m%d")
 BACKUP_JSON = f"{OUTPUT_JSON}.{DATE_SUFFIX}"
 
 MANDATORY_FIELDS = ["date", "tier", "time", "waves", "coins", "cells"]
-OPTIONAL_FIELDS = ["run_type", "comments"]
+OPTIONAL_FIELDS = ["run_type", "comments", "rerolldice"]
 
 VALID_RUN_TYPES = ["farm - overnight", "farm - day", "milestone"]
 DEFAULT_RUN_TYPE = "other"
@@ -35,11 +35,20 @@ def parse_date(raw):
 def parse_coin_value(raw):
     value = raw.strip()
     if value.endswith("q"):
-        return float(value[:-1]) * 1000  # Quadrillion → Trillions
+        return float(value[:-1]) * 1_000_000_000_000_000  # Quadrillion
     elif value.endswith("Q"):
-        return float(value[:-1]) * 1_000_000  # Quintillion → Trillions
+        return float(value[:-1]) * 1_000_000_000_000_000_000  # Quintillion
     else:
-        return float(value)  # Already in Trillions
+        return float(value) * 1_000_000_000_000  # Default to Trillions
+
+def parse_cell_or_dice_value(raw):
+    value = raw.strip()
+    if value.endswith("M"):
+        return float(value[:-1]) * 1_000_000
+    elif value.endswith("K"):
+        return float(value[:-1]) * 1_000
+    else:
+        return float(value) * 1_000  # Default to Thousands
 
 def validate_row(row, index):
     try:
@@ -57,7 +66,15 @@ def validate_row(row, index):
         row["time"] = float(row["time"])
         row["waves"] = int(row["waves"])
         row["coins"] = parse_coin_value(row["coins"])
-        row["cells"] = float(row["cells"])
+        row["cells"] = parse_cell_or_dice_value(row["cells"])
+
+        reroll_raw = row.get("rerolldice", "").strip()
+        if reroll_raw:
+            row["rerolldice"] = parse_cell_or_dice_value(reroll_raw)
+            row["rerolldice_per_hour"] = round(row["rerolldice"] / row["time"], 2)
+        else:
+            row["rerolldice"] = 0
+            row["rerolldice_per_hour"] = 0.0
 
         run_type = row.get("run_type", "").strip()
         row["run_type"] = fuzzy_match_run_type(run_type)

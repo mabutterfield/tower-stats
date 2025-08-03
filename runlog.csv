@@ -1,4 +1,4 @@
-date,run_type,tier,time,waves,coins,cells,comments
+date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 4/21/25,Farm - Overnight,11,10.27,7819,43.66,178.57,
 4/22/25,Farm - Day,10,13.15,10124,55,239.84,
 4/22/25,Farm - Overnight,11,10.08,7656,42.96,173.26,
@@ -123,7 +123,7 @@ date,run_type,tier,time,waves,coins,cells,comments
 7/29/25,Farm - Overnight,12,9.68,7887,306.77,225.41,oernight after tournament respec
 7/30/25,Farm - Day,14,4.5,3962,168.07,127.1,
 7/30/25,Farm - Day,14,3.57,3250,130.79,86.08,Forgot CL ?
-7/30/25,Farm - Day,14,4.58,3976,184.48,130.18,"evening run - hit 927T WallFort / 34.79T/sec regen"
+7/30/25,Farm - Day,14,4.58,3976,184.48,130.18,evening run - hit 927T WallFort / 34.79T/sec regen
 7/30/25,Farm - Overnight,12,9.35,7522,301.45,226.38,full auto pick good run for t12
 7/31/25,Farm - Day,14,4.22,3894,176.58,122.75,First IS+3 to 720. near perfect perks
 7/31/25,farm - day,14,4.22,3892,180.65,123.88,"end 6pm, late run ended overnight, no ss"
