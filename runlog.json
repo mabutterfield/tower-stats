@@ -9,8 +9,8 @@
     "cells": 178.57,
     "comments": "",
     "epoch": 1745208000,
-    "cph": 4.251217137293087,
-    "cellph": 17.387536514118793
+    "coins_per_hour": 4.25,
+    "cells_per_hour": 17.39
   },
   {
     "date": "2025-04-22",
@@ -22,8 +22,8 @@
     "cells": 239.84,
     "comments": "",
     "epoch": 1745294400,
-    "cph": 4.182509505703422,
-    "cellph": 18.238783269961978
+    "coins_per_hour": 4.18,
+    "cells_per_hour": 18.24
   },
   {
     "date": "2025-04-22",
@@ -35,8 +35,8 @@
     "cells": 173.26,
     "comments": "",
     "epoch": 1745294400,
-    "cph": 4.261904761904762,
-    "cellph": 17.188492063492063
+    "coins_per_hour": 4.26,
+    "cells_per_hour": 17.19
   },
   {
     "date": "2025-04-23",
@@ -48,8 +48,8 @@
     "cells": 236.1,
     "comments": "",
     "epoch": 1745380800,
-    "cph": 4.1332819722650225,
-    "cellph": 18.189522342064713
+    "coins_per_hour": 4.13,
+    "cells_per_hour": 18.19
   },
   {
     "date": "2025-04-23",
@@ -61,8 +61,8 @@
     "cells": 166.74,
     "comments": "",
     "epoch": 1745380800,
-    "cph": 4.40603015075377,
-    "cellph": 16.75778894472362
+    "coins_per_hour": 4.41,
+    "cells_per_hour": 16.76
   },
   {
     "date": "2025-04-24",
@@ -74,8 +74,8 @@
     "cells": 230.2,
     "comments": "First PBH/PGT run",
     "epoch": 1745467200,
-    "cph": 5.073728813559321,
-    "cellph": 19.508474576271183
+    "coins_per_hour": 5.07,
+    "cells_per_hour": 19.51
   },
   {
     "date": "2025-04-24",
@@ -87,8 +87,8 @@
     "cells": 238.87,
     "comments": "",
     "epoch": 1745467200,
-    "cph": 5.294117647058823,
-    "cellph": 20.364023870417732
+    "coins_per_hour": 5.29,
+    "cells_per_hour": 20.36
   },
   {
     "date": "2025-04-25",
@@ -100,8 +100,8 @@
     "cells": 110.43,
     "comments": "",
     "epoch": 1745553600,
-    "cph": 4.6807947019867555,
-    "cellph": 14.626490066225166
+    "coins_per_hour": 4.68,
+    "cells_per_hour": 14.63
   },
   {
     "date": "2025-04-25",
@@ -113,8 +113,8 @@
     "cells": 237.71,
     "comments": "",
     "epoch": 1745553600,
-    "cph": 5.366438356164384,
-    "cellph": 20.351883561643838
+    "coins_per_hour": 5.37,
+    "cells_per_hour": 20.35
   },
   {
     "date": "2025-04-26",
@@ -126,8 +126,8 @@
     "cells": 106.69,
     "comments": "",
     "epoch": 1745640000,
-    "cph": 4.544704264099037,
-    "cellph": 14.67537826685007
+    "coins_per_hour": 4.54,
+    "cells_per_hour": 14.68
   },
   {
     "date": "2025-04-26",
@@ -139,8 +139,8 @@
     "cells": 233.75,
     "comments": "",
     "epoch": 1745640000,
-    "cph": 5.523076923076924,
-    "cellph": 19.97863247863248
+    "coins_per_hour": 5.52,
+    "cells_per_hour": 19.98
   },
   {
     "date": "2025-04-27",
@@ -152,8 +152,8 @@
     "cells": 241.53,
     "comments": "",
     "epoch": 1745726400,
-    "cph": 5.6961602671118525,
-    "cellph": 20.16110183639399
+    "coins_per_hour": 5.7,
+    "cells_per_hour": 20.16
   },
   {
     "date": "2025-04-28",
@@ -165,8 +165,8 @@
     "cells": 238.2,
     "comments": "",
     "epoch": 1745812800,
-    "cph": 5.714163090128754,
-    "cellph": 20.446351931330472
+    "coins_per_hour": 5.71,
+    "cells_per_hour": 20.45
   },
   {
     "date": "2025-04-28",
@@ -178,8 +178,8 @@
     "cells": 57.99,
     "comments": "Trial Farm Run of T13",
     "epoch": 1745812800,
-    "cph": 5.537525354969574,
-    "cellph": 11.76267748478702
+    "coins_per_hour": 5.54,
+    "cells_per_hour": 11.76
   },
   {
     "date": "2025-04-28",
@@ -191,8 +191,8 @@
     "cells": 309.27,
     "comments": "Cash Card Unequipped",
     "epoch": 1745812800,
-    "cph": 5.6107382550335565,
-    "cellph": 20.75637583892617
+    "coins_per_hour": 5.61,
+    "cells_per_hour": 20.76
   },
   {
     "date": "2025-04-29",
@@ -204,8 +204,8 @@
     "cells": 238.52,
     "comments": "Cash Card Unequipped",
     "epoch": 1745899200,
-    "cph": 6.237851662404092,
-    "cellph": 20.334185848252346
+    "coins_per_hour": 6.24,
+    "cells_per_hour": 20.33
   },
   {
     "date": "2025-04-29",
@@ -217,8 +217,8 @@
     "cells": 239.28,
     "comments": "Cash Card Equipped",
     "epoch": 1745899200,
-    "cph": 6.239999999999999,
-    "cellph": 20.364255319148935
+    "coins_per_hour": 6.24,
+    "cells_per_hour": 20.36
   },
   {
     "date": "2025-05-05",
@@ -230,8 +230,8 @@
     "cells": 308.54,
     "comments": "",
     "epoch": 1746417600,
-    "cph": 6.511326860841424,
-    "cellph": 19.97022653721683
+    "coins_per_hour": 6.51,
+    "cells_per_hour": 19.97
   },
   {
     "date": "2025-05-06",
@@ -243,8 +243,8 @@
     "cells": 79.98,
     "comments": "",
     "epoch": 1746504000,
-    "cph": 5.842814371257486,
-    "cellph": 11.97305389221557
+    "coins_per_hour": 5.84,
+    "cells_per_hour": 11.97
   },
   {
     "date": "2025-05-06",
@@ -256,8 +256,8 @@
     "cells": 0.597,
     "comments": "",
     "epoch": 1746504000,
-    "cph": 0.10317460317460318,
-    "cellph": 0.9476190476190476
+    "coins_per_hour": 0.1,
+    "cells_per_hour": 0.95
   },
   {
     "date": "2025-05-06",
@@ -269,8 +269,8 @@
     "cells": 0.14,
     "comments": "",
     "epoch": 1746504000,
-    "cph": 0.036,
-    "cellph": 0.56
+    "coins_per_hour": 0.04,
+    "cells_per_hour": 0.56
   },
   {
     "date": "2025-05-06",
@@ -282,8 +282,8 @@
     "cells": 313.96,
     "comments": "",
     "epoch": 1746504000,
-    "cph": 6.923435419440746,
-    "cellph": 20.902796271637815
+    "coins_per_hour": 6.92,
+    "cells_per_hour": 20.9
   },
   {
     "date": "2025-05-07",
@@ -295,8 +295,8 @@
     "cells": 1.92,
     "comments": "",
     "epoch": 1746590400,
-    "cph": 0.14476190476190476,
-    "cellph": 1.8285714285714285
+    "coins_per_hour": 0.14,
+    "cells_per_hour": 1.83
   },
   {
     "date": "2025-05-07",
@@ -308,8 +308,8 @@
     "cells": 65.14,
     "comments": "",
     "epoch": 1746590400,
-    "cph": 0.40816326530612246,
-    "cellph": 10.226059654631083
+    "coins_per_hour": 0.41,
+    "cells_per_hour": 10.23
   },
   {
     "date": "2025-05-08",
@@ -321,8 +321,8 @@
     "cells": 244.83,
     "comments": "",
     "epoch": 1746676800,
-    "cph": 8.148365465213747,
-    "cellph": 20.522212908633698
+    "coins_per_hour": 8.15,
+    "cells_per_hour": 20.52
   },
   {
     "date": "2025-05-08",
@@ -334,8 +334,8 @@
     "cells": 265.43,
     "comments": "range 76 + LMS",
     "epoch": 1746676800,
-    "cph": 8.126572327044025,
-    "cellph": 20.867138364779873
+    "coins_per_hour": 8.13,
+    "cells_per_hour": 20.87
   },
   {
     "date": "2025-05-09",
@@ -347,8 +347,8 @@
     "cells": 132.38,
     "comments": "",
     "epoch": 1746763200,
-    "cph": 7.286945812807883,
-    "cellph": 16.30295566502463
+    "coins_per_hour": 7.29,
+    "cells_per_hour": 16.3
   },
   {
     "date": "2025-05-09",
@@ -360,8 +360,8 @@
     "cells": 262.11,
     "comments": "",
     "epoch": 1746763200,
-    "cph": 8.187449718423169,
-    "cellph": 21.086886564762672
+    "coins_per_hour": 8.19,
+    "cells_per_hour": 21.09
   },
   {
     "date": "2025-05-10",
@@ -373,8 +373,8 @@
     "cells": 130.25,
     "comments": "",
     "epoch": 1746849600,
-    "cph": 7.277300613496933,
-    "cellph": 15.98159509202454
+    "coins_per_hour": 7.28,
+    "cells_per_hour": 15.98
   },
   {
     "date": "2025-05-10",
@@ -386,8 +386,8 @@
     "cells": 270.09,
     "comments": "",
     "epoch": 1746849600,
-    "cph": 8.343106180665611,
-    "cellph": 21.40174326465927
+    "coins_per_hour": 8.34,
+    "cells_per_hour": 21.4
   },
   {
     "date": "2025-05-11",
@@ -399,8 +399,8 @@
     "cells": 115.75,
     "comments": "",
     "epoch": 1746936000,
-    "cph": 7.407455012853471,
-    "cellph": 14.87789203084833
+    "coins_per_hour": 7.41,
+    "cells_per_hour": 14.88
   },
   {
     "date": "2025-05-11",
@@ -412,8 +412,8 @@
     "cells": 330.93,
     "comments": "",
     "epoch": 1746936000,
-    "cph": 7.65982028241335,
-    "cellph": 21.240693196405648
+    "coins_per_hour": 7.66,
+    "cells_per_hour": 21.24
   },
   {
     "date": "2025-05-12",
@@ -425,8 +425,8 @@
     "cells": 253.35,
     "comments": "",
     "epoch": 1747022400,
-    "cph": 8.12096106048053,
-    "cellph": 20.990057995028998
+    "coins_per_hour": 8.12,
+    "cells_per_hour": 20.99
   },
   {
     "date": "2025-05-12",
@@ -438,8 +438,8 @@
     "cells": 271.99,
     "comments": "WTH did I upgrade?",
     "epoch": 1747022400,
-    "cph": 8.85377358490566,
-    "cellph": 21.382861635220124
+    "coins_per_hour": 8.85,
+    "cells_per_hour": 21.38
   },
   {
     "date": "2025-05-13",
@@ -451,8 +451,8 @@
     "cells": 268.28,
     "comments": "",
     "epoch": 1747108800,
-    "cph": 8.545166402535658,
-    "cellph": 21.258320126782884
+    "coins_per_hour": 8.55,
+    "cells_per_hour": 21.26
   },
   {
     "date": "2025-05-14",
@@ -464,8 +464,8 @@
     "cells": 269.43,
     "comments": "",
     "epoch": 1747195200,
-    "cph": 8.47680608365019,
-    "cellph": 20.48897338403042
+    "coins_per_hour": 8.48,
+    "cells_per_hour": 20.49
   },
   {
     "date": "2025-05-15",
@@ -477,8 +477,8 @@
     "cells": 267.51,
     "comments": "",
     "epoch": 1747281600,
-    "cph": 8.489409984871406,
-    "cellph": 20.235249621785172
+    "coins_per_hour": 8.49,
+    "cells_per_hour": 20.24
   },
   {
     "date": "2025-05-15",
@@ -490,8 +490,8 @@
     "cells": 338.57,
     "comments": "",
     "epoch": 1747281600,
-    "cph": 8.050414805360562,
-    "cellph": 21.60625398851308
+    "coins_per_hour": 8.05,
+    "cells_per_hour": 21.61
   },
   {
     "date": "2025-05-16",
@@ -503,8 +503,8 @@
     "cells": 136.9,
     "comments": "",
     "epoch": 1747368000,
-    "cph": 8.032298136645961,
-    "cellph": 17.00621118012422
+    "coins_per_hour": 8.03,
+    "cells_per_hour": 17.01
   },
   {
     "date": "2025-05-16",
@@ -516,8 +516,8 @@
     "cells": 5.51,
     "comments": "",
     "epoch": 1747368000,
-    "cph": 0.25808383233532933,
-    "cellph": 3.2994011976047903
+    "coins_per_hour": 0.26,
+    "cells_per_hour": 3.3
   },
   {
     "date": "2025-05-16",
@@ -529,8 +529,8 @@
     "cells": 276.13,
     "comments": "",
     "epoch": 1747368000,
-    "cph": 8.850917431192661,
-    "cellph": 21.11085626911315
+    "coins_per_hour": 8.85,
+    "cells_per_hour": 21.11
   },
   {
     "date": "2025-05-17",
@@ -542,8 +542,8 @@
     "cells": 284.62,
     "comments": "",
     "epoch": 1747454400,
-    "cph": 9.035060975609758,
-    "cellph": 21.69359756097561
+    "coins_per_hour": 9.04,
+    "cells_per_hour": 21.69
   },
   {
     "date": "2025-05-18",
@@ -555,8 +555,8 @@
     "cells": 271.15,
     "comments": "",
     "epoch": 1747540800,
-    "cph": 9.063174114021571,
-    "cellph": 20.889830508474574
+    "coins_per_hour": 9.06,
+    "cells_per_hour": 20.89
   },
   {
     "date": "2025-05-18",
@@ -568,8 +568,8 @@
     "cells": 284.14,
     "comments": "",
     "epoch": 1747540800,
-    "cph": 9.171102661596958,
-    "cellph": 21.60760456273764
+    "coins_per_hour": 9.17,
+    "cells_per_hour": 21.61
   },
   {
     "date": "2025-05-21",
@@ -581,8 +581,8 @@
     "cells": 345.62,
     "comments": "",
     "epoch": 1747800000,
-    "cph": 8.796019900497512,
-    "cellph": 21.493781094527368
+    "coins_per_hour": 8.8,
+    "cells_per_hour": 21.49
   },
   {
     "date": "2025-05-22",
@@ -594,8 +594,8 @@
     "cells": 134.37,
     "comments": "",
     "epoch": 1747886400,
-    "cph": 8.18235294117647,
-    "cellph": 15.808235294117647
+    "coins_per_hour": 8.18,
+    "cells_per_hour": 15.81
   },
   {
     "date": "2025-05-22",
@@ -607,8 +607,8 @@
     "cells": 263.79,
     "comments": "",
     "epoch": 1747886400,
-    "cph": 9.206650831353919,
-    "cellph": 20.885985748218527
+    "coins_per_hour": 9.21,
+    "cells_per_hour": 20.89
   },
   {
     "date": "2025-05-23",
@@ -620,8 +620,8 @@
     "cells": 282.34,
     "comments": "",
     "epoch": 1747972800,
-    "cph": 9.488888888888889,
-    "cellph": 21.635249042145592
+    "coins_per_hour": 9.49,
+    "cells_per_hour": 21.64
   },
   {
     "date": "2025-05-23",
@@ -633,8 +633,8 @@
     "cells": 289.36,
     "comments": "",
     "epoch": 1747972800,
-    "cph": 9.914523449319212,
-    "cellph": 21.88804841149773
+    "coins_per_hour": 9.91,
+    "cells_per_hour": 21.89
   },
   {
     "date": "2025-05-24",
@@ -646,8 +646,8 @@
     "cells": 2.72,
     "comments": "",
     "epoch": 1748059200,
-    "cph": 0.2145631067961165,
-    "cellph": 2.6407766990291264
+    "coins_per_hour": 0.21,
+    "cells_per_hour": 2.64
   },
   {
     "date": "2025-05-24",
@@ -659,8 +659,8 @@
     "cells": 0.433,
     "comments": "",
     "epoch": 1748059200,
-    "cph": 0.104,
-    "cellph": 0.866
+    "coins_per_hour": 0.1,
+    "cells_per_hour": 0.87
   },
   {
     "date": "2025-05-24",
@@ -672,8 +672,8 @@
     "cells": 139.81,
     "comments": "",
     "epoch": 1748059200,
-    "cph": 9.160332541567696,
-    "cellph": 16.604513064133016
+    "coins_per_hour": 9.16,
+    "cells_per_hour": 16.6
   },
   {
     "date": "2025-05-24",
@@ -685,8 +685,8 @@
     "cells": 261.14,
     "comments": "",
     "epoch": 1748059200,
-    "cph": 8.352388410336726,
-    "cellph": 20.449490994518403
+    "coins_per_hour": 8.35,
+    "cells_per_hour": 20.45
   },
   {
     "date": "2025-05-25",
@@ -698,8 +698,8 @@
     "cells": 143.54,
     "comments": "First with SL4",
     "epoch": 1748145600,
-    "cph": 10.75943396226415,
-    "cellph": 16.92688679245283
+    "coins_per_hour": 10.76,
+    "cells_per_hour": 16.93
   },
   {
     "date": "2025-05-25",
@@ -711,8 +711,8 @@
     "cells": 283.34,
     "comments": "",
     "epoch": 1748145600,
-    "cph": 11.300844205679203,
-    "cellph": 21.745203376822715
+    "coins_per_hour": 11.3,
+    "cells_per_hour": 21.75
   },
   {
     "date": "2025-05-26",
@@ -724,8 +724,8 @@
     "cells": 126.22,
     "comments": "",
     "epoch": 1748232000,
-    "cph": 9.338729763387297,
-    "cellph": 15.718555417185556
+    "coins_per_hour": 9.34,
+    "cells_per_hour": 15.72
   },
   {
     "date": "2025-05-26",
@@ -737,8 +737,8 @@
     "cells": 257.61,
     "comments": "",
     "epoch": 1748232000,
-    "cph": 11.099049128367671,
-    "cellph": 20.412836767036453
+    "coins_per_hour": 11.1,
+    "cells_per_hour": 20.41
   },
   {
     "date": "2025-05-28",
@@ -750,8 +750,8 @@
     "cells": 342.15,
     "comments": "Last before SF",
     "epoch": 1748404800,
-    "cph": 10.513059701492539,
-    "cellph": 21.277985074626866
+    "coins_per_hour": 10.51,
+    "cells_per_hour": 21.28
   },
   {
     "date": "2025-05-29",
@@ -763,8 +763,8 @@
     "cells": 178.4,
     "comments": "First with SF",
     "epoch": 1748491200,
-    "cph": 11.933839479392624,
-    "cellph": 19.349240780911064
+    "coins_per_hour": 11.93,
+    "cells_per_hour": 19.35
   },
   {
     "date": "2025-05-29",
@@ -776,8 +776,8 @@
     "cells": 318.07,
     "comments": "First 11 with SF",
     "epoch": 1748491200,
-    "cph": 11.513475177304965,
-    "cellph": 22.558156028368796
+    "coins_per_hour": 11.51,
+    "cells_per_hour": 22.56
   },
   {
     "date": "2025-05-30",
@@ -789,8 +789,8 @@
     "cells": 95.2,
     "comments": "Farm t14 with SF eHP",
     "epoch": 1748577600,
-    "cph": 4.675196850393701,
-    "cellph": 18.74015748031496
+    "coins_per_hour": 4.68,
+    "cells_per_hour": 18.74
   },
   {
     "date": "2025-05-30",
@@ -802,8 +802,8 @@
     "cells": 17.74,
     "comments": "Farm t15 with SF eHP",
     "epoch": 1748577600,
-    "cph": 2.450413223140496,
-    "cellph": 7.330578512396694
+    "coins_per_hour": 2.45,
+    "cells_per_hour": 7.33
   },
   {
     "date": "2025-05-30",
@@ -815,8 +815,8 @@
     "cells": 324.1,
     "comments": "",
     "epoch": 1748577600,
-    "cph": 12.028731604765243,
-    "cellph": 22.71198318149965
+    "coins_per_hour": 12.03,
+    "cells_per_hour": 22.71
   },
   {
     "date": "2025-05-31",
@@ -828,8 +828,8 @@
     "cells": 330.68,
     "comments": "",
     "epoch": 1748664000,
-    "cph": 12.77508650519031,
-    "cellph": 22.884429065743948
+    "coins_per_hour": 12.78,
+    "cells_per_hour": 22.88
   },
   {
     "date": "2025-06-01",
@@ -841,8 +841,8 @@
     "cells": 174.36,
     "comments": "Last before Workshop Respec",
     "epoch": 1748750400,
-    "cph": 13.173959445037354,
-    "cellph": 18.608324439701178
+    "coins_per_hour": 13.17,
+    "cells_per_hour": 18.61
   },
   {
     "date": "2025-06-01",
@@ -854,8 +854,8 @@
     "cells": 334.75,
     "comments": "First with 1.3 Cell WS+",
     "epoch": 1748750400,
-    "cph": 13.058327477160926,
-    "cellph": 23.52424455375966
+    "coins_per_hour": 13.06,
+    "cells_per_hour": 23.52
   },
   {
     "date": "2025-06-07",
@@ -867,8 +867,8 @@
     "cells": 116.4,
     "comments": "",
     "epoch": 1749268800,
-    "cph": 7.827852998065764,
-    "cellph": 22.51450676982592
+    "coins_per_hour": 7.83,
+    "cells_per_hour": 22.51
   },
   {
     "date": "2025-06-07",
@@ -880,8 +880,8 @@
     "cells": 335.98,
     "comments": "",
     "epoch": 1749268800,
-    "cph": 14.327972027972026,
-    "cellph": 23.495104895104895
+    "coins_per_hour": 14.33,
+    "cells_per_hour": 23.5
   },
   {
     "date": "2025-06-08",
@@ -893,8 +893,8 @@
     "cells": 191.08,
     "comments": "",
     "epoch": 1749355200,
-    "cph": 14.529106029106032,
-    "cellph": 19.862785862785866
+    "coins_per_hour": 14.53,
+    "cells_per_hour": 19.86
   },
   {
     "date": "2025-06-08",
@@ -906,8 +906,8 @@
     "cells": 340.42,
     "comments": "",
     "epoch": 1749355200,
-    "cph": 14.581071677105081,
-    "cellph": 23.68963117606124
+    "coins_per_hour": 14.58,
+    "cells_per_hour": 23.69
   },
   {
     "date": "2025-06-09",
@@ -919,8 +919,8 @@
     "cells": 117.17,
     "comments": "",
     "epoch": 1749441600,
-    "cph": 14.940029985007497,
-    "cellph": 17.56671664167916
+    "coins_per_hour": 14.94,
+    "cells_per_hour": 17.57
   },
   {
     "date": "2025-06-09",
@@ -932,8 +932,8 @@
     "cells": 341.76,
     "comments": "",
     "epoch": 1749441600,
-    "cph": 15.370653685674547,
-    "cellph": 23.7663421418637
+    "coins_per_hour": 15.37,
+    "cells_per_hour": 23.77
   },
   {
     "date": "2025-06-10",
@@ -945,8 +945,8 @@
     "cells": 339.92,
     "comments": "",
     "epoch": 1749528000,
-    "cph": 15.668515950069349,
-    "cellph": 23.572815533980584
+    "coins_per_hour": 15.67,
+    "cells_per_hour": 23.57
   },
   {
     "date": "2025-06-11",
@@ -958,8 +958,8 @@
     "cells": 190.24,
     "comments": "",
     "epoch": 1749614400,
-    "cph": 15.23076923076923,
-    "cellph": 19.511794871794873
+    "coins_per_hour": 15.23,
+    "cells_per_hour": 19.51
   },
   {
     "date": "2025-06-11",
@@ -971,8 +971,8 @@
     "cells": 340.04,
     "comments": "",
     "epoch": 1749614400,
-    "cph": 16.19196119196119,
-    "cellph": 23.564795564795567
+    "coins_per_hour": 16.19,
+    "cells_per_hour": 23.56
   },
   {
     "date": "2025-06-16",
@@ -984,8 +984,8 @@
     "cells": 192.3,
     "comments": "",
     "epoch": 1750046400,
-    "cph": 16.52200614124872,
-    "cellph": 19.682702149437056
+    "coins_per_hour": 16.52,
+    "cells_per_hour": 19.68
   },
   {
     "date": "2025-06-16",
@@ -997,8 +997,8 @@
     "cells": 343.73,
     "comments": "",
     "epoch": 1750046400,
-    "cph": 16.31174089068826,
-    "cellph": 23.19365721997301
+    "coins_per_hour": 16.31,
+    "cells_per_hour": 23.19
   },
   {
     "date": "2025-06-26",
@@ -1010,8 +1010,8 @@
     "cells": 198.51,
     "comments": "",
     "epoch": 1750910400,
-    "cph": 19.080563947633433,
-    "cellph": 19.99093655589124
+    "coins_per_hour": 19.08,
+    "cells_per_hour": 19.99
   },
   {
     "date": "2025-06-27",
@@ -1023,8 +1023,8 @@
     "cells": 130.88,
     "comments": "",
     "epoch": 1750996800,
-    "cph": 22.26029411764706,
-    "cellph": 19.24705882352941
+    "coins_per_hour": 22.26,
+    "cells_per_hour": 19.25
   },
   {
     "date": "2025-06-28",
@@ -1036,8 +1036,8 @@
     "cells": 152.46,
     "comments": "ended early, forgot UW",
     "epoch": 1751083200,
-    "cph": 17.02660753880266,
-    "cellph": 16.902439024390244
+    "coins_per_hour": 17.03,
+    "cells_per_hour": 16.9
   },
   {
     "date": "2025-06-29",
@@ -1049,8 +1049,8 @@
     "cells": 119.26,
     "comments": "",
     "epoch": 1751169600,
-    "cph": 21.34416543574594,
-    "cellph": 17.61595273264402
+    "coins_per_hour": 21.34,
+    "cells_per_hour": 17.62
   },
   {
     "date": "2025-06-30",
@@ -1062,8 +1062,8 @@
     "cells": 356.92,
     "comments": "",
     "epoch": 1751256000,
-    "cph": 20.93489932885906,
-    "cellph": 23.954362416107383
+    "coins_per_hour": 20.93,
+    "cells_per_hour": 23.95
   },
   {
     "date": "2025-07-05",
@@ -1075,8 +1075,8 @@
     "cells": 375.16,
     "comments": "First after Hybrid Rebalance",
     "epoch": 1751688000,
-    "cph": 22.007222586999344,
-    "cellph": 24.63296126066973
+    "coins_per_hour": 22.01,
+    "cells_per_hour": 24.63
   },
   {
     "date": "2025-07-06",
@@ -1088,8 +1088,8 @@
     "cells": 208.41,
     "comments": "Used RTO (After Respec)",
     "epoch": 1751774400,
-    "cph": 21.305443548387096,
-    "cellph": 21.00907258064516
+    "coins_per_hour": 21.31,
+    "cells_per_hour": 21.01
   },
   {
     "date": "2025-07-06",
@@ -1101,8 +1101,8 @@
     "cells": 168.84,
     "comments": "RTO Banned",
     "epoch": 1751774400,
-    "cph": 18.751334044823906,
-    "cellph": 18.01921024546425
+    "coins_per_hour": 18.75,
+    "cells_per_hour": 18.02
   },
   {
     "date": "2025-07-08",
@@ -1114,8 +1114,8 @@
     "cells": 217.8,
     "comments": "New BANS / dMG Master",
     "epoch": 1751947200,
-    "cph": 23.12625250501002,
-    "cellph": 21.82364729458918
+    "coins_per_hour": 23.13,
+    "cells_per_hour": 21.82
   },
   {
     "date": "2025-07-09",
@@ -1127,8 +1127,8 @@
     "cells": 209.86,
     "comments": "day run new bans",
     "epoch": 1752033600,
-    "cph": 23.183794466403164,
-    "cellph": 20.737154150197632
+    "coins_per_hour": 23.18,
+    "cells_per_hour": 20.74
   },
   {
     "date": "2025-07-09",
@@ -1140,8 +1140,8 @@
     "cells": 389.86,
     "comments": "first overnight - new bans",
     "epoch": 1752033600,
-    "cph": 23.464751958224543,
-    "cellph": 25.447780678851174
+    "coins_per_hour": 23.46,
+    "cells_per_hour": 25.45
   },
   {
     "date": "2025-07-10",
@@ -1153,8 +1153,8 @@
     "cells": 114.23,
     "comments": "ehp Farm t14",
     "epoch": 1752120000,
-    "cph": 26.349112426035504,
-    "cellph": 22.530571992110453
+    "coins_per_hour": 26.35,
+    "cells_per_hour": 22.53
   },
   {
     "date": "2025-07-10",
@@ -1166,8 +1166,8 @@
     "cells": 381.15,
     "comments": "",
     "epoch": 1752120000,
-    "cph": 23.179503916449086,
-    "cellph": 24.87924281984334
+    "coins_per_hour": 23.18,
+    "cells_per_hour": 24.88
   },
   {
     "date": "2025-07-11",
@@ -1179,8 +1179,8 @@
     "cells": 141.48,
     "comments": "",
     "epoch": 1752206400,
-    "cph": 24.738227146814406,
-    "cellph": 19.59556786703601
+    "coins_per_hour": 24.74,
+    "cells_per_hour": 19.6
   },
   {
     "date": "2025-07-11",
@@ -1192,8 +1192,8 @@
     "cells": 353.73,
     "comments": "",
     "epoch": 1752206400,
-    "cph": 22.68693849343469,
-    "cellph": 24.44574982722875
+    "coins_per_hour": 22.69,
+    "cells_per_hour": 24.45
   },
   {
     "date": "2025-07-12",
@@ -1205,8 +1205,8 @@
     "cells": 393.61,
     "comments": "medal runs during day",
     "epoch": 1752292800,
-    "cph": 21.31108230719378,
-    "cellph": 25.509397278029812
+    "coins_per_hour": 21.31,
+    "cells_per_hour": 25.51
   },
   {
     "date": "2025-07-16",
@@ -1218,8 +1218,8 @@
     "cells": 388.46,
     "comments": "",
     "epoch": 1752638400,
-    "cph": 25.237793278376664,
-    "cellph": 24.63284717818643
+    "coins_per_hour": 25.24,
+    "cells_per_hour": 24.63
   },
   {
     "date": "2025-07-17",
@@ -1231,8 +1231,8 @@
     "cells": 136.18,
     "comments": "T13 daytime farm w/IS100",
     "epoch": 1752724800,
-    "cph": 24.493723849372387,
-    "cellph": 18.99302649930265
+    "coins_per_hour": 24.49,
+    "cells_per_hour": 18.99
   },
   {
     "date": "2025-07-17",
@@ -1244,8 +1244,8 @@
     "cells": 392.76,
     "comments": "",
     "epoch": 1752724800,
-    "cph": 25.643271088216355,
-    "cellph": 25.290405666452028
+    "coins_per_hour": 25.64,
+    "cells_per_hour": 25.29
   },
   {
     "date": "2025-07-17",
@@ -1257,8 +1257,8 @@
     "cells": 221.33,
     "comments": "First run w/IS+0",
     "epoch": 1752724800,
-    "cph": 26.954682779456196,
-    "cellph": 22.289023162134946
+    "coins_per_hour": 26.95,
+    "cells_per_hour": 22.29
   },
   {
     "date": "2025-07-17",
@@ -1270,8 +1270,8 @@
     "cells": 223.47,
     "comments": "Overnight with IS",
     "epoch": 1752724800,
-    "cph": 25.92,
-    "cellph": 21.801951219512194
+    "coins_per_hour": 25.92,
+    "cells_per_hour": 21.8
   },
   {
     "date": "2025-07-18",
@@ -1283,8 +1283,8 @@
     "cells": 221.33,
     "comments": "Overnight with IS",
     "epoch": 1752811200,
-    "cph": 26.954682779456196,
-    "cellph": 22.289023162134946
+    "coins_per_hour": 26.95,
+    "cells_per_hour": 22.29
   },
   {
     "date": "2025-07-18",
@@ -1296,8 +1296,8 @@
     "cells": 223.47,
     "comments": "Overnight with IS",
     "epoch": 1752811200,
-    "cph": 25.92,
-    "cellph": 21.801951219512194
+    "coins_per_hour": 25.92,
+    "cells_per_hour": 21.8
   },
   {
     "date": "2025-07-19",
@@ -1309,8 +1309,8 @@
     "cells": 134.77,
     "comments": "IS+1 and respec",
     "epoch": 1752897600,
-    "cph": 28.880055788005578,
-    "cellph": 18.79637377963738
+    "coins_per_hour": 28.88,
+    "cells_per_hour": 18.8
   },
   {
     "date": "2025-07-19",
@@ -1322,8 +1322,8 @@
     "cells": 375.9,
     "comments": "IS+1 overnight",
     "epoch": 1752897600,
-    "cph": 26.808108108108105,
-    "cellph": 25.398648648648646
+    "coins_per_hour": 26.81,
+    "cells_per_hour": 25.4
   },
   {
     "date": "2025-07-20",
@@ -1335,8 +1335,8 @@
     "cells": 147.73,
     "comments": "",
     "epoch": 1752984000,
-    "cph": 30.299270072992705,
-    "cellph": 21.566423357664235
+    "coins_per_hour": 30.3,
+    "cells_per_hour": 21.57
   },
   {
     "date": "2025-07-20",
@@ -1348,8 +1348,8 @@
     "cells": 373.63,
     "comments": "",
     "epoch": 1752984000,
-    "cph": 26.316778523489933,
-    "cellph": 25.075838926174495
+    "coins_per_hour": 26.32,
+    "cells_per_hour": 25.08
   },
   {
     "date": "2025-07-21",
@@ -1361,8 +1361,8 @@
     "cells": 381.64,
     "comments": "",
     "epoch": 1753070400,
-    "cph": 28.080132450331124,
-    "cellph": 25.274172185430462
+    "coins_per_hour": 28.08,
+    "cells_per_hour": 25.27
   },
   {
     "date": "2025-07-23",
@@ -1374,8 +1374,8 @@
     "cells": 206.63,
     "comments": "After T14 milestone. midnight respec and run",
     "epoch": 1753243200,
-    "cph": 28.21177685950413,
-    "cellph": 21.34607438016529
+    "coins_per_hour": 28.21,
+    "cells_per_hour": 21.35
   },
   {
     "date": "2025-07-24",
@@ -1387,8 +1387,8 @@
     "cells": 211.66,
     "comments": "last is+1 ?",
     "epoch": 1753329600,
-    "cph": 28.19421487603306,
-    "cellph": 21.865702479338843
+    "coins_per_hour": 28.19,
+    "cells_per_hour": 21.87
   },
   {
     "date": "2025-07-24",
@@ -1400,8 +1400,8 @@
     "cells": 386.09,
     "comments": "First IS+2 ?",
     "epoch": 1753329600,
-    "cph": 28.782290279627166,
-    "cellph": 25.705059920106525
+    "coins_per_hour": 28.78,
+    "cells_per_hour": 25.71
   },
   {
     "date": "2025-07-25",
@@ -1413,8 +1413,8 @@
     "cells": 145.27,
     "comments": "",
     "epoch": 1753416000,
-    "cph": 34.03053435114504,
-    "cellph": 22.178625954198477
+    "coins_per_hour": 34.03,
+    "cells_per_hour": 22.18
   },
   {
     "date": "2025-07-25",
@@ -1426,8 +1426,8 @@
     "cells": 232.43,
     "comments": "",
     "epoch": 1753416000,
-    "cph": 30.780364372469634,
-    "cellph": 23.525303643724694
+    "coins_per_hour": 30.78,
+    "cells_per_hour": 23.53
   },
   {
     "date": "2025-07-26",
@@ -1439,8 +1439,8 @@
     "cells": 108.14,
     "comments": "eHP T14",
     "epoch": 1753502400,
-    "cph": 40.19184652278177,
-    "cellph": 25.93285371702638
+    "coins_per_hour": 40.19,
+    "cells_per_hour": 25.93
   },
   {
     "date": "2025-07-26",
@@ -1452,8 +1452,8 @@
     "cells": 188.43,
     "comments": "started with UW on / no FU Lock, full idle",
     "epoch": 1753502400,
-    "cph": 25.438370846730976,
-    "cellph": 20.19614147909968
+    "coins_per_hour": 25.44,
+    "cells_per_hour": 20.2
   },
   {
     "date": "2025-07-27",
@@ -1465,8 +1465,8 @@
     "cells": 124.42,
     "comments": "Optimized eHP T14 daytime run",
     "epoch": 1753588800,
-    "cph": 42.62946428571428,
-    "cellph": 27.772321428571427
+    "coins_per_hour": 42.63,
+    "cells_per_hour": 27.77
   },
   {
     "date": "2025-07-27",
@@ -1478,8 +1478,8 @@
     "cells": 109.75,
     "comments": "t14 full auto-run",
     "epoch": 1753588800,
-    "cph": 33.22950819672131,
-    "cellph": 25.70257611241218
+    "coins_per_hour": 33.23,
+    "cells_per_hour": 25.7
   },
   {
     "date": "2025-07-27",
@@ -1491,8 +1491,8 @@
     "cells": 186.81,
     "comments": "t12 overnight",
     "epoch": 1753588800,
-    "cph": 25.67570498915401,
-    "cellph": 20.261388286334054
+    "coins_per_hour": 25.68,
+    "cells_per_hour": 20.26
   },
   {
     "date": "2025-07-28",
@@ -1504,8 +1504,8 @@
     "cells": 80.29,
     "comments": "t14 optimized, no CL/SM",
     "epoch": 1753675200,
-    "cph": 36.80579710144927,
-    "cellph": 23.272463768115944
+    "coins_per_hour": 36.81,
+    "cells_per_hour": 23.27
   },
   {
     "date": "2025-07-28",
@@ -1517,8 +1517,8 @@
     "cells": 128.35,
     "comments": "t14 optimized, (1st CB at 1091)",
     "epoch": 1753675200,
-    "cph": 34.9890590809628,
-    "cellph": 28.08533916849015
+    "coins_per_hour": 34.99,
+    "cells_per_hour": 28.09
   },
   {
     "date": "2025-07-28",
@@ -1530,8 +1530,8 @@
     "cells": 123.15,
     "comments": "t14 run (mostly in car)",
     "epoch": 1753675200,
-    "cph": 37.184444444444445,
-    "cellph": 27.366666666666667
+    "coins_per_hour": 37.18,
+    "cells_per_hour": 27.37
   },
   {
     "date": "2025-07-28",
@@ -1543,8 +1543,8 @@
     "cells": 231.98,
     "comments": "t12 overnight, CL in AM",
     "epoch": 1753675200,
-    "cph": 32.37731958762887,
-    "cellph": 23.915463917525773
+    "coins_per_hour": 32.38,
+    "cells_per_hour": 23.92
   },
   {
     "date": "2025-07-29",
@@ -1556,8 +1556,8 @@
     "cells": 121.77,
     "comments": "t14 AM run (1)",
     "epoch": 1753761600,
-    "cph": 38.82876712328767,
-    "cellph": 27.801369863013697
+    "coins_per_hour": 38.83,
+    "cells_per_hour": 27.8
   },
   {
     "date": "2025-07-29",
@@ -1569,8 +1569,8 @@
     "cells": 128.17,
     "comments": "(evening drive run)",
     "epoch": 1753761600,
-    "cph": 32.082135523613964,
-    "cellph": 26.318275154004105
+    "coins_per_hour": 32.08,
+    "cells_per_hour": 26.32
   },
   {
     "date": "2025-07-29",
@@ -1582,8 +1582,8 @@
     "cells": 225.41,
     "comments": "oernight after tournament respec",
     "epoch": 1753761600,
-    "cph": 31.691115702479337,
-    "cellph": 23.28615702479339
+    "coins_per_hour": 31.69,
+    "cells_per_hour": 23.29
   },
   {
     "date": "2025-07-30",
@@ -1595,8 +1595,8 @@
     "cells": 127.1,
     "comments": "",
     "epoch": 1753848000,
-    "cph": 37.34888888888889,
-    "cellph": 28.244444444444444
+    "coins_per_hour": 37.35,
+    "cells_per_hour": 28.24
   },
   {
     "date": "2025-07-30",
@@ -1608,8 +1608,8 @@
     "cells": 86.08,
     "comments": "Forgot CL ?",
     "epoch": 1753848000,
-    "cph": 36.635854341736696,
-    "cellph": 24.11204481792717
+    "coins_per_hour": 36.64,
+    "cells_per_hour": 24.11
   },
   {
     "date": "2025-07-30",
@@ -1621,8 +1621,8 @@
     "cells": 130.18,
     "comments": "evening run - hit 927T WallFort / 34.79T/sec regen",
     "epoch": 1753848000,
-    "cph": 40.27947598253275,
-    "cellph": 28.423580786026204
+    "coins_per_hour": 40.28,
+    "cells_per_hour": 28.42
   },
   {
     "date": "2025-07-30",
@@ -1634,8 +1634,8 @@
     "cells": 226.38,
     "comments": "full auto pick good run for t12",
     "epoch": 1753848000,
-    "cph": 32.24064171122995,
-    "cellph": 24.211764705882352
+    "coins_per_hour": 32.24,
+    "cells_per_hour": 24.21
   },
   {
     "date": "2025-07-31",
@@ -1647,8 +1647,8 @@
     "cells": 122.75,
     "comments": "First IS+3 to 720. near perfect perks",
     "epoch": 1753934400,
-    "cph": 41.8436018957346,
-    "cellph": 29.087677725118485
+    "coins_per_hour": 41.84,
+    "cells_per_hour": 29.09
   },
   {
     "date": "2025-07-31",
@@ -1660,8 +1660,8 @@
     "cells": 123.88,
     "comments": "end 6pm, late run ended overnight, no ss",
     "epoch": 1753934400,
-    "cph": 42.808056872037916,
-    "cellph": 29.355450236966824
+    "coins_per_hour": 42.81,
+    "cells_per_hour": 29.36
   },
   {
     "date": "2025-08-01",
@@ -1673,8 +1673,8 @@
     "cells": 125.46,
     "comments": "first GT+ run T14",
     "epoch": 1754020800,
-    "cph": 45.46495327102804,
-    "cellph": 29.31308411214953
+    "coins_per_hour": 45.46,
+    "cells_per_hour": 29.31
   },
   {
     "date": "2025-08-01",
@@ -1686,8 +1686,8 @@
     "cells": 229.8,
     "comments": "First GT+ run t12",
     "epoch": 1754020800,
-    "cph": 37.567567567567565,
-    "cellph": 23.88773388773389
+    "coins_per_hour": 37.57,
+    "cells_per_hour": 23.89
   },
   {
     "date": "2025-08-01",
@@ -1699,8 +1699,8 @@
     "cells": 239.44,
     "comments": "First GT+ overnight run t12",
     "epoch": 1754020800,
-    "cph": 37.74495967741935,
-    "cellph": 24.137096774193548
+    "coins_per_hour": 37.74,
+    "cells_per_hour": 24.14
   },
   {
     "date": "2025-08-02",
@@ -1712,8 +1712,8 @@
     "cells": 116.05,
     "comments": "2 failed T14 farm runs prior to this",
     "epoch": 1754107200,
-    "cph": 37.31516587677725,
-    "cellph": 27.5
+    "coins_per_hour": 37.32,
+    "cells_per_hour": 27.5
   },
   {
     "date": "2025-08-02",
@@ -1725,8 +1725,8 @@
     "cells": 247.2,
     "comments": "after Enhancements+ to 1.70 health",
     "epoch": 1754107200,
-    "cph": 40.773319959879636,
-    "cellph": 24.794383149448343
+    "coins_per_hour": 40.77,
+    "cells_per_hour": 24.79
   },
   {
     "date": "2025-08-03",
@@ -1738,7 +1738,7 @@
     "cells": 125.11,
     "comments": "First GT+2 T14",
     "epoch": 1754193600,
-    "cph": 49.54352941176471,
-    "cellph": 29.43764705882353
+    "coins_per_hour": 49.54,
+    "cells_per_hour": 29.44
   }
 ]
