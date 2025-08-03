@@ -32,38 +32,39 @@ def parse_date(raw):
             continue
     raise ValueError(f"Invalid date format: '{raw}'")
 
+def parse_coin_value(raw):
+    value = raw.strip()
+    if value.endswith("q"):
+        return float(value[:-1]) * 1000  # Quadrillion → Trillions
+    elif value.endswith("Q"):
+        return float(value[:-1]) * 1_000_000  # Quintillion → Trillions
+    else:
+        return float(value)  # Already in Trillions
+
 def validate_row(row, index):
     try:
-        # Debug print raw row
         print(f"Validating row {index + 2}: {row}")
 
-        # Ensure mandatory fields are present and non-empty
         for field in MANDATORY_FIELDS:
             if field not in row or row[field].strip() == "":
                 raise ValueError(f"Missing value for '{field}'")
 
-        # Parse and validate date
         dt = parse_date(row["date"])
         row["date"] = dt.strftime("%Y-%m-%d")
         row["epoch"] = int(dt.timestamp())
 
-        # Type conversion
         row["tier"] = int(row["tier"])
         row["time"] = float(row["time"])
         row["waves"] = int(row["waves"])
-        # row["coins"] = float(row["coins"])
-        # row["cells"] = float(row["cells"])
-        row["cph"] = round(row["coins"] / row["time"], 2)
-        row["cellph"] = round(row["cells"] / row["time"], 2)
+        row["coins"] = parse_coin_value(row["coins"])
+        row["cells"] = float(row["cells"])
 
-        # Optional fields
         run_type = row.get("run_type", "").strip()
         row["run_type"] = fuzzy_match_run_type(run_type)
         row["comments"] = row.get("comments", "").strip()
 
-        # Derived fields
-        row["cph"] = row["coins"] / row["time"]
-        row["cellph"] = row["cells"] / row["time"]
+        row["coins_per_hour"] = round(row["coins"] / row["time"], 2)
+        row["cells_per_hour"] = round(row["cells"] / row["time"], 2)
 
         return row
     except Exception as e:
@@ -83,7 +84,6 @@ def main():
     if not os.path.exists(INPUT_CSV):
         print(f"Error: '{INPUT_CSV}' not found.")
         return
-
 
     with open(INPUT_CSV, newline='', encoding='utf-8-sig') as csvfile:
         reader = csv.DictReader(csvfile)
