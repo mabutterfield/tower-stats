@@ -51,8 +51,10 @@ def validate_row(row, index):
         row["tier"] = int(row["tier"])
         row["time"] = float(row["time"])
         row["waves"] = int(row["waves"])
-        row["coins"] = float(row["coins"])
-        row["cells"] = float(row["cells"])
+        # row["coins"] = float(row["coins"])
+        # row["cells"] = float(row["cells"])
+        row["cph"] = round(row["coins"] / row["time"], 2)
+        row["cellph"] = round(row["cells"] / row["time"], 2)
 
         # Optional fields
         run_type = row.get("run_type", "").strip()
