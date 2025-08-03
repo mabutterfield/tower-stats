@@ -1,6 +1,7 @@
 import csv
 import json
 import os
+import re
 import shutil
 from datetime import datetime
 from difflib import get_close_matches
@@ -50,28 +51,50 @@ def parse_cell_or_dice_value(raw):
     else:
         return float(value) * 1_000  # Default to Thousands
 
+
+
+
+def parse_time(value):
+    try:
+        # If it's already a float, just return it
+        return float(value)
+    except ValueError:
+        pass
+
+    # Look for h/m format
+    pattern = r'(?:(\d+)h)?(?:(\d+)m)?'
+    match = re.fullmatch(pattern, value.strip().lower())
+    if not match:
+        raise ValueError(f"Invalid time format: '{value}'")
+
+    hours = int(match.group(1)) if match.group(1) else 0
+    minutes = int(match.group(2)) if match.group(2) else 0
+    return round(hours + minutes / 60, 2)
+
+
 def validate_row(row, index):
     try:
-        print(f"Validating row {index + 2}: {row}")
+        # print(f"Validating row {index + 2}: {row}")
 
         for field in MANDATORY_FIELDS:
             if field not in row or row[field].strip() == "":
+                print(f"Validation error in row {index + 2}: {row}")
                 raise ValueError(f"Missing value for '{field}'")
-
+            
         dt = parse_date(row["date"])
         row["date"] = dt.strftime("%Y-%m-%d")
         row["epoch"] = int(dt.timestamp())
 
         row["tier"] = int(row["tier"])
-        row["time"] = float(row["time"])
+        row["time"] = parse_time(row["time"])
         row["waves"] = int(row["waves"])
-        row["coins"] = parse_coin_value(row["coins"])
-        row["cells"] = parse_cell_or_dice_value(row["cells"])
+        row["coins"] = int(parse_coin_value(row["coins"]))
+        row["cells"] = int(parse_cell_or_dice_value(row["cells"]))
 
         reroll_raw = row.get("rerolldice", "").strip()
         if reroll_raw:
-            row["rerolldice"] = parse_cell_or_dice_value(reroll_raw)
-            row["rerolldice_per_hour"] = round(row["rerolldice"] / row["time"], 2)
+            row["rerolldice"] = int(parse_cell_or_dice_value(reroll_raw))
+            row["rerolldice_per_hour"] = int(row["rerolldice"] / row["time"])
         else:
             row["rerolldice"] = 0
             row["rerolldice_per_hour"] = 0.0
@@ -80,12 +103,18 @@ def validate_row(row, index):
         row["run_type"] = fuzzy_match_run_type(run_type)
         row["comments"] = row.get("comments", "").strip()
 
-        row["coins_per_hour"] = round(row["coins"] / row["time"], 2)
-        row["cells_per_hour"] = round(row["cells"] / row["time"], 2)
+        row["coins_per_hour"] = int(row["coins"] / row["time"])
+        row["cells_per_hour"] = int(row["cells"] / row["time"])
 
         return row
     except Exception as e:
         raise ValueError(f"Row {index + 2}: {e}")
+
+
+
+
+
+
 
 def backup_existing_json():
     if os.path.exists(OUTPUT_JSON):

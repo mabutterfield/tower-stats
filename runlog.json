@@ -5,14 +5,14 @@
     "tier": 11,
     "time": 10.27,
     "waves": 7819,
-    "coins": 43660000000000.0,
-    "cells": 178570.0,
+    "coins": 43660000000000,
+    "cells": 178570,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745208000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4251217137293.09,
-    "cells_per_hour": 17387.54
+    "coins_per_hour": 4251217137293,
+    "cells_per_hour": 17387
   },
   {
     "date": "2025-04-22",
@@ -20,14 +20,14 @@
     "tier": 10,
     "time": 13.15,
     "waves": 10124,
-    "coins": 55000000000000.0,
-    "cells": 239840.0,
+    "coins": 55000000000000,
+    "cells": 239840,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745294400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4182509505703.42,
-    "cells_per_hour": 18238.78
+    "coins_per_hour": 4182509505703,
+    "cells_per_hour": 18238
   },
   {
     "date": "2025-04-22",
@@ -35,14 +35,14 @@
     "tier": 11,
     "time": 10.08,
     "waves": 7656,
-    "coins": 42960000000000.0,
-    "cells": 173260.0,
+    "coins": 42960000000000,
+    "cells": 173260,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745294400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4261904761904.76,
-    "cells_per_hour": 17188.49
+    "coins_per_hour": 4261904761904,
+    "cells_per_hour": 17188
   },
   {
     "date": "2025-04-23",
@@ -50,14 +50,14 @@
     "tier": 10,
     "time": 12.98,
     "waves": 9946,
-    "coins": 53650000000000.0,
-    "cells": 236100.0,
+    "coins": 53650000000000,
+    "cells": 236100,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745380800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4133281972265.02,
-    "cells_per_hour": 18189.52
+    "coins_per_hour": 4133281972265,
+    "cells_per_hour": 18189
   },
   {
     "date": "2025-04-23",
@@ -65,14 +65,14 @@
     "tier": 11,
     "time": 9.95,
     "waves": 7567,
-    "coins": 43840000000000.0,
-    "cells": 166740.0,
+    "coins": 43840000000000,
+    "cells": 166740,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745380800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4406030150753.77,
-    "cells_per_hour": 16757.79
+    "coins_per_hour": 4406030150753,
+    "cells_per_hour": 16757
   },
   {
     "date": "2025-04-24",
@@ -80,14 +80,14 @@
     "tier": 11,
     "time": 11.8,
     "waves": 8913,
-    "coins": 59870000000000.0,
-    "cells": 230200.0,
+    "coins": 59870000000000,
+    "cells": 230200,
     "rerolldice": 0,
     "comments": "First PBH/PGT run",
     "epoch": 1745467200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5073728813559.32,
-    "cells_per_hour": 19508.47
+    "coins_per_hour": 5073728813559,
+    "cells_per_hour": 19508
   },
   {
     "date": "2025-04-24",
@@ -95,14 +95,14 @@
     "tier": 11,
     "time": 11.73,
     "waves": 8940,
-    "coins": 62100000000000.0,
-    "cells": 238870.0,
+    "coins": 62100000000000,
+    "cells": 238870,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745467200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5294117647058.82,
-    "cells_per_hour": 20364.02
+    "coins_per_hour": 5294117647058,
+    "cells_per_hour": 20364
   },
   {
     "date": "2025-04-25",
@@ -110,14 +110,14 @@
     "tier": 12,
     "time": 7.55,
     "waves": 5488,
-    "coins": 35340000000000.0,
-    "cells": 110430.0,
+    "coins": 35340000000000,
+    "cells": 110430,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745553600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4680794701986.75,
-    "cells_per_hour": 14626.49
+    "coins_per_hour": 4680794701986,
+    "cells_per_hour": 14626
   },
   {
     "date": "2025-04-25",
@@ -125,14 +125,14 @@
     "tier": 11,
     "time": 11.68,
     "waves": 9016,
-    "coins": 62680000000000.0,
-    "cells": 237710.0,
+    "coins": 62680000000000,
+    "cells": 237710,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745553600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5366438356164.38,
-    "cells_per_hour": 20351.88
+    "coins_per_hour": 5366438356164,
+    "cells_per_hour": 20351
   },
   {
     "date": "2025-04-26",
@@ -140,14 +140,14 @@
     "tier": 12,
     "time": 7.27,
     "waves": 5363,
-    "coins": 33040000000000.0,
-    "cells": 106690.0,
+    "coins": 33040000000000,
+    "cells": 106690,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745640000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4544704264099.04,
-    "cells_per_hour": 14675.38
+    "coins_per_hour": 4544704264099,
+    "cells_per_hour": 14675
   },
   {
     "date": "2025-04-26",
@@ -155,14 +155,14 @@
     "tier": 11,
     "time": 11.7,
     "waves": 9000,
-    "coins": 64620000000000.01,
-    "cells": 233750.0,
+    "coins": 64620000000000,
+    "cells": 233750,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745640000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5523076923076.92,
-    "cells_per_hour": 19978.63
+    "coins_per_hour": 5523076923076,
+    "cells_per_hour": 19978
   },
   {
     "date": "2025-04-27",
@@ -170,14 +170,14 @@
     "tier": 11,
     "time": 11.98,
     "waves": 9089,
-    "coins": 68239999999999.99,
-    "cells": 241530.0,
+    "coins": 68239999999999,
+    "cells": 241530,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745726400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5696160267111.85,
-    "cells_per_hour": 20161.1
+    "coins_per_hour": 5696160267111,
+    "cells_per_hour": 20161
   },
   {
     "date": "2025-04-28",
@@ -185,14 +185,14 @@
     "tier": 11,
     "time": 11.65,
     "waves": 8956,
-    "coins": 66569999999999.99,
-    "cells": 238200.0,
+    "coins": 66569999999999,
+    "cells": 238200,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1745812800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5714163090128.75,
-    "cells_per_hour": 20446.35
+    "coins_per_hour": 5714163090128,
+    "cells_per_hour": 20446
   },
   {
     "date": "2025-04-28",
@@ -200,14 +200,14 @@
     "tier": 13,
     "time": 4.93,
     "waves": 3739,
-    "coins": 27300000000000.0,
-    "cells": 57990.0,
+    "coins": 27300000000000,
+    "cells": 57990,
     "rerolldice": 0,
     "comments": "Trial Farm Run of T13",
     "epoch": 1745812800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5537525354969.57,
-    "cells_per_hour": 11762.68
+    "coins_per_hour": 5537525354969,
+    "cells_per_hour": 11762
   },
   {
     "date": "2025-04-28",
@@ -215,14 +215,14 @@
     "tier": 10,
     "time": 14.9,
     "waves": 10551,
-    "coins": 83600000000000.0,
-    "cells": 309270.0,
+    "coins": 83600000000000,
+    "cells": 309270,
     "rerolldice": 0,
     "comments": "Cash Card Unequipped",
     "epoch": 1745812800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5610738255033.56,
-    "cells_per_hour": 20756.38
+    "coins_per_hour": 5610738255033,
+    "cells_per_hour": 20756
   },
   {
     "date": "2025-04-29",
@@ -230,14 +230,14 @@
     "tier": 11,
     "time": 11.73,
     "waves": 8976,
-    "coins": 73170000000000.0,
-    "cells": 238520.0,
+    "coins": 73170000000000,
+    "cells": 238520,
     "rerolldice": 0,
     "comments": "Cash Card Unequipped",
     "epoch": 1745899200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 6237851662404.09,
-    "cells_per_hour": 20334.19
+    "coins_per_hour": 6237851662404,
+    "cells_per_hour": 20334
   },
   {
     "date": "2025-04-29",
@@ -245,14 +245,14 @@
     "tier": 11,
     "time": 11.75,
     "waves": 9007,
-    "coins": 73320000000000.0,
-    "cells": 239280.0,
+    "coins": 73320000000000,
+    "cells": 239280,
     "rerolldice": 0,
     "comments": "Cash Card Equipped",
     "epoch": 1745899200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 6240000000000.0,
-    "cells_per_hour": 20364.26
+    "coins_per_hour": 6240000000000,
+    "cells_per_hour": 20364
   },
   {
     "date": "2025-05-05",
@@ -260,14 +260,14 @@
     "tier": 10,
     "time": 15.45,
     "waves": 11686,
-    "coins": 100600000000000.0,
-    "cells": 308540.0,
+    "coins": 100600000000000,
+    "cells": 308540,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746417600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 6511326860841.42,
-    "cells_per_hour": 19970.23
+    "coins_per_hour": 6511326860841,
+    "cells_per_hour": 19970
   },
   {
     "date": "2025-05-06",
@@ -275,14 +275,14 @@
     "tier": 12,
     "time": 6.68,
     "waves": 4929,
-    "coins": 39030000000000.0,
-    "cells": 79980.0,
+    "coins": 39030000000000,
+    "cells": 79980,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746504000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 5842814371257.49,
-    "cells_per_hour": 11973.05
+    "coins_per_hour": 5842814371257,
+    "cells_per_hour": 11973
   },
   {
     "date": "2025-05-06",
@@ -290,14 +290,14 @@
     "tier": 16,
     "time": 0.63,
     "waves": 393,
-    "coins": 65000000000.0,
-    "cells": 597.0,
+    "coins": 65000000000,
+    "cells": 597,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746504000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 103174603174.6,
-    "cells_per_hour": 947.62
+    "coins_per_hour": 103174603174,
+    "cells_per_hour": 947
   },
   {
     "date": "2025-05-06",
@@ -305,14 +305,14 @@
     "tier": 17,
     "time": 0.25,
     "waves": 157,
-    "coins": 9000000000.0,
-    "cells": 140.0,
+    "coins": 9000000000,
+    "cells": 140,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746504000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 36000000000.0,
-    "cells_per_hour": 560.0
+    "coins_per_hour": 36000000000,
+    "cells_per_hour": 560
   },
   {
     "date": "2025-05-06",
@@ -320,14 +320,14 @@
     "tier": 10,
     "time": 15.02,
     "waves": 11694,
-    "coins": 103990000000000.0,
-    "cells": 313960.0,
+    "coins": 103990000000000,
+    "cells": 313960,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746504000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 6923435419440.75,
-    "cells_per_hour": 20902.8
+    "coins_per_hour": 6923435419440,
+    "cells_per_hour": 20902
   },
   {
     "date": "2025-05-07",
@@ -335,14 +335,14 @@
     "tier": 15,
     "time": 1.05,
     "waves": 753,
-    "coins": 152000000000.0,
-    "cells": 1920.0,
+    "coins": 152000000000,
+    "cells": 1920,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746590400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 144761904761.9,
-    "cells_per_hour": 1828.57
+    "coins_per_hour": 144761904761,
+    "cells_per_hour": 1828
   },
   {
     "date": "2025-05-07",
@@ -350,14 +350,14 @@
     "tier": 13,
     "time": 6.37,
     "waves": 4530,
-    "coins": 2600000000000.0,
-    "cells": 65140.0,
+    "coins": 2600000000000,
+    "cells": 65140,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746590400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 408163265306.12,
-    "cells_per_hour": 10226.06
+    "coins_per_hour": 408163265306,
+    "cells_per_hour": 10226
   },
   {
     "date": "2025-05-08",
@@ -365,14 +365,14 @@
     "tier": 11,
     "time": 11.93,
     "waves": 9131,
-    "coins": 97210000000000.0,
-    "cells": 244830.0,
+    "coins": 97210000000000,
+    "cells": 244830,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746676800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8148365465213.75,
-    "cells_per_hour": 20522.21
+    "coins_per_hour": 8148365465213,
+    "cells_per_hour": 20522
   },
   {
     "date": "2025-05-08",
@@ -380,14 +380,14 @@
     "tier": 11,
     "time": 12.72,
     "waves": 9757,
-    "coins": 103370000000000.0,
-    "cells": 265430.0,
+    "coins": 103370000000000,
+    "cells": 265430,
     "rerolldice": 0,
     "comments": "range 76 + LMS",
     "epoch": 1746676800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8126572327044.02,
-    "cells_per_hour": 20867.14
+    "coins_per_hour": 8126572327044,
+    "cells_per_hour": 20867
   },
   {
     "date": "2025-05-09",
@@ -395,14 +395,14 @@
     "tier": 12,
     "time": 8.12,
     "waves": 5921,
-    "coins": 59170000000000.0,
-    "cells": 132380.0,
+    "coins": 59170000000000,
+    "cells": 132380,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746763200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 7286945812807.88,
-    "cells_per_hour": 16302.96
+    "coins_per_hour": 7286945812807,
+    "cells_per_hour": 16302
   },
   {
     "date": "2025-05-09",
@@ -410,14 +410,14 @@
     "tier": 11,
     "time": 12.43,
     "waves": 9549,
-    "coins": 101770000000000.0,
-    "cells": 262110.0,
+    "coins": 101770000000000,
+    "cells": 262110,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746763200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8187449718423.17,
-    "cells_per_hour": 21086.89
+    "coins_per_hour": 8187449718423,
+    "cells_per_hour": 21086
   },
   {
     "date": "2025-05-10",
@@ -425,14 +425,14 @@
     "tier": 12,
     "time": 8.15,
     "waves": 5982,
-    "coins": 59310000000000.0,
-    "cells": 130250.0,
+    "coins": 59310000000000,
+    "cells": 130250,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746849600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 7277300613496.93,
-    "cells_per_hour": 15981.6
+    "coins_per_hour": 7277300613496,
+    "cells_per_hour": 15981
   },
   {
     "date": "2025-05-10",
@@ -440,14 +440,14 @@
     "tier": 11,
     "time": 12.62,
     "waves": 9704,
-    "coins": 105290000000000.0,
-    "cells": 270090.0,
+    "coins": 105290000000000,
+    "cells": 270090,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746849600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8343106180665.61,
-    "cells_per_hour": 21401.74
+    "coins_per_hour": 8343106180665,
+    "cells_per_hour": 21401
   },
   {
     "date": "2025-05-11",
@@ -455,14 +455,14 @@
     "tier": 12,
     "time": 7.78,
     "waves": 5816,
-    "coins": 57630000000000.0,
-    "cells": 115750.0,
+    "coins": 57630000000000,
+    "cells": 115750,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746936000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 7407455012853.47,
-    "cells_per_hour": 14877.89
+    "coins_per_hour": 7407455012853,
+    "cells_per_hour": 14877
   },
   {
     "date": "2025-05-11",
@@ -470,14 +470,14 @@
     "tier": 10,
     "time": 15.58,
     "waves": 12197,
-    "coins": 119340000000000.0,
-    "cells": 330930.0,
+    "coins": 119340000000000,
+    "cells": 330930,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1746936000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 7659820282413.35,
-    "cells_per_hour": 21240.69
+    "coins_per_hour": 7659820282413,
+    "cells_per_hour": 21240
   },
   {
     "date": "2025-05-12",
@@ -485,14 +485,14 @@
     "tier": 11,
     "time": 12.07,
     "waves": 9299,
-    "coins": 98020000000000.0,
-    "cells": 253350.0,
+    "coins": 98020000000000,
+    "cells": 253350,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747022400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8120961060480.53,
-    "cells_per_hour": 20990.06
+    "coins_per_hour": 8120961060480,
+    "cells_per_hour": 20990
   },
   {
     "date": "2025-05-12",
@@ -500,14 +500,14 @@
     "tier": 11,
     "time": 12.72,
     "waves": 9810,
-    "coins": 112620000000000.0,
-    "cells": 271990.0,
+    "coins": 112620000000000,
+    "cells": 271990,
     "rerolldice": 0,
     "comments": "WTH did I upgrade?",
     "epoch": 1747022400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8853773584905.66,
-    "cells_per_hour": 21382.86
+    "coins_per_hour": 8853773584905,
+    "cells_per_hour": 21382
   },
   {
     "date": "2025-05-13",
@@ -515,14 +515,14 @@
     "tier": 11,
     "time": 12.62,
     "waves": 9744,
-    "coins": 107840000000000.0,
-    "cells": 268280.0,
+    "coins": 107840000000000,
+    "cells": 268280,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747108800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8545166402535.66,
-    "cells_per_hour": 21258.32
+    "coins_per_hour": 8545166402535,
+    "cells_per_hour": 21258
   },
   {
     "date": "2025-05-14",
@@ -530,14 +530,14 @@
     "tier": 11,
     "time": 13.15,
     "waves": 9806,
-    "coins": 111470000000000.0,
-    "cells": 269430.0,
+    "coins": 111470000000000,
+    "cells": 269430,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747195200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8476806083650.19,
-    "cells_per_hour": 20488.97
+    "coins_per_hour": 8476806083650,
+    "cells_per_hour": 20488
   },
   {
     "date": "2025-05-15",
@@ -545,14 +545,14 @@
     "tier": 11,
     "time": 13.22,
     "waves": 9909,
-    "coins": 112230000000000.0,
-    "cells": 267510.0,
+    "coins": 112230000000000,
+    "cells": 267510,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747281600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8489409984871.41,
-    "cells_per_hour": 20235.25
+    "coins_per_hour": 8489409984871,
+    "cells_per_hour": 20235
   },
   {
     "date": "2025-05-15",
@@ -560,14 +560,14 @@
     "tier": 10,
     "time": 15.67,
     "waves": 12318,
-    "coins": 126150000000000.0,
-    "cells": 338570.0,
+    "coins": 126150000000000,
+    "cells": 338570,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747281600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8050414805360.56,
-    "cells_per_hour": 21606.25
+    "coins_per_hour": 8050414805360,
+    "cells_per_hour": 21606
   },
   {
     "date": "2025-05-16",
@@ -575,14 +575,14 @@
     "tier": 12,
     "time": 8.05,
     "waves": 6053,
-    "coins": 64660000000000.0,
-    "cells": 136900.0,
+    "coins": 64660000000000,
+    "cells": 136900,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747368000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8032298136645.96,
-    "cells_per_hour": 17006.21
+    "coins_per_hour": 8032298136645,
+    "cells_per_hour": 17006
   },
   {
     "date": "2025-05-16",
@@ -590,14 +590,14 @@
     "tier": 15,
     "time": 1.67,
     "waves": 1138,
-    "coins": 431000000000.0,
-    "cells": 5510.0,
+    "coins": 431000000000,
+    "cells": 5510,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747368000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 258083832335.33,
-    "cells_per_hour": 3299.4
+    "coins_per_hour": 258083832335,
+    "cells_per_hour": 3299
   },
   {
     "date": "2025-05-16",
@@ -605,14 +605,14 @@
     "tier": 11,
     "time": 13.08,
     "waves": 9964,
-    "coins": 115770000000000.0,
-    "cells": 276130.0,
+    "coins": 115770000000000,
+    "cells": 276130,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747368000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8850917431192.66,
-    "cells_per_hour": 21110.86
+    "coins_per_hour": 8850917431192,
+    "cells_per_hour": 21110
   },
   {
     "date": "2025-05-17",
@@ -620,14 +620,14 @@
     "tier": 11,
     "time": 13.12,
     "waves": 10080,
-    "coins": 118540000000000.0,
-    "cells": 284620.0,
+    "coins": 118540000000000,
+    "cells": 284620,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747454400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9035060975609.76,
-    "cells_per_hour": 21693.6
+    "coins_per_hour": 9035060975609,
+    "cells_per_hour": 21693
   },
   {
     "date": "2025-05-18",
@@ -635,14 +635,14 @@
     "tier": 11,
     "time": 12.98,
     "waves": 9992,
-    "coins": 117640000000000.0,
-    "cells": 271150.0,
+    "coins": 117640000000000,
+    "cells": 271150,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747540800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9063174114021.57,
-    "cells_per_hour": 20889.83
+    "coins_per_hour": 9063174114021,
+    "cells_per_hour": 20889
   },
   {
     "date": "2025-05-18",
@@ -650,14 +650,14 @@
     "tier": 11,
     "time": 13.15,
     "waves": 10078,
-    "coins": 120600000000000.0,
-    "cells": 284140.0,
+    "coins": 120600000000000,
+    "cells": 284140,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747540800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9171102661596.96,
-    "cells_per_hour": 21607.6
+    "coins_per_hour": 9171102661596,
+    "cells_per_hour": 21607
   },
   {
     "date": "2025-05-21",
@@ -665,14 +665,14 @@
     "tier": 10,
     "time": 16.08,
     "waves": 12257,
-    "coins": 141440000000000.0,
-    "cells": 345620.0,
+    "coins": 141440000000000,
+    "cells": 345620,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747800000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8796019900497.51,
-    "cells_per_hour": 21493.78
+    "coins_per_hour": 8796019900497,
+    "cells_per_hour": 21493
   },
   {
     "date": "2025-05-22",
@@ -680,14 +680,14 @@
     "tier": 12,
     "time": 8.5,
     "waves": 6093,
-    "coins": 69550000000000.0,
-    "cells": 134370.0,
+    "coins": 69550000000000,
+    "cells": 134370,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747886400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8182352941176.47,
-    "cells_per_hour": 15808.24
+    "coins_per_hour": 8182352941176,
+    "cells_per_hour": 15808
   },
   {
     "date": "2025-05-22",
@@ -695,14 +695,14 @@
     "tier": 11,
     "time": 12.63,
     "waves": 9561,
-    "coins": 116280000000000.0,
-    "cells": 263790.0,
+    "coins": 116280000000000,
+    "cells": 263790,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747886400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9206650831353.92,
-    "cells_per_hour": 20885.99
+    "coins_per_hour": 9206650831353,
+    "cells_per_hour": 20885
   },
   {
     "date": "2025-05-23",
@@ -710,14 +710,14 @@
     "tier": 11,
     "time": 13.05,
     "waves": 10024,
-    "coins": 123830000000000.0,
-    "cells": 282340.0,
+    "coins": 123830000000000,
+    "cells": 282340,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747972800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9488888888888.89,
-    "cells_per_hour": 21635.25
+    "coins_per_hour": 9488888888888,
+    "cells_per_hour": 21635
   },
   {
     "date": "2025-05-23",
@@ -725,14 +725,14 @@
     "tier": 11,
     "time": 13.22,
     "waves": 10170,
-    "coins": 131070000000000.0,
-    "cells": 289360.0,
+    "coins": 131070000000000,
+    "cells": 289360,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1747972800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9914523449319.21,
-    "cells_per_hour": 21888.05
+    "coins_per_hour": 9914523449319,
+    "cells_per_hour": 21888
   },
   {
     "date": "2025-05-24",
@@ -740,14 +740,14 @@
     "tier": 16,
     "time": 1.03,
     "waves": 639,
-    "coins": 221000000000.0,
-    "cells": 2720.0,
+    "coins": 221000000000,
+    "cells": 2720,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748059200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 214563106796.12,
-    "cells_per_hour": 2640.78
+    "coins_per_hour": 214563106796,
+    "cells_per_hour": 2640
   },
   {
     "date": "2025-05-24",
@@ -755,14 +755,14 @@
     "tier": 17,
     "time": 0.5,
     "waves": 320,
-    "coins": 52000000000.0,
-    "cells": 433.0,
+    "coins": 52000000000,
+    "cells": 433,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748059200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 104000000000.0,
-    "cells_per_hour": 866.0
+    "coins_per_hour": 104000000000,
+    "cells_per_hour": 866
   },
   {
     "date": "2025-05-24",
@@ -770,14 +770,14 @@
     "tier": 12,
     "time": 8.42,
     "waves": 6235,
-    "coins": 77130000000000.0,
-    "cells": 139810.0,
+    "coins": 77130000000000,
+    "cells": 139810,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748059200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9160332541567.7,
-    "cells_per_hour": 16604.51
+    "coins_per_hour": 9160332541567,
+    "cells_per_hour": 16604
   },
   {
     "date": "2025-05-24",
@@ -785,14 +785,14 @@
     "tier": 11,
     "time": 12.77,
     "waves": 9592,
-    "coins": 106660000000000.0,
-    "cells": 261140.0,
+    "coins": 106660000000000,
+    "cells": 261140,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748059200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 8352388410336.73,
-    "cells_per_hour": 20449.49
+    "coins_per_hour": 8352388410336,
+    "cells_per_hour": 20449
   },
   {
     "date": "2025-05-25",
@@ -800,14 +800,14 @@
     "tier": 12,
     "time": 8.48,
     "waves": 6338,
-    "coins": 91240000000000.0,
-    "cells": 143540.0,
+    "coins": 91240000000000,
+    "cells": 143540,
     "rerolldice": 0,
     "comments": "First with SL4",
     "epoch": 1748145600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 10759433962264.15,
-    "cells_per_hour": 16926.89
+    "coins_per_hour": 10759433962264,
+    "cells_per_hour": 16926
   },
   {
     "date": "2025-05-25",
@@ -815,14 +815,14 @@
     "tier": 11,
     "time": 13.03,
     "waves": 10097,
-    "coins": 147250000000000.0,
-    "cells": 283340.0,
+    "coins": 147250000000000,
+    "cells": 283340,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748145600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 11300844205679.2,
-    "cells_per_hour": 21745.2
+    "coins_per_hour": 11300844205679,
+    "cells_per_hour": 21745
   },
   {
     "date": "2025-05-26",
@@ -830,14 +830,14 @@
     "tier": 12,
     "time": 8.03,
     "waves": 6067,
-    "coins": 74990000000000.0,
-    "cells": 126220.0,
+    "coins": 74990000000000,
+    "cells": 126220,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748232000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 9338729763387.3,
-    "cells_per_hour": 15718.56
+    "coins_per_hour": 9338729763387,
+    "cells_per_hour": 15718
   },
   {
     "date": "2025-05-26",
@@ -845,14 +845,14 @@
     "tier": 11,
     "time": 12.62,
     "waves": 9702,
-    "coins": 140070000000000.0,
-    "cells": 257610.0,
+    "coins": 140070000000000,
+    "cells": 257610,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748232000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 11099049128367.67,
-    "cells_per_hour": 20412.84
+    "coins_per_hour": 11099049128367,
+    "cells_per_hour": 20412
   },
   {
     "date": "2025-05-28",
@@ -860,14 +860,14 @@
     "tier": 10,
     "time": 16.08,
     "waves": 12611,
-    "coins": 169050000000000.0,
-    "cells": 342150.0,
+    "coins": 169050000000000,
+    "cells": 342150,
     "rerolldice": 0,
     "comments": "Last before SF",
     "epoch": 1748404800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 10513059701492.54,
-    "cells_per_hour": 21277.99
+    "coins_per_hour": 10513059701492,
+    "cells_per_hour": 21277
   },
   {
     "date": "2025-05-29",
@@ -875,14 +875,14 @@
     "tier": 12,
     "time": 9.22,
     "waves": 6948,
-    "coins": 110030000000000.0,
-    "cells": 178400.0,
+    "coins": 110030000000000,
+    "cells": 178400,
     "rerolldice": 0,
     "comments": "First with SF",
     "epoch": 1748491200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 11933839479392.62,
-    "cells_per_hour": 19349.24
+    "coins_per_hour": 11933839479392,
+    "cells_per_hour": 19349
   },
   {
     "date": "2025-05-29",
@@ -890,14 +890,14 @@
     "tier": 11,
     "time": 14.1,
     "waves": 10889,
-    "coins": 162340000000000.0,
-    "cells": 318070.0,
+    "coins": 162340000000000,
+    "cells": 318070,
     "rerolldice": 0,
     "comments": "First 11 with SF",
     "epoch": 1748491200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 11513475177304.96,
-    "cells_per_hour": 22558.16
+    "coins_per_hour": 11513475177304,
+    "cells_per_hour": 22558
   },
   {
     "date": "2025-05-30",
@@ -905,14 +905,14 @@
     "tier": 14,
     "time": 5.08,
     "waves": 3548,
-    "coins": 23750000000000.0,
-    "cells": 95200.0,
+    "coins": 23750000000000,
+    "cells": 95200,
     "rerolldice": 0,
     "comments": "Farm t14 with SF eHP",
     "epoch": 1748577600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 4675196850393.7,
-    "cells_per_hour": 18740.16
+    "coins_per_hour": 4675196850393,
+    "cells_per_hour": 18740
   },
   {
     "date": "2025-05-30",
@@ -920,14 +920,14 @@
     "tier": 15,
     "time": 2.42,
     "waves": 1514,
-    "coins": 5930000000000.0,
-    "cells": 17740.0,
+    "coins": 5930000000000,
+    "cells": 17740,
     "rerolldice": 0,
     "comments": "Farm t15 with SF eHP",
     "epoch": 1748577600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 2450413223140.5,
-    "cells_per_hour": 7330.58
+    "coins_per_hour": 2450413223140,
+    "cells_per_hour": 7330
   },
   {
     "date": "2025-05-30",
@@ -935,14 +935,14 @@
     "tier": 11,
     "time": 14.27,
     "waves": 10994,
-    "coins": 171650000000000.0,
-    "cells": 324100.0,
+    "coins": 171650000000000,
+    "cells": 324100,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748577600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 12028731604765.24,
-    "cells_per_hour": 22711.98
+    "coins_per_hour": 12028731604765,
+    "cells_per_hour": 22711
   },
   {
     "date": "2025-05-31",
@@ -950,14 +950,14 @@
     "tier": 11,
     "time": 14.45,
     "waves": 11091,
-    "coins": 184600000000000.0,
-    "cells": 330680.0,
+    "coins": 184600000000000,
+    "cells": 330680,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1748664000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 12775086505190.31,
-    "cells_per_hour": 22884.43
+    "coins_per_hour": 12775086505190,
+    "cells_per_hour": 22884
   },
   {
     "date": "2025-06-01",
@@ -965,14 +965,14 @@
     "tier": 12,
     "time": 9.37,
     "waves": 6950,
-    "coins": 123440000000000.0,
-    "cells": 174360.0,
+    "coins": 123440000000000,
+    "cells": 174360,
     "rerolldice": 0,
     "comments": "Last before Workshop Respec",
     "epoch": 1748750400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 13173959445037.35,
-    "cells_per_hour": 18608.32
+    "coins_per_hour": 13173959445037,
+    "cells_per_hour": 18608
   },
   {
     "date": "2025-06-01",
@@ -980,14 +980,14 @@
     "tier": 11,
     "time": 14.23,
     "waves": 10902,
-    "coins": 185820000000000.0,
-    "cells": 334750.0,
+    "coins": 185820000000000,
+    "cells": 334750,
     "rerolldice": 0,
     "comments": "First with 1.3 Cell WS+",
     "epoch": 1748750400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 13058327477160.93,
-    "cells_per_hour": 23524.24
+    "coins_per_hour": 13058327477160,
+    "cells_per_hour": 23524
   },
   {
     "date": "2025-06-07",
@@ -995,14 +995,14 @@
     "tier": 14,
     "time": 5.17,
     "waves": 3488,
-    "coins": 40470000000000.0,
-    "cells": 116400.0,
+    "coins": 40470000000000,
+    "cells": 116400,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749268800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 7827852998065.76,
-    "cells_per_hour": 22514.51
+    "coins_per_hour": 7827852998065,
+    "cells_per_hour": 22514
   },
   {
     "date": "2025-06-07",
@@ -1010,14 +1010,14 @@
     "tier": 11,
     "time": 14.3,
     "waves": 11170,
-    "coins": 204890000000000.0,
-    "cells": 335980.0,
+    "coins": 204890000000000,
+    "cells": 335980,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749268800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 14327972027972.03,
-    "cells_per_hour": 23495.1
+    "coins_per_hour": 14327972027972,
+    "cells_per_hour": 23495
   },
   {
     "date": "2025-06-08",
@@ -1025,14 +1025,14 @@
     "tier": 12,
     "time": 9.62,
     "waves": 7160,
-    "coins": 139770000000000.02,
-    "cells": 191080.0,
+    "coins": 139770000000000,
+    "cells": 191080,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749355200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 14529106029106.03,
-    "cells_per_hour": 19862.79
+    "coins_per_hour": 14529106029106,
+    "cells_per_hour": 19862
   },
   {
     "date": "2025-06-08",
@@ -1040,14 +1040,14 @@
     "tier": 11,
     "time": 14.37,
     "waves": 11170,
-    "coins": 209530000000000.0,
-    "cells": 340420.0,
+    "coins": 209530000000000,
+    "cells": 340420,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749355200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 14581071677105.08,
-    "cells_per_hour": 23689.63
+    "coins_per_hour": 14581071677105,
+    "cells_per_hour": 23689
   },
   {
     "date": "2025-06-09",
@@ -1055,14 +1055,14 @@
     "tier": 13,
     "time": 6.67,
     "waves": 5011,
-    "coins": 99650000000000.0,
-    "cells": 117170.0,
+    "coins": 99650000000000,
+    "cells": 117170,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749441600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 14940029985007.5,
-    "cells_per_hour": 17566.72
+    "coins_per_hour": 14940029985007,
+    "cells_per_hour": 17566
   },
   {
     "date": "2025-06-09",
@@ -1070,14 +1070,14 @@
     "tier": 11,
     "time": 14.38,
     "waves": 11175,
-    "coins": 221030000000000.0,
-    "cells": 341760.0,
+    "coins": 221030000000000,
+    "cells": 341760,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749441600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 15370653685674.55,
-    "cells_per_hour": 23766.34
+    "coins_per_hour": 15370653685674,
+    "cells_per_hour": 23766
   },
   {
     "date": "2025-06-10",
@@ -1085,14 +1085,14 @@
     "tier": 11,
     "time": 14.42,
     "waves": 11271,
-    "coins": 225940000000000.0,
-    "cells": 339920.0,
+    "coins": 225940000000000,
+    "cells": 339920,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749528000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 15668515950069.35,
-    "cells_per_hour": 23572.82
+    "coins_per_hour": 15668515950069,
+    "cells_per_hour": 23572
   },
   {
     "date": "2025-06-11",
@@ -1100,14 +1100,14 @@
     "tier": 12,
     "time": 9.75,
     "waves": 7171,
-    "coins": 148500000000000.0,
-    "cells": 190240.0,
+    "coins": 148500000000000,
+    "cells": 190240,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749614400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 15230769230769.23,
-    "cells_per_hour": 19511.79
+    "coins_per_hour": 15230769230769,
+    "cells_per_hour": 19511
   },
   {
     "date": "2025-06-11",
@@ -1115,14 +1115,14 @@
     "tier": 11,
     "time": 14.43,
     "waves": 11238,
-    "coins": 233650000000000.0,
-    "cells": 340040.0,
+    "coins": 233650000000000,
+    "cells": 340040,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1749614400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 16191961191961.19,
-    "cells_per_hour": 23564.8
+    "coins_per_hour": 16191961191961,
+    "cells_per_hour": 23564
   },
   {
     "date": "2025-06-16",
@@ -1130,14 +1130,14 @@
     "tier": 12,
     "time": 9.77,
     "waves": 7228,
-    "coins": 161420000000000.0,
-    "cells": 192300.0,
+    "coins": 161420000000000,
+    "cells": 192300,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1750046400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 16522006141248.72,
-    "cells_per_hour": 19682.7
+    "coins_per_hour": 16522006141248,
+    "cells_per_hour": 19682
   },
   {
     "date": "2025-06-16",
@@ -1145,14 +1145,14 @@
     "tier": 11,
     "time": 14.82,
     "waves": 11437,
-    "coins": 241740000000000.0,
-    "cells": 343730.0,
+    "coins": 241740000000000,
+    "cells": 343730,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1750046400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 16311740890688.26,
-    "cells_per_hour": 23193.66
+    "coins_per_hour": 16311740890688,
+    "cells_per_hour": 23193
   },
   {
     "date": "2025-06-26",
@@ -1160,14 +1160,14 @@
     "tier": 12,
     "time": 9.93,
     "waves": 7341,
-    "coins": 189470000000000.0,
-    "cells": 198510.0,
+    "coins": 189470000000000,
+    "cells": 198510,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1750910400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 19080563947633.43,
-    "cells_per_hour": 19990.94
+    "coins_per_hour": 19080563947633,
+    "cells_per_hour": 19990
   },
   {
     "date": "2025-06-27",
@@ -1175,14 +1175,14 @@
     "tier": 13,
     "time": 6.8,
     "waves": 5151,
-    "coins": 151370000000000.0,
-    "cells": 130880.0,
+    "coins": 151370000000000,
+    "cells": 130880,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1750996800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 22260294117647.06,
-    "cells_per_hour": 19247.06
+    "coins_per_hour": 22260294117647,
+    "cells_per_hour": 19247
   },
   {
     "date": "2025-06-28",
@@ -1190,14 +1190,14 @@
     "tier": 12,
     "time": 9.02,
     "waves": 6350,
-    "coins": 153580000000000.0,
-    "cells": 152460.0,
+    "coins": 153580000000000,
+    "cells": 152460,
     "rerolldice": 0,
     "comments": "ended early- forgot UW",
     "epoch": 1751083200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 17026607538802.66,
-    "cells_per_hour": 16902.44
+    "coins_per_hour": 17026607538802,
+    "cells_per_hour": 16902
   },
   {
     "date": "2025-06-29",
@@ -1205,14 +1205,14 @@
     "tier": 13,
     "time": 6.77,
     "waves": 5020,
-    "coins": 144500000000000.0,
-    "cells": 119260.0,
+    "coins": 144500000000000,
+    "cells": 119260,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1751169600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 21344165435745.94,
-    "cells_per_hour": 17615.95
+    "coins_per_hour": 21344165435745,
+    "cells_per_hour": 17615
   },
   {
     "date": "2025-06-30",
@@ -1220,14 +1220,14 @@
     "tier": 11,
     "time": 14.9,
     "waves": 11534,
-    "coins": 311930000000000.0,
-    "cells": 356920.0,
+    "coins": 311930000000000,
+    "cells": 356920,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1751256000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 20934899328859.06,
-    "cells_per_hour": 23954.36
+    "coins_per_hour": 20934899328859,
+    "cells_per_hour": 23954
   },
   {
     "date": "2025-07-05",
@@ -1235,14 +1235,14 @@
     "tier": 11,
     "time": 15.23,
     "waves": 11751,
-    "coins": 335170000000000.0,
-    "cells": 375160.0,
+    "coins": 335170000000000,
+    "cells": 375160,
     "rerolldice": 0,
     "comments": "First after Hybrid Rebalance",
     "epoch": 1751688000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 22007222586999.34,
-    "cells_per_hour": 24632.96
+    "coins_per_hour": 22007222586999,
+    "cells_per_hour": 24632
   },
   {
     "date": "2025-07-06",
@@ -1250,14 +1250,14 @@
     "tier": 12,
     "time": 9.92,
     "waves": 7426,
-    "coins": 211350000000000.0,
-    "cells": 208410.0,
+    "coins": 211350000000000,
+    "cells": 208410,
     "rerolldice": 0,
     "comments": "Used RTO (After Respec)",
     "epoch": 1751774400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 21305443548387.1,
-    "cells_per_hour": 21009.07
+    "coins_per_hour": 21305443548387,
+    "cells_per_hour": 21009
   },
   {
     "date": "2025-07-06",
@@ -1265,14 +1265,14 @@
     "tier": 12,
     "time": 9.37,
     "waves": 6972,
-    "coins": 175700000000000.0,
-    "cells": 168840.0,
+    "coins": 175700000000000,
+    "cells": 168840,
     "rerolldice": 0,
     "comments": "RTO Banned",
     "epoch": 1751774400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 18751334044823.91,
-    "cells_per_hour": 18019.21
+    "coins_per_hour": 18751334044823,
+    "cells_per_hour": 18019
   },
   {
     "date": "2025-07-08",
@@ -1280,14 +1280,14 @@
     "tier": 12,
     "time": 9.98,
     "waves": 7535,
-    "coins": 230800000000000.0,
-    "cells": 217800.0,
+    "coins": 230800000000000,
+    "cells": 217800,
     "rerolldice": 0,
     "comments": "New BANS / dMG Master",
     "epoch": 1751947200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 23126252505010.02,
-    "cells_per_hour": 21823.65
+    "coins_per_hour": 23126252505010,
+    "cells_per_hour": 21823
   },
   {
     "date": "2025-07-09",
@@ -1295,14 +1295,14 @@
     "tier": 12,
     "time": 10.12,
     "waves": 7571,
-    "coins": 234620000000000.0,
-    "cells": 209860.0,
+    "coins": 234620000000000,
+    "cells": 209860,
     "rerolldice": 0,
     "comments": "day run new bans",
     "epoch": 1752033600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 23183794466403.16,
-    "cells_per_hour": 20737.15
+    "coins_per_hour": 23183794466403,
+    "cells_per_hour": 20737
   },
   {
     "date": "2025-07-09",
@@ -1310,14 +1310,14 @@
     "tier": 11,
     "time": 15.32,
     "waves": 11939,
-    "coins": 359480000000000.0,
-    "cells": 389860.0,
+    "coins": 359480000000000,
+    "cells": 389860,
     "rerolldice": 0,
     "comments": "first overnight - new bans",
     "epoch": 1752033600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 23464751958224.54,
-    "cells_per_hour": 25447.78
+    "coins_per_hour": 23464751958224,
+    "cells_per_hour": 25447
   },
   {
     "date": "2025-07-10",
@@ -1325,14 +1325,14 @@
     "tier": 14,
     "time": 5.07,
     "waves": 3700,
-    "coins": 133590000000000.0,
-    "cells": 114230.0,
+    "coins": 133590000000000,
+    "cells": 114230,
     "rerolldice": 0,
     "comments": "ehp Farm t14",
     "epoch": 1752120000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 26349112426035.5,
-    "cells_per_hour": 22530.57
+    "coins_per_hour": 26349112426035,
+    "cells_per_hour": 22530
   },
   {
     "date": "2025-07-10",
@@ -1340,14 +1340,14 @@
     "tier": 11,
     "time": 15.32,
     "waves": 11834,
-    "coins": 355110000000000.0,
-    "cells": 381150.0,
+    "coins": 355110000000000,
+    "cells": 381150,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1752120000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 23179503916449.09,
-    "cells_per_hour": 24879.24
+    "coins_per_hour": 23179503916449,
+    "cells_per_hour": 24879
   },
   {
     "date": "2025-07-11",
@@ -1355,14 +1355,14 @@
     "tier": 13,
     "time": 7.22,
     "waves": 5367,
-    "coins": 178610000000000.0,
-    "cells": 141480.0,
+    "coins": 178610000000000,
+    "cells": 141480,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1752206400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 24738227146814.41,
-    "cells_per_hour": 19595.57
+    "coins_per_hour": 24738227146814,
+    "cells_per_hour": 19595
   },
   {
     "date": "2025-07-11",
@@ -1370,14 +1370,14 @@
     "tier": 11,
     "time": 14.47,
     "waves": 11263,
-    "coins": 328280000000000.0,
-    "cells": 353730.0,
+    "coins": 328280000000000,
+    "cells": 353730,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1752206400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 22686938493434.69,
-    "cells_per_hour": 24445.75
+    "coins_per_hour": 22686938493434,
+    "cells_per_hour": 24445
   },
   {
     "date": "2025-07-12",
@@ -1385,14 +1385,14 @@
     "tier": 11,
     "time": 15.43,
     "waves": 11993,
-    "coins": 328830000000000.0,
-    "cells": 393610.0,
+    "coins": 328830000000000,
+    "cells": 393610,
     "rerolldice": 0,
     "comments": "medal runs during day",
     "epoch": 1752292800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 21311082307193.78,
-    "cells_per_hour": 25509.4
+    "coins_per_hour": 21311082307193,
+    "cells_per_hour": 25509
   },
   {
     "date": "2025-07-16",
@@ -1400,14 +1400,14 @@
     "tier": 11,
     "time": 15.77,
     "waves": 12098,
-    "coins": 398000000000000.0,
-    "cells": 388460.0,
+    "coins": 398000000000000,
+    "cells": 388460,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1752638400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 25237793278376.66,
-    "cells_per_hour": 24632.85
+    "coins_per_hour": 25237793278376,
+    "cells_per_hour": 24632
   },
   {
     "date": "2025-07-17",
@@ -1415,14 +1415,14 @@
     "tier": 13,
     "time": 7.17,
     "waves": 5337,
-    "coins": 175620000000000.0,
-    "cells": 136180.0,
+    "coins": 175620000000000,
+    "cells": 136180,
     "rerolldice": 0,
     "comments": "T13 daytime farm w/IS100",
     "epoch": 1752724800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 24493723849372.39,
-    "cells_per_hour": 18993.03
+    "coins_per_hour": 24493723849372,
+    "cells_per_hour": 18993
   },
   {
     "date": "2025-07-17",
@@ -1430,14 +1430,14 @@
     "tier": 11,
     "time": 15.53,
     "waves": 12103,
-    "coins": 398240000000000.0,
-    "cells": 392760.0,
+    "coins": 398240000000000,
+    "cells": 392760,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1752724800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 25643271088216.36,
-    "cells_per_hour": 25290.41
+    "coins_per_hour": 25643271088216,
+    "cells_per_hour": 25290
   },
   {
     "date": "2025-07-17",
@@ -1445,14 +1445,14 @@
     "tier": 12,
     "time": 9.93,
     "waves": 7692,
-    "coins": 267660000000000.03,
-    "cells": 221330.0,
+    "coins": 267660000000000,
+    "cells": 221330,
     "rerolldice": 0,
     "comments": "First run w/IS+0",
     "epoch": 1752724800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 26954682779456.2,
-    "cells_per_hour": 22289.02
+    "coins_per_hour": 26954682779456,
+    "cells_per_hour": 22289
   },
   {
     "date": "2025-07-17",
@@ -1460,14 +1460,14 @@
     "tier": 12,
     "time": 10.25,
     "waves": 7772,
-    "coins": 265680000000000.0,
-    "cells": 223470.0,
+    "coins": 265680000000000,
+    "cells": 223470,
     "rerolldice": 0,
     "comments": "Overnight with IS",
     "epoch": 1752724800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 25920000000000.0,
-    "cells_per_hour": 21801.95
+    "coins_per_hour": 25920000000000,
+    "cells_per_hour": 21801
   },
   {
     "date": "2025-07-18",
@@ -1475,14 +1475,14 @@
     "tier": 12,
     "time": 9.93,
     "waves": 7692,
-    "coins": 267660000000000.03,
-    "cells": 221330.0,
+    "coins": 267660000000000,
+    "cells": 221330,
     "rerolldice": 0,
     "comments": "Overnight with IS",
     "epoch": 1752811200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 26954682779456.2,
-    "cells_per_hour": 22289.02
+    "coins_per_hour": 26954682779456,
+    "cells_per_hour": 22289
   },
   {
     "date": "2025-07-18",
@@ -1490,14 +1490,14 @@
     "tier": 12,
     "time": 10.25,
     "waves": 7772,
-    "coins": 265680000000000.0,
-    "cells": 223470.0,
+    "coins": 265680000000000,
+    "cells": 223470,
     "rerolldice": 0,
     "comments": "Overnight with IS",
     "epoch": 1752811200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 25920000000000.0,
-    "cells_per_hour": 21801.95
+    "coins_per_hour": 25920000000000,
+    "cells_per_hour": 21801
   },
   {
     "date": "2025-07-19",
@@ -1505,14 +1505,14 @@
     "tier": 13,
     "time": 7.17,
     "waves": 5493,
-    "coins": 207070000000000.0,
-    "cells": 134770.0,
+    "coins": 207070000000000,
+    "cells": 134770,
     "rerolldice": 0,
     "comments": "IS+1 and respec",
     "epoch": 1752897600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 28880055788005.58,
-    "cells_per_hour": 18796.37
+    "coins_per_hour": 28880055788005,
+    "cells_per_hour": 18796
   },
   {
     "date": "2025-07-19",
@@ -1520,14 +1520,14 @@
     "tier": 11,
     "time": 14.8,
     "waves": 11942,
-    "coins": 396760000000000.0,
-    "cells": 375900.0,
+    "coins": 396760000000000,
+    "cells": 375900,
     "rerolldice": 0,
     "comments": "IS+1 overnight",
     "epoch": 1752897600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 26808108108108.11,
-    "cells_per_hour": 25398.65
+    "coins_per_hour": 26808108108108,
+    "cells_per_hour": 25398
   },
   {
     "date": "2025-07-20",
@@ -1535,14 +1535,14 @@
     "tier": 13,
     "time": 6.85,
     "waves": 5566,
-    "coins": 207550000000000.0,
-    "cells": 147730.0,
+    "coins": 207550000000000,
+    "cells": 147730,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1752984000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 30299270072992.7,
-    "cells_per_hour": 21566.42
+    "coins_per_hour": 30299270072992,
+    "cells_per_hour": 21566
   },
   {
     "date": "2025-07-20",
@@ -1550,14 +1550,14 @@
     "tier": 11,
     "time": 14.9,
     "waves": 11860,
-    "coins": 392120000000000.0,
-    "cells": 373630.0,
+    "coins": 392120000000000,
+    "cells": 373630,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1752984000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 26316778523489.93,
-    "cells_per_hour": 25075.84
+    "coins_per_hour": 26316778523489,
+    "cells_per_hour": 25075
   },
   {
     "date": "2025-07-21",
@@ -1565,14 +1565,14 @@
     "tier": 11,
     "time": 15.1,
     "waves": 12011,
-    "coins": 424010000000000.0,
-    "cells": 381640.0,
+    "coins": 424010000000000,
+    "cells": 381640,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1753070400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 28080132450331.12,
-    "cells_per_hour": 25274.17
+    "coins_per_hour": 28080132450331,
+    "cells_per_hour": 25274
   },
   {
     "date": "2025-07-23",
@@ -1580,14 +1580,14 @@
     "tier": 12,
     "time": 9.68,
     "waves": 7594,
-    "coins": 273089999999999.97,
-    "cells": 206630.0,
+    "coins": 273089999999999,
+    "cells": 206630,
     "rerolldice": 0,
     "comments": "After T14 milestone. midnight respec and run",
     "epoch": 1753243200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 28211776859504.13,
-    "cells_per_hour": 21346.07
+    "coins_per_hour": 28211776859504,
+    "cells_per_hour": 21346
   },
   {
     "date": "2025-07-24",
@@ -1595,14 +1595,14 @@
     "tier": 12,
     "time": 9.68,
     "waves": 7723,
-    "coins": 272920000000000.03,
-    "cells": 211660.0,
+    "coins": 272920000000000,
+    "cells": 211660,
     "rerolldice": 0,
     "comments": "last is+1 ?",
     "epoch": 1753329600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 28194214876033.06,
-    "cells_per_hour": 21865.7
+    "coins_per_hour": 28194214876033,
+    "cells_per_hour": 21865
   },
   {
     "date": "2025-07-24",
@@ -1610,14 +1610,14 @@
     "tier": 11,
     "time": 15.02,
     "waves": 12154,
-    "coins": 432310000000000.0,
-    "cells": 386090.0,
+    "coins": 432310000000000,
+    "cells": 386090,
     "rerolldice": 0,
     "comments": "First IS+2 ?",
     "epoch": 1753329600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 28782290279627.16,
-    "cells_per_hour": 25705.06
+    "coins_per_hour": 28782290279627,
+    "cells_per_hour": 25705
   },
   {
     "date": "2025-07-25",
@@ -1625,14 +1625,14 @@
     "tier": 13,
     "time": 6.55,
     "waves": 5491,
-    "coins": 222900000000000.0,
-    "cells": 145270.0,
+    "coins": 222900000000000,
+    "cells": 145270,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1753416000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 34030534351145.04,
-    "cells_per_hour": 22178.63
+    "coins_per_hour": 34030534351145,
+    "cells_per_hour": 22178
   },
   {
     "date": "2025-07-25",
@@ -1640,14 +1640,14 @@
     "tier": 12,
     "time": 9.88,
     "waves": 7897,
-    "coins": 304110000000000.0,
-    "cells": 232430.0,
+    "coins": 304110000000000,
+    "cells": 232430,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1753416000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 30780364372469.63,
-    "cells_per_hour": 23525.3
+    "coins_per_hour": 30780364372469,
+    "cells_per_hour": 23525
   },
   {
     "date": "2025-07-26",
@@ -1655,14 +1655,14 @@
     "tier": 14,
     "time": 4.17,
     "waves": 3682,
-    "coins": 167600000000000.0,
-    "cells": 108140.0,
+    "coins": 167600000000000,
+    "cells": 108140,
     "rerolldice": 0,
     "comments": "eHP T14",
     "epoch": 1753502400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 40191846522781.77,
-    "cells_per_hour": 25932.85
+    "coins_per_hour": 40191846522781,
+    "cells_per_hour": 25932
   },
   {
     "date": "2025-07-26",
@@ -1670,14 +1670,14 @@
     "tier": 12,
     "time": 9.33,
     "waves": 7529,
-    "coins": 237340000000000.0,
-    "cells": 188430.0,
+    "coins": 237340000000000,
+    "cells": 188430,
     "rerolldice": 0,
     "comments": "started with UW on / no FU Lock- full idle",
     "epoch": 1753502400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 25438370846730.98,
-    "cells_per_hour": 20196.14
+    "coins_per_hour": 25438370846730,
+    "cells_per_hour": 20196
   },
   {
     "date": "2025-07-27",
@@ -1685,14 +1685,14 @@
     "tier": 14,
     "time": 4.48,
     "waves": 3921,
-    "coins": 190980000000000.0,
-    "cells": 124420.0,
+    "coins": 190980000000000,
+    "cells": 124420,
     "rerolldice": 0,
     "comments": "Optimized eHP T14 daytime run",
     "epoch": 1753588800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 42629464285714.28,
-    "cells_per_hour": 27772.32
+    "coins_per_hour": 42629464285714,
+    "cells_per_hour": 27772
   },
   {
     "date": "2025-07-27",
@@ -1700,14 +1700,14 @@
     "tier": 14,
     "time": 4.27,
     "waves": 3706,
-    "coins": 141890000000000.0,
-    "cells": 109750.0,
+    "coins": 141890000000000,
+    "cells": 109750,
     "rerolldice": 0,
     "comments": "t14 full auto-run",
     "epoch": 1753588800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 33229508196721.32,
-    "cells_per_hour": 25702.58
+    "coins_per_hour": 33229508196721,
+    "cells_per_hour": 25702
   },
   {
     "date": "2025-07-27",
@@ -1715,14 +1715,14 @@
     "tier": 12,
     "time": 9.22,
     "waves": 7481,
-    "coins": 236730000000000.0,
-    "cells": 186810.0,
+    "coins": 236730000000000,
+    "cells": 186810,
     "rerolldice": 0,
     "comments": "t12 overnight",
     "epoch": 1753588800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 25675704989154.01,
-    "cells_per_hour": 20261.39
+    "coins_per_hour": 25675704989154,
+    "cells_per_hour": 20261
   },
   {
     "date": "2025-07-28",
@@ -1730,14 +1730,14 @@
     "tier": 14,
     "time": 3.45,
     "waves": 3148,
-    "coins": 126980000000000.0,
-    "cells": 80290.0,
+    "coins": 126980000000000,
+    "cells": 80290,
     "rerolldice": 0,
     "comments": "t14 optimized- no CL/SM",
     "epoch": 1753675200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 36805797101449.27,
-    "cells_per_hour": 23272.46
+    "coins_per_hour": 36805797101449,
+    "cells_per_hour": 23272
   },
   {
     "date": "2025-07-28",
@@ -1745,14 +1745,14 @@
     "tier": 14,
     "time": 4.57,
     "waves": 3907,
-    "coins": 159900000000000.0,
-    "cells": 128350.0,
+    "coins": 159900000000000,
+    "cells": 128350,
     "rerolldice": 0,
     "comments": "t14 optimized- (1st CB at 1091)",
     "epoch": 1753675200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 34989059080962.8,
-    "cells_per_hour": 28085.34
+    "coins_per_hour": 34989059080962,
+    "cells_per_hour": 28085
   },
   {
     "date": "2025-07-28",
@@ -1760,14 +1760,14 @@
     "tier": 14,
     "time": 4.5,
     "waves": 3917,
-    "coins": 167330000000000.0,
-    "cells": 123150.0,
+    "coins": 167330000000000,
+    "cells": 123150,
     "rerolldice": 0,
     "comments": "t14 run (mostly in car)",
     "epoch": 1753675200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 37184444444444.45,
-    "cells_per_hour": 27366.67
+    "coins_per_hour": 37184444444444,
+    "cells_per_hour": 27366
   },
   {
     "date": "2025-07-28",
@@ -1775,14 +1775,14 @@
     "tier": 12,
     "time": 9.7,
     "waves": 7901,
-    "coins": 314060000000000.0,
-    "cells": 231980.0,
+    "coins": 314060000000000,
+    "cells": 231980,
     "rerolldice": 0,
     "comments": "t12 overnight- CL in AM",
     "epoch": 1753675200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 32377319587628.87,
-    "cells_per_hour": 23915.46
+    "coins_per_hour": 32377319587628,
+    "cells_per_hour": 23915
   },
   {
     "date": "2025-07-29",
@@ -1790,14 +1790,14 @@
     "tier": 14,
     "time": 4.38,
     "waves": 3886,
-    "coins": 170070000000000.0,
-    "cells": 121770.0,
+    "coins": 170070000000000,
+    "cells": 121770,
     "rerolldice": 0,
     "comments": "t14 AM run (1)",
     "epoch": 1753761600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 38828767123287.67,
-    "cells_per_hour": 27801.37
+    "coins_per_hour": 38828767123287,
+    "cells_per_hour": 27801
   },
   {
     "date": "2025-07-29",
@@ -1805,14 +1805,14 @@
     "tier": 14,
     "time": 4.87,
     "waves": 3917,
-    "coins": 156240000000000.0,
-    "cells": 128169.99999999999,
+    "coins": 156240000000000,
+    "cells": 128169,
     "rerolldice": 0,
     "comments": "(evening drive run)",
     "epoch": 1753761600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 32082135523613.96,
-    "cells_per_hour": 26318.28
+    "coins_per_hour": 32082135523613,
+    "cells_per_hour": 26318
   },
   {
     "date": "2025-07-29",
@@ -1820,14 +1820,14 @@
     "tier": 12,
     "time": 9.68,
     "waves": 7887,
-    "coins": 306770000000000.0,
-    "cells": 225410.0,
+    "coins": 306770000000000,
+    "cells": 225410,
     "rerolldice": 0,
     "comments": "oernight after tournament respec",
     "epoch": 1753761600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 31691115702479.34,
-    "cells_per_hour": 23286.16
+    "coins_per_hour": 31691115702479,
+    "cells_per_hour": 23286
   },
   {
     "date": "2025-07-30",
@@ -1835,14 +1835,14 @@
     "tier": 14,
     "time": 4.5,
     "waves": 3962,
-    "coins": 168070000000000.0,
-    "cells": 127100.0,
+    "coins": 168070000000000,
+    "cells": 127100,
     "rerolldice": 0,
     "comments": "",
     "epoch": 1753848000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 37348888888888.89,
-    "cells_per_hour": 28244.44
+    "coins_per_hour": 37348888888888,
+    "cells_per_hour": 28244
   },
   {
     "date": "2025-07-30",
@@ -1850,14 +1850,14 @@
     "tier": 14,
     "time": 3.57,
     "waves": 3250,
-    "coins": 130789999999999.98,
-    "cells": 86080.0,
+    "coins": 130789999999999,
+    "cells": 86080,
     "rerolldice": 0,
     "comments": "Forgot CL ?",
     "epoch": 1753848000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 36635854341736.7,
-    "cells_per_hour": 24112.04
+    "coins_per_hour": 36635854341736,
+    "cells_per_hour": 24112
   },
   {
     "date": "2025-07-30",
@@ -1865,14 +1865,14 @@
     "tier": 14,
     "time": 4.58,
     "waves": 3976,
-    "coins": 184480000000000.0,
-    "cells": 130180.0,
+    "coins": 184480000000000,
+    "cells": 130180,
     "rerolldice": 0,
     "comments": "evening run - hit 927T WallFort / 34.79T/sec regen",
     "epoch": 1753848000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 40279475982532.75,
-    "cells_per_hour": 28423.58
+    "coins_per_hour": 40279475982532,
+    "cells_per_hour": 28423
   },
   {
     "date": "2025-07-30",
@@ -1880,14 +1880,14 @@
     "tier": 12,
     "time": 9.35,
     "waves": 7522,
-    "coins": 301450000000000.0,
-    "cells": 226380.0,
+    "coins": 301450000000000,
+    "cells": 226380,
     "rerolldice": 0,
     "comments": "full auto pick good run for t12",
     "epoch": 1753848000,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 32240641711229.95,
-    "cells_per_hour": 24211.76
+    "coins_per_hour": 32240641711229,
+    "cells_per_hour": 24211
   },
   {
     "date": "2025-07-31",
@@ -1895,14 +1895,14 @@
     "tier": 14,
     "time": 4.22,
     "waves": 3894,
-    "coins": 176580000000000.0,
-    "cells": 122750.0,
+    "coins": 176580000000000,
+    "cells": 122750,
     "rerolldice": 0,
     "comments": "First IS+3 to 720. near perfect perks",
     "epoch": 1753934400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 41843601895734.6,
-    "cells_per_hour": 29087.68
+    "coins_per_hour": 41843601895734,
+    "cells_per_hour": 29087
   },
   {
     "date": "2025-07-31",
@@ -1910,14 +1910,14 @@
     "tier": 14,
     "time": 4.22,
     "waves": 3892,
-    "coins": 180650000000000.0,
-    "cells": 123880.0,
+    "coins": 180650000000000,
+    "cells": 123880,
     "rerolldice": 0,
     "comments": "end 6pm- late run ended overnight- no ss",
     "epoch": 1753934400,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 42808056872037.91,
-    "cells_per_hour": 29355.45
+    "coins_per_hour": 42808056872037,
+    "cells_per_hour": 29355
   },
   {
     "date": "2025-08-01",
@@ -1925,14 +1925,14 @@
     "tier": 14,
     "time": 4.28,
     "waves": 3942,
-    "coins": 194590000000000.0,
-    "cells": 125460.0,
+    "coins": 194590000000000,
+    "cells": 125460,
     "rerolldice": 0,
     "comments": "first GT+ run T14",
     "epoch": 1754020800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 45464953271028.03,
-    "cells_per_hour": 29313.08
+    "coins_per_hour": 45464953271028,
+    "cells_per_hour": 29313
   },
   {
     "date": "2025-08-01",
@@ -1940,14 +1940,14 @@
     "tier": 12,
     "time": 9.62,
     "waves": 7995,
-    "coins": 361400000000000.0,
-    "cells": 229800.0,
+    "coins": 361400000000000,
+    "cells": 229800,
     "rerolldice": 0,
     "comments": "First GT+ run t12",
     "epoch": 1754020800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 37567567567567.57,
-    "cells_per_hour": 23887.73
+    "coins_per_hour": 37567567567567,
+    "cells_per_hour": 23887
   },
   {
     "date": "2025-08-01",
@@ -1955,14 +1955,14 @@
     "tier": 12,
     "time": 9.92,
     "waves": 8200,
-    "coins": 374430000000000.0,
-    "cells": 239440.0,
+    "coins": 374430000000000,
+    "cells": 239440,
     "rerolldice": 0,
     "comments": "First GT+ overnight run t12",
     "epoch": 1754020800,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 37744959677419.35,
-    "cells_per_hour": 24137.1
+    "coins_per_hour": 37744959677419,
+    "cells_per_hour": 24137
   },
   {
     "date": "2025-08-02",
@@ -1970,14 +1970,14 @@
     "tier": 14,
     "time": 4.22,
     "waves": 3901,
-    "coins": 157470000000000.0,
-    "cells": 116050.0,
+    "coins": 157470000000000,
+    "cells": 116050,
     "rerolldice": 0,
     "comments": "2 failed T14 farm runs prior to this",
     "epoch": 1754107200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 37315165876777.25,
-    "cells_per_hour": 27500.0
+    "coins_per_hour": 37315165876777,
+    "cells_per_hour": 27500
   },
   {
     "date": "2025-08-02",
@@ -1985,14 +1985,14 @@
     "tier": 12,
     "time": 9.97,
     "waves": 8134,
-    "coins": 406510000000000.0,
-    "cells": 247200.0,
+    "coins": 406510000000000,
+    "cells": 247200,
     "rerolldice": 0,
     "comments": "after Enhancements+ to 1.70 health",
     "epoch": 1754107200,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 40773319959879.63,
-    "cells_per_hour": 24794.38
+    "coins_per_hour": 40773319959879,
+    "cells_per_hour": 24794
   },
   {
     "date": "2025-08-03",
@@ -2000,13 +2000,13 @@
     "tier": 14,
     "time": 4.25,
     "waves": 3943,
-    "coins": 210560000000000.0,
-    "cells": 125110.0,
+    "coins": 210560000000000,
+    "cells": 125110,
     "rerolldice": 0,
     "comments": "First GT+2 T14",
     "epoch": 1754193600,
     "rerolldice_per_hour": 0.0,
-    "coins_per_hour": 49543529411764.7,
-    "cells_per_hour": 29437.65
+    "coins_per_hour": 49543529411764,
+    "cells_per_hour": 29437
   }
 ]
