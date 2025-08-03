@@ -1,136 +1,136 @@
 date,run_type,tier,time,waves,coins,cells,rerolldice,comments
-4/21/25,Farm - Overnight,11,10.27,7819,43.66,178.57,
-4/22/25,Farm - Day,10,13.15,10124,55,239.84,
-4/22/25,Farm - Overnight,11,10.08,7656,42.96,173.26,
-4/23/25,Farm - Day,10,12.98,9946,53.65,236.1,
-4/23/25,Farm - Overnight,11,9.95,7567,43.84,166.74,
-4/24/25,Farm - Day,11,11.8,8913,59.87,230.2,First PBH/PGT run
-4/24/25,Farm - Overnight,11,11.73,8940,62.1,238.87,
-4/25/25,Farm - Day,12,7.55,5488,35.34,110.43,
-4/25/25,Farm - Overnight,11,11.68,9016,62.68,237.71,
-4/26/25,Farm - Day,12,7.27,5363,33.04,106.69,
-4/26/25,Farm - Overnight,11,11.7,9000,64.62,233.75,
-4/27/25,Farm - Day,11,11.98,9089,68.24,241.53,
-4/28/25,Farm - Day,11,11.65,8956,66.57,238.2,
-4/28/25,Farm - Day,13,4.93,3739,27.3,57.99,Trial Farm Run of T13
-4/28/25,Farm - Overnight,10,14.9,10551,83.6,309.27,Cash Card Unequipped
-4/29/25,Farm - Day,11,11.73,8976,73.17,238.52,Cash Card Unequipped
-4/29/25,Farm - Overnight,11,11.75,9007,73.32,239.28,Cash Card Equipped
-5/5/25,Farm - Overnight,10,15.45,11686,100.6,308.54,
-5/6/25,Farm - Day,12,6.68,4929,39.03,79.98,
-5/6/25,Milestone,16,0.63,393,0.065,0.597,
-5/6/25,Milestone,17,0.25,157,0.009,0.14,
-5/6/25,Farm - Overnight,10,15.02,11694,103.99,313.96,
-5/7/25,Milestone,15,1.05,753,0.152,1.92,
-5/7/25,Milestone,13,6.37,4530,2.6,65.14,
-5/8/25,Farm - Day,11,11.93,9131,97.21,244.83,
-5/8/25,Farm - Overnight,11,12.72,9757,103.37,265.43,range 76 + LMS
-5/9/25,Farm - Day,12,8.12,5921,59.17,132.38,
-5/9/25,Farm - Overnight,11,12.43,9549,101.77,262.11,
-5/10/25,Farm - Day,12,8.15,5982,59.31,130.25,
-5/10/25,Farm - Overnight,11,12.62,9704,105.29,270.09,
-5/11/25,Farm - Day,12,7.78,5816,57.63,115.75,
-5/11/25,Farm - Overnight,10,15.58,12197,119.34,330.93,
-5/12/25,Farm - Day,11,12.07,9299,98.02,253.35,
-5/12/25,Farm - Overnight,11,12.72,9810,112.62,271.99,WTH did I upgrade?
-5/13/25,Farm - Overnight,11,12.62,9744,107.84,268.28,
-5/14/25,Farm - Day,11,13.15,9806,111.47,269.43,
-5/15/25,Farm - Day,11,13.22,9909,112.23,267.51,
-5/15/25,Farm - Overnight,10,15.67,12318,126.15,338.57,
-5/16/25,Farm - Day,12,8.05,6053,64.66,136.9,
-5/16/25,Milestone,15,1.67,1138,0.431,5.51,
-5/16/25,Farm - Overnight,11,13.08,9964,115.77,276.13,
-5/17/25,Farm - Overnight,11,13.12,10080,118.54,284.62,
-5/18/25,Farm - Day,11,12.98,9992,117.64,271.15,
-5/18/25,Farm - Overnight,11,13.15,10078,120.6,284.14,
-5/21/25,farm - overnight,10,16.08,12257,141.44,345.62,
-5/22/25,Farm - Day,12,8.5,6093,69.55,134.37,
-5/22/25,Farm - Overnight,11,12.63,9561,116.28,263.79,
-5/23/25,Farm - Day,11,13.05,10024,123.83,282.34,
-5/23/25,Farm - Overnight,11,13.22,10170,131.07,289.36,
-5/24/25,Milestone,16,1.03,639,0.221,2.72,
-5/24/25,Milestone,17,0.5,320,0.052,0.433,
-5/24/25,Farm - Day,12,8.42,6235,77.13,139.81,
-5/24/25,Farm - Overnight,11,12.77,9592,106.66,261.14,
-5/25/25,Farm - Day,12,8.48,6338,91.24,143.54,First with SL4
-5/25/25,Farm - Overnight,11,13.03,10097,147.25,283.34,
-5/26/25,Farm - Day,12,8.03,6067,74.99,126.22,
-5/26/25,Farm - Overnight,11,12.62,9702,140.07,257.61,
-5/28/25,Farm - Overnight,10,16.08,12611,169.05,342.15,Last before SF
-5/29/25,Farm - Day,12,9.22,6948,110.03,178.4,First with SF
-5/29/25,Farm - Overnight,11,14.1,10889,162.34,318.07,First 11 with SF
-5/30/25,Farm - Day,14,5.08,3548,23.75,95.2,Farm t14 with SF eHP
-5/30/25,Farm - Day,15,2.42,1514,5.93,17.74,Farm t15 with SF eHP
-5/30/25,Farm - Overnight,11,14.27,10994,171.65,324.1,
-5/31/25,Farm - Overnight,11,14.45,11091,184.6,330.68,
-6/1/25,Farm - Day,12,9.37,6950,123.44,174.36,Last before Workshop Respec
-6/1/25,Farm - Overnight,11,14.23,10902,185.82,334.75,First with 1.3 Cell WS+
-6/7/25,Farm - Day,14,5.17,3488,40.47,116.4,
-6/7/25,Farm - Overnight,11,14.3,11170,204.89,335.98,
-6/8/25,Farm - Day,12,9.62,7160,139.77,191.08,
-6/8/25,Farm - Overnight,11,14.37,11170,209.53,340.42,
-6/9/25,Farm - Day,13,6.67,5011,99.65,117.17,
-6/9/25,Farm - Overnight,11,14.38,11175,221.03,341.76,
-6/10/25,Farm - Overnight,11,14.42,11271,225.94,339.92,
-6/11/25,Farm - Day,12,9.75,7171,148.5,190.24,
-6/11/25,Farm - Overnight,11,14.43,11238,233.65,340.04,
-6/16/25,Farm - Day,12,9.77,7228,161.42,192.3,
-6/16/25,Farm - Overnight,11,14.82,11437,241.74,343.73,
-6/26/25,Farm - Day,12,9.93,7341,189.47,198.51,
-6/27/25,Farm - Day,13,6.8,5151,151.37,130.88,
-6/28/25,Farm - Day,12,9.02,6350,153.58,152.46,"ended early, forgot UW"
-6/29/25,Farm - Day,13,6.77,5020,144.5,119.26,
-6/30/25,Farm - Overnight,11,14.9,11534,311.93,356.92,
-7/5/25,Farm - Overnight,11,15.23,11751,335.17,375.16,First after Hybrid Rebalance
-7/6/25,Farm - Day,12,9.92,7426,211.35,208.41,Used RTO (After Respec)
-7/6/25,Farm - Overnight,12,9.37,6972,175.7,168.84,RTO Banned
-7/8/25,Farm - Overnight,12,9.98,7535,230.8,217.8,New BANS / dMG Master
-7/9/25,Farm - Day,12,10.12,7571,234.62,209.86,day run new bans
-7/9/25,Farm - Overnight,11,15.32,11939,359.48,389.86,first overnight - new bans
-7/10/25,Farm - Day,14,5.07,3700,133.59,114.23,ehp Farm t14
-7/10/25,Farm - Overnight,11,15.32,11834,355.11,381.15,
-7/11/25,Farm - Day,13,7.22,5367,178.61,141.48,
-7/11/25,Farm - Overnight,11,14.47,11263,328.28,353.73,
-7/12/25,Farm - Overnight,11,15.43,11993,328.83,393.61,medal runs during day
-7/16/25,farm - Overnight,11,15.77,12098,398,388.46,
-7/17/25,farm - day,13,7.17,5337,175.62,136.18,T13 daytime farm w/IS100
-7/17/25,farm - overnight,11,15.53,12103,398.24,392.76,
-7/17/25,Farm - Day,12,9.93,7692,267.66,221.33,First run w/IS+0
-7/17/25,Farm - Overnight,12,10.25,7772,265.68,223.47,Overnight with IS
-7/18/25,Farm - Day,12,9.93,7692,267.66,221.33,Overnight with IS
-7/18/25,Farm - Overnight,12,10.25,7772,265.68,223.47,Overnight with IS
-7/19/25,Farm - Day,13,7.17,5493,207.07,134.77,IS+1 and respec
-7/19/25,Farm - Overnight,11,14.8,11942,396.76,375.9,IS+1 overnight
-7/20/25,Farm - Day,13,6.85,5566,207.55,147.73,
-7/20/25,Farm - Overnight,11,14.9,11860,392.12,373.63,
-7/21/25,Farm - Overnight,11,15.1,12011,424.01,381.64,
-7/23/25,Farm - Overnight,12,9.68,7594,273.09,206.63,After T14 milestone. midnight respec and run
-7/24/25,Farm - Day,12,9.68,7723,272.92,211.66,last is+1 ?
-7/24/25,Farm - Overnight,11,15.02,12154,432.31,386.09,First IS+2 ?
-7/25/25,Farm - Day,13,6.55,5491,222.9,145.27,
-7/25/25,Farm - Overnight,12,9.88,7897,304.11,232.43,
-7/26/25,Farm - Day,14,4.17,3682,167.6,108.14,eHP T14
-7/26/25,Farm - Overnight,12,9.33,7529,237.34,188.43,"started with UW on / no FU Lock, full idle"
-7/27/25,Farm - Day,14,4.48,3921,190.98,124.42,Optimized eHP T14 daytime run
-7/27/25,Farm - Day,14,4.27,3706,141.89,109.75,t14 full auto-run
-7/27/25,Farm - Overnight,12,9.22,7481,236.73,186.81,t12 overnight
-7/28/25,Farm - Day,14,3.45,3148,126.98,80.29,"t14 optimized, no CL/SM"
-7/28/25,Farm - Day,14,4.57,3907,159.9,128.35,"t14 optimized, (1st CB at 1091)"
-7/28/25,Farm - Day,14,4.5,3917,167.33,123.15,t14 run (mostly in car)
-7/28/25,Farm - Overnight,12,9.7,7901,314.06,231.98,"t12 overnight, CL in AM"
-7/29/25,Farm - Day,14,4.38,3886,170.07,121.77,t14 AM run (1)
-7/29/25,Farm - Day,14,4.87,3917,156.24,128.17,(evening drive run)
-7/29/25,Farm - Overnight,12,9.68,7887,306.77,225.41,oernight after tournament respec
-7/30/25,Farm - Day,14,4.5,3962,168.07,127.1,
-7/30/25,Farm - Day,14,3.57,3250,130.79,86.08,Forgot CL ?
-7/30/25,Farm - Day,14,4.58,3976,184.48,130.18,evening run - hit 927T WallFort / 34.79T/sec regen
-7/30/25,Farm - Overnight,12,9.35,7522,301.45,226.38,full auto pick good run for t12
-7/31/25,Farm - Day,14,4.22,3894,176.58,122.75,First IS+3 to 720. near perfect perks
-7/31/25,farm - day,14,4.22,3892,180.65,123.88,"end 6pm, late run ended overnight, no ss"
-8/1/25,Farm - Day,14,4.28,3942,194.59,125.46,first GT+ run T14
-8/1/25,Farm - Day,12,9.62,7995,361.4,229.8,First GT+ run t12
-8/1/25,Farm - Overnight,12,9.92,8200,374.43,239.44,First GT+ overnight run t12
-8/2/25,Farm - Day,14,4.22,3901,157.47,116.05,2 failed T14 farm runs prior to this
-8/2/25,Farm - Overnight,12,9.97,8134,406.51,247.2,after Enhancements+ to 1.70 health
-8/3/25,Farm - Day,14,4.25,3943,210.56,125.11,First GT+2 T14
-8/3/25,Farm - Day,,4.25,,,,
+4/21/25,Farm - Overnight,11,10.27,7819,43.66,178.57,,
+4/22/25,Farm - Day,10,13.15,10124,55,239.84,,
+4/22/25,Farm - Overnight,11,10.08,7656,42.96,173.26,,
+4/23/25,Farm - Day,10,12.98,9946,53.65,236.1,,
+4/23/25,Farm - Overnight,11,9.95,7567,43.84,166.74,,
+4/24/25,Farm - Day,11,11.8,8913,59.87,230.2,,First PBH/PGT run
+4/24/25,Farm - Overnight,11,11.73,8940,62.1,238.87,,
+4/25/25,Farm - Day,12,7.55,5488,35.34,110.43,,
+4/25/25,Farm - Overnight,11,11.68,9016,62.68,237.71,,
+4/26/25,Farm - Day,12,7.27,5363,33.04,106.69,,
+4/26/25,Farm - Overnight,11,11.7,9000,64.62,233.75,,
+4/27/25,Farm - Day,11,11.98,9089,68.24,241.53,,
+4/28/25,Farm - Day,11,11.65,8956,66.57,238.2,,
+4/28/25,Farm - Day,13,4.93,3739,27.3,57.99,,Trial Farm Run of T13
+4/28/25,Farm - Overnight,10,14.9,10551,83.6,309.27,,Cash Card Unequipped
+4/29/25,Farm - Day,11,11.73,8976,73.17,238.52,,Cash Card Unequipped
+4/29/25,Farm - Overnight,11,11.75,9007,73.32,239.28,,Cash Card Equipped
+5/5/25,Farm - Overnight,10,15.45,11686,100.6,308.54,,
+5/6/25,Farm - Day,12,6.68,4929,39.03,79.98,,
+5/6/25,Milestone,16,0.63,393,0.065,0.597,,
+5/6/25,Milestone,17,0.25,157,0.009,0.14,,
+5/6/25,Farm - Overnight,10,15.02,11694,103.99,313.96,,
+5/7/25,Milestone,15,1.05,753,0.152,1.92,,
+5/7/25,Milestone,13,6.37,4530,2.6,65.14,,
+5/8/25,Farm - Day,11,11.93,9131,97.21,244.83,,
+5/8/25,Farm - Overnight,11,12.72,9757,103.37,265.43,,range 76 + LMS
+5/9/25,Farm - Day,12,8.12,5921,59.17,132.38,,
+5/9/25,Farm - Overnight,11,12.43,9549,101.77,262.11,,
+5/10/25,Farm - Day,12,8.15,5982,59.31,130.25,,
+5/10/25,Farm - Overnight,11,12.62,9704,105.29,270.09,,
+5/11/25,Farm - Day,12,7.78,5816,57.63,115.75,,
+5/11/25,Farm - Overnight,10,15.58,12197,119.34,330.93,,
+5/12/25,Farm - Day,11,12.07,9299,98.02,253.35,,
+5/12/25,Farm - Overnight,11,12.72,9810,112.62,271.99,,WTH did I upgrade?
+5/13/25,Farm - Overnight,11,12.62,9744,107.84,268.28,,
+5/14/25,Farm - Day,11,13.15,9806,111.47,269.43,,
+5/15/25,Farm - Day,11,13.22,9909,112.23,267.51,,
+5/15/25,Farm - Overnight,10,15.67,12318,126.15,338.57,,
+5/16/25,Farm - Day,12,8.05,6053,64.66,136.9,,
+5/16/25,Milestone,15,1.67,1138,0.431,5.51,,
+5/16/25,Farm - Overnight,11,13.08,9964,115.77,276.13,,
+5/17/25,Farm - Overnight,11,13.12,10080,118.54,284.62,,
+5/18/25,Farm - Day,11,12.98,9992,117.64,271.15,,
+5/18/25,Farm - Overnight,11,13.15,10078,120.6,284.14,,
+5/21/25,farm - overnight,10,16.08,12257,141.44,345.62,,
+5/22/25,Farm - Day,12,8.5,6093,69.55,134.37,,
+5/22/25,Farm - Overnight,11,12.63,9561,116.28,263.79,,
+5/23/25,Farm - Day,11,13.05,10024,123.83,282.34,,
+5/23/25,Farm - Overnight,11,13.22,10170,131.07,289.36,,
+5/24/25,Milestone,16,1.03,639,0.221,2.72,,
+5/24/25,Milestone,17,0.5,320,0.052,0.433,,
+5/24/25,Farm - Day,12,8.42,6235,77.13,139.81,,
+5/24/25,Farm - Overnight,11,12.77,9592,106.66,261.14,,
+5/25/25,Farm - Day,12,8.48,6338,91.24,143.54,,First with SL4
+5/25/25,Farm - Overnight,11,13.03,10097,147.25,283.34,,
+5/26/25,Farm - Day,12,8.03,6067,74.99,126.22,,
+5/26/25,Farm - Overnight,11,12.62,9702,140.07,257.61,,
+5/28/25,Farm - Overnight,10,16.08,12611,169.05,342.15,,Last before SF
+5/29/25,Farm - Day,12,9.22,6948,110.03,178.4,,First with SF
+5/29/25,Farm - Overnight,11,14.1,10889,162.34,318.07,,First 11 with SF
+5/30/25,Farm - Day,14,5.08,3548,23.75,95.2,,Farm t14 with SF eHP
+5/30/25,Farm - Day,15,2.42,1514,5.93,17.74,,Farm t15 with SF eHP
+5/30/25,Farm - Overnight,11,14.27,10994,171.65,324.1,,
+5/31/25,Farm - Overnight,11,14.45,11091,184.6,330.68,,
+6/1/25,Farm - Day,12,9.37,6950,123.44,174.36,,Last before Workshop Respec
+6/1/25,Farm - Overnight,11,14.23,10902,185.82,334.75,,First with 1.3 Cell WS+
+6/7/25,Farm - Day,14,5.17,3488,40.47,116.4,,
+6/7/25,Farm - Overnight,11,14.3,11170,204.89,335.98,,
+6/8/25,Farm - Day,12,9.62,7160,139.77,191.08,,
+6/8/25,Farm - Overnight,11,14.37,11170,209.53,340.42,,
+6/9/25,Farm - Day,13,6.67,5011,99.65,117.17,,
+6/9/25,Farm - Overnight,11,14.38,11175,221.03,341.76,,
+6/10/25,Farm - Overnight,11,14.42,11271,225.94,339.92,,
+6/11/25,Farm - Day,12,9.75,7171,148.5,190.24,,
+6/11/25,Farm - Overnight,11,14.43,11238,233.65,340.04,,
+6/16/25,Farm - Day,12,9.77,7228,161.42,192.3,,
+6/16/25,Farm - Overnight,11,14.82,11437,241.74,343.73,,
+6/26/25,Farm - Day,12,9.93,7341,189.47,198.51,,
+6/27/25,Farm - Day,13,6.8,5151,151.37,130.88,,
+6/28/25,Farm - Day,12,9.02,6350,153.58,152.46,,ended early- forgot UW
+6/29/25,Farm - Day,13,6.77,5020,144.5,119.26,,
+6/30/25,Farm - Overnight,11,14.9,11534,311.93,356.92,,
+7/5/25,Farm - Overnight,11,15.23,11751,335.17,375.16,,First after Hybrid Rebalance
+7/6/25,Farm - Day,12,9.92,7426,211.35,208.41,,Used RTO (After Respec)
+7/6/25,Farm - Overnight,12,9.37,6972,175.7,168.84,,RTO Banned
+7/8/25,Farm - Overnight,12,9.98,7535,230.8,217.8,,New BANS / dMG Master
+7/9/25,Farm - Day,12,10.12,7571,234.62,209.86,,day run new bans
+7/9/25,Farm - Overnight,11,15.32,11939,359.48,389.86,,first overnight - new bans
+7/10/25,Farm - Day,14,5.07,3700,133.59,114.23,,ehp Farm t14
+7/10/25,Farm - Overnight,11,15.32,11834,355.11,381.15,,
+7/11/25,Farm - Day,13,7.22,5367,178.61,141.48,,
+7/11/25,Farm - Overnight,11,14.47,11263,328.28,353.73,,
+7/12/25,Farm - Overnight,11,15.43,11993,328.83,393.61,,medal runs during day
+7/16/25,farm - Overnight,11,15.77,12098,398,388.46,,
+7/17/25,farm - day,13,7.17,5337,175.62,136.18,,T13 daytime farm w/IS100
+7/17/25,farm - overnight,11,15.53,12103,398.24,392.76,,
+7/17/25,Farm - Day,12,9.93,7692,267.66,221.33,,First run w/IS+0
+7/17/25,Farm - Overnight,12,10.25,7772,265.68,223.47,,Overnight with IS
+7/18/25,Farm - Day,12,9.93,7692,267.66,221.33,,Overnight with IS
+7/18/25,Farm - Overnight,12,10.25,7772,265.68,223.47,,Overnight with IS
+7/19/25,Farm - Day,13,7.17,5493,207.07,134.77,,IS+1 and respec
+7/19/25,Farm - Overnight,11,14.8,11942,396.76,375.9,,IS+1 overnight
+7/20/25,Farm - Day,13,6.85,5566,207.55,147.73,,
+7/20/25,Farm - Overnight,11,14.9,11860,392.12,373.63,,
+7/21/25,Farm - Overnight,11,15.1,12011,424.01,381.64,,
+7/23/25,Farm - Overnight,12,9.68,7594,273.09,206.63,,After T14 milestone. midnight respec and run
+7/24/25,Farm - Day,12,9.68,7723,272.92,211.66,,last is+1 ?
+7/24/25,Farm - Overnight,11,15.02,12154,432.31,386.09,,First IS+2 ?
+7/25/25,Farm - Day,13,6.55,5491,222.9,145.27,,
+7/25/25,Farm - Overnight,12,9.88,7897,304.11,232.43,,
+7/26/25,Farm - Day,14,4.17,3682,167.6,108.14,,eHP T14
+7/26/25,Farm - Overnight,12,9.33,7529,237.34,188.43,,started with UW on / no FU Lock- full idle
+7/27/25,Farm - Day,14,4.48,3921,190.98,124.42,,Optimized eHP T14 daytime run
+7/27/25,Farm - Day,14,4.27,3706,141.89,109.75,,t14 full auto-run
+7/27/25,Farm - Overnight,12,9.22,7481,236.73,186.81,,t12 overnight
+7/28/25,Farm - Day,14,3.45,3148,126.98,80.29,,t14 optimized- no CL/SM
+7/28/25,Farm - Day,14,4.57,3907,159.9,128.35,,t14 optimized- (1st CB at 1091)
+7/28/25,Farm - Day,14,4.5,3917,167.33,123.15,,t14 run (mostly in car)
+7/28/25,Farm - Overnight,12,9.7,7901,314.06,231.98,,t12 overnight- CL in AM
+7/29/25,Farm - Day,14,4.38,3886,170.07,121.77,,t14 AM run (1)
+7/29/25,Farm - Day,14,4.87,3917,156.24,128.17,,(evening drive run)
+7/29/25,Farm - Overnight,12,9.68,7887,306.77,225.41,,oernight after tournament respec
+7/30/25,Farm - Day,14,4.5,3962,168.07,127.1,,
+7/30/25,Farm - Day,14,3.57,3250,130.79,86.08,,Forgot CL ?
+7/30/25,Farm - Day,14,4.58,3976,184.48,130.18,,evening run - hit 927T WallFort / 34.79T/sec regen
+7/30/25,Farm - Overnight,12,9.35,7522,301.45,226.38,,full auto pick good run for t12
+7/31/25,Farm - Day,14,4.22,3894,176.58,122.75,,First IS+3 to 720. near perfect perks
+7/31/25,farm - day,14,4.22,3892,180.65,123.88,,end 6pm- late run ended overnight- no ss
+8/1/25,Farm - Day,14,4.28,3942,194.59,125.46,,first GT+ run T14
+8/1/25,Farm - Day,12,9.62,7995,361.4,229.8,,First GT+ run t12
+8/1/25,Farm - Overnight,12,9.92,8200,374.43,239.44,,First GT+ overnight run t12
+8/2/25,Farm - Day,14,4.22,3901,157.47,116.05,,2 failed T14 farm runs prior to this
+8/2/25,Farm - Overnight,12,9.97,8134,406.51,247.2,,after Enhancements+ to 1.70 health
+8/3/25,Farm - Day,14,4.25,3943,210.56,125.11,,First GT+2 T14
+8/3/25,Farm - Day,,4.25,,,,,
