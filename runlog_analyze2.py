@@ -1,6 +1,5 @@
 import argparse
 import json
-import os
 from collections import defaultdict
 from datetime import datetime, timedelta
 
@@ -35,27 +34,20 @@ def format_number(n):
 
 def print_ascii_table(headers, rows):
     col_widths = [max(len(str(val)) for val in col) for col in zip(headers, *rows)]
+    table_width = sum(col_widths) + len(col_widths) * 3 - 1
     sep = "+".join("-" * (w + 2) for w in col_widths)
 
-    # Optional fancy merged center header
-    title = headers[0] if isinstance(headers[0], str) else ""
-    table_width = sum(col_widths) + len(col_widths) * 3 - 1
-    print("-" * table_width)
-    print(f"{title:^{table_width}}")
-    print("-" * table_width)
-
-    # Header
     header_row = " | ".join(f"{h:<{w}}" for h, w in zip(headers, col_widths))
     print(header_row)
     print(sep.replace("-", "-"))
 
     for row in rows:
         print(" | ".join(f"{str(c):<{w}}" for c, w in zip(row, col_widths)))
+    print(sep.replace("-", "-"))
 
 def summarize_by_tier(runs, days=7, last=None):
     recent = []
     cutoff = datetime.now() - timedelta(days=days)
-
     for run in runs:
         run_date = datetime.strptime(run["date"], "%Y-%m-%d")
         if run.get("rerolldice", 0) > 0 and run_date >= cutoff:
@@ -89,18 +81,20 @@ def summarize_by_tier(runs, days=7, last=None):
             len(tier_runs),
         ])
 
+    title = f"Per-Hour Summary for Last {last} Runs Where Dice > 0:" if last else f"Per-Hour Summary for Last {days} Days Where Dice > 0:"
+    print("-" * 103)
+    print(f"{title:^{103}}")
+    print("-" * 103)
     headers = [
         "Tier", "MinCoin", "MaxCoin", "AvgCoin",
         "MinCell", "MaxCell", "AvgCell",
         "MinDice", "MaxDice", "AvgDice", "Runs"
     ]
-
     print_ascii_table(headers, rows)
 
 def summarize_by_day(runs, days=7):
     cutoff = datetime.now() - timedelta(days=days)
     daysummary = defaultdict(lambda: {"coins": 0, "cells": 0, "dice": 0, "tiers": []})
-
     for run in runs:
         run_date = datetime.strptime(run["date"], "%Y-%m-%d")
         if run_date >= cutoff:
@@ -120,7 +114,10 @@ def summarize_by_day(runs, days=7):
             format_number(row["dice"]),
             " ".join(row["tiers"])
         ])
-
+    title = f"Daily Totals (Last {days} Days):"
+    print("-" * 80)
+    print(f"{title:^{80}}")
+    print("-" * 80)
     headers = ["Date", "Coins", "Cells", "Dice", "Tiers"]
     print_ascii_table(headers, rows)
 
@@ -134,13 +131,9 @@ def main():
         return
 
     if args.summary:
-        print()
-        print_ascii_table(["Per-Hour Summary for Last Runs Where Dice > 0:"], [])
         summarize_by_tier(runs, args.days, args.last)
 
     if args.daily:
-        print()
-        print_ascii_table(["Daily Totals (Last Runs):"], [])
         summarize_by_day(runs, args.days)
 
 if __name__ == "__main__":
