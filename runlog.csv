@@ -128,9 +128,19 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 7/31/25,Farm - Day,14,4.22,3894,176.58,122.75,,First IS+3 to 720. near perfect perks
 7/31/25,farm - day,14,4.22,3892,180.65,123.88,,end 6pm- late run ended overnight- no ss
 8/1/25,Farm - Day,14,4.28,3942,194.59,125.46,,first GT+ run T14
-8/1/25,Farm - Day,12,9.62,7995,361.4,229.8,,First GT+ run t12
-8/1/25,Farm - Overnight,12,9.92,8200,374.43,239.44,,First GT+ overnight run t12
-8/2/25,Farm - Day,14,4.22,3901,157.47,116.05,,2 failed T14 farm runs prior to this
-8/2/25,Farm - Overnight,12,9.97,8134,406.51,247.2,,after Enhancements+ to 1.70 health
-8/3/25,Farm - Day,14,4h15m,3943,210.56,125.11,,First GT+2 T14
-8/3/25,Farm - Day,14,,,,,,
+8/1/25,Farm - Day,12,9.62,7995,361.4,229.8,31.93K,First GT+ run t12
+8/1/25,Farm - Overnight,12,9.92,8200,374.43,239.44,35.10K,First GT+ overnight run t12
+8/2/25,Farm - Day,14,4.22,3901,157.47,116.05,11.64K,2 failed T14 farm runs prior to this
+8/2/25,Farm - Overnight,12,9.97,8134,406.51,247.2,33.68K,after Enhancements+ to 1.70 health
+8/3/25,Farm - Day,14,4h15m,3943,210.56,125.11,12.82K,First GT+2 T14
+8/3/25,Farm - Day,14,4h4m,3784,213.18T,120.44K,11.16K,First CSV manual entry
+8/3/25,Farm - Day,14,4h21m,3968,224.78T,132.88K,13.19K,
+8/3/25,Farm - Overnight,12,9h38m,7959,424.41T,224.76K,31.88K,first ELS1.17 overnight
+8/4/25,Farm - Day,14,3h21m,3230,174.86T,85.42K,9.74K,forgot UW enable
+8/4/25,Farm - Day,14,4h29m,4096,244.52T,139.38K,13.96K,record for EHP
+8/4/25,Farm - Day,14,4h48m,3961,218.02T,131.28K,13.50K,
+8/4/25,Farm - Overnight,12,9h45m,8065,453.80T,235.95K,31.75K,
+8/5/25,Farm - Day,14,4h24m,4034,258.93T,131.65K,15.5K,
+8/5/25,Farm - Day,14,3h38m,3406,122.79T,92.35K,12.89K,Forgot UW
+8/5/25,Farm - Day,14,4h27m,4075,247.80T,137.61K,14.34K,
+8/5/25,Farm - Overnight,12,9h48m,8102,449.75T,243.25K,33.18K,

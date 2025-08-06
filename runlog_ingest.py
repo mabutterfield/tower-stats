@@ -39,6 +39,8 @@ def parse_coin_value(raw):
         return float(value[:-1]) * 1_000_000_000_000_000  # Quadrillion
     elif value.endswith("Q"):
         return float(value[:-1]) * 1_000_000_000_000_000_000  # Quintillion
+    elif value.endswith("T"):
+        return float(value[:-1]) * 1_000_000_000_000  # Trillion
     else:
         return float(value) * 1_000_000_000_000  # Default to Trillions
 
