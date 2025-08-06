@@ -1,2 +1,25 @@
-runlog.json.*
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# VSCode
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Patch backup files
+*.orig
+*.rej
 *.patch
+
+# Project-specific
+runlog.json*
