@@ -10,6 +10,11 @@ def parse_args():
     parser.add_argument("--daily", action="store_true", help="Show total daily resources")
     parser.add_argument("--days", type=int, default=7, help="Limit analysis to the past X days (default: 7)")
     parser.add_argument("--last", type=int, help="Limit analysis to the last X runs")
+    parser.add_argument("--coin", action="store_true", help="Include coin stats")
+    parser.add_argument("--cell", action="store_true", help="Include cell stats")
+    parser.add_argument("--dice", action="store_true", help="Include dice stats")
+    parser.add_argument("--time", action="store_true", help="Include time stats (formatted as XhYYm)")
+    parser.add_argument("--wave", action="store_true", help="Include wave stats")
     return parser.parse_args()
 
 def load_json():
@@ -32,94 +37,125 @@ def format_number(n):
     else:
         return str(n)
 
-def print_ascii_table(headers, rows):
+def format_time(n):
+    hours = int(n)
+    minutes = int((n - hours) * 60)
+    return f"{hours}h{minutes:02}m"
+
+def print_ascii_table(headers, rows, title=None):
     col_widths = [max(len(str(val)) for val in col) for col in zip(headers, *rows)]
     table_width = sum(col_widths) + len(col_widths) * 3 - 1
+    ### sep is a separator line
     sep = "+".join("-" * (w + 2) for w in col_widths)
+
+    if title:
+        print("-" * table_width)
+        print(f"{title:^{table_width}}")
+        print("-" * table_width)
 
     header_row = " | ".join(f"{h:<{w}}" for h, w in zip(headers, col_widths))
     print(header_row)
-    print(sep.replace("-", "-"))
+    print(sep)
 
     for row in rows:
         print(" | ".join(f"{str(c):<{w}}" for c, w in zip(row, col_widths)))
-    print(sep.replace("-", "-"))
+    
+    print(sep)
 
-def summarize_by_tier(runs, days=7, last=None):
-    recent = []
+
+
+
+def summarize_by_tier(runs, days=7, last=None, include=None):
+    if include is None:
+        include = {"coin": True, "cell": True, "dice": True, "time": False, "wave": False}
+
     cutoff = datetime.now() - timedelta(days=days)
-    for run in runs:
-        run_date = datetime.strptime(run["date"], "%Y-%m-%d")
-        if run.get("rerolldice", 0) > 0 and run_date >= cutoff:
-            recent.append(run)
-
+    recent = [r for r in runs if datetime.strptime(r["date"], "%Y-%m-%d") >= cutoff]
     if last:
         recent = recent[-last:]
 
     by_tier = defaultdict(list)
-    for run in recent:
-        by_tier[run["tier"]].append(run)
+    for r in recent:
+        by_tier[r["tier"]].append(r)
 
     rows = []
-    for tier in sorted(by_tier.keys()):
-        tier_runs = by_tier[tier]
-        cph = [r["coins_per_hour"] for r in tier_runs]
-        cellph = [r["cells_per_hour"] for r in tier_runs]
-        diceph = [r["rerolldice_per_hour"] for r in tier_runs]
+    for tier in sorted(by_tier):
+        data = by_tier[tier]
+        row = [tier]
+        
+        if include["coin"]:
+            cph = [r["coins_per_hour"] for r in data]
+            row += [format_number(min(cph)), format_number(max(cph)), format_number(sum(cph)/len(cph))]
 
-        rows.append([
-            tier,
-            format_number(min(cph)),
-            format_number(max(cph)),
-            format_number(sum(cph) / len(cph)),
-            format_number(min(cellph)),
-            format_number(max(cellph)),
-            format_number(sum(cellph) / len(cellph)),
-            format_number(min(diceph)),
-            format_number(max(diceph)),
-            format_number(sum(diceph) / len(diceph)),
-            len(tier_runs),
-        ])
+        if include["cell"]:
+            cellph = [r["cells_per_hour"] for r in data]
+            row += [format_number(min(cellph)), format_number(max(cellph)), format_number(sum(cellph)/len(cellph))]
 
-    title = f"Per-Hour Summary for Last {last} Runs Where Dice > 0:" if last else f"Per-Hour Summary for Last {days} Days Where Dice > 0:"
-    print("-" * 103)
-    print(f"{title:^{103}}")
-    print("-" * 103)
-    headers = [
-        "Tier", "MinCoin", "MaxCoin", "AvgCoin",
-        "MinCell", "MaxCell", "AvgCell",
-        "MinDice", "MaxDice", "AvgDice", "Runs"
-    ]
-    print_ascii_table(headers, rows)
+        if include["dice"]:
+            diceph = [r.get("rerolldice_per_hour", 0) for r in data]
+            row += [format_number(min(diceph)), format_number(max(diceph)), format_number(sum(diceph)/len(diceph))]
+
+        if include["time"]:
+            time = [r["time"] for r in data]
+            row += [format_time(min(time)), format_time(max(time)), format_time(sum(time)/len(time))]
+
+        if include["wave"]:
+            waves = [r["waves"] for r in data]
+            row += [min(waves), max(waves), round(sum(waves)/len(waves), 1)]
+
+        row.append(len(data))
+        rows.append(row)
+
+    headers = ["Tier"]
+    if include["coin"]:
+        headers += ["MinCoin", "MaxCoin", "AvgCoin"]
+    if include["cell"]:
+        headers += ["MinCell", "MaxCell", "AvgCell"]
+    if include["dice"]:
+        headers += ["MinDice", "MaxDice", "AvgDice"]
+    if include["time"]:
+        headers += ["MinTime", "MaxTime", "AvgTime"]
+    if include["wave"]:
+        headers += ["MinWave", "MaxWave", "AvgWave"]
+    headers.append("Runs")
+
+    title_parts = ["Per-Hour Summary"]
+    if last:
+        title_parts.append(f"for Last {last} Runs")
+    else:
+        title_parts.append(f"for Last {days} Days")
+    
+    title=" ".join(title_parts)
+    print_ascii_table(headers, rows, title )
 
 def summarize_by_day(runs, days=7):
     cutoff = datetime.now() - timedelta(days=days)
     daysummary = defaultdict(lambda: {"coins": 0, "cells": 0, "dice": 0, "tiers": []})
+
     for run in runs:
         run_date = datetime.strptime(run["date"], "%Y-%m-%d")
         if run_date >= cutoff:
-            date_str = run["date"]
-            daysummary[date_str]["coins"] += run["coins"]
-            daysummary[date_str]["cells"] += run["cells"]
-            daysummary[date_str]["dice"] += run.get("rerolldice", 0)
-            daysummary[date_str]["tiers"].append(str(run["tier"]))
+            d = run["date"]
+            daysummary[d]["coins"] += run["coins"]
+            daysummary[d]["cells"] += run["cells"]
+            daysummary[d]["dice"] += run.get("rerolldice", 0)
+            daysummary[d]["tiers"].append(str(run["tier"]))
 
     rows = []
     for date in sorted(daysummary):
-        row = daysummary[date]
+        day = daysummary[date]
         rows.append([
             date,
-            format_number(row["coins"]),
-            format_number(row["cells"]),
-            format_number(row["dice"]),
-            " ".join(row["tiers"])
+            format_number(day["coins"]),
+            format_number(day["cells"]),
+            format_number(day["dice"]),
+            " ".join(day["tiers"])
         ])
-    title = f"Daily Totals (Last {days} Days):"
-    print("-" * 80)
-    print(f"{title:^{80}}")
-    print("-" * 80)
-    headers = ["Date", "Coins", "Cells", "Dice", "Tiers"]
-    print_ascii_table(headers, rows)
+
+    title = "Daily Totals (Last {} Days):".format(days)
+    headers = ["Tier", "Coins", "Cells", "Dice", "Tiers"]
+    print_ascii_table(headers, rows, title=title)
+
 
 def main():
     args = parse_args()
@@ -130,8 +166,13 @@ def main():
         print("Optional: --days N (default 7), --last N")
         return
 
+    # Default columns
+    fields = {"coin": args.coin, "cell": args.cell, "dice": args.dice, "time": args.time, "wave": args.wave}
+    if not any(fields.values()):
+        fields["coin"] = fields["cell"] = fields["dice"] = True
+
     if args.summary:
-        summarize_by_tier(runs, args.days, args.last)
+        summarize_by_tier(runs, days=args.days, last=args.last, include=fields)
 
     if args.daily:
         summarize_by_day(runs, args.days)

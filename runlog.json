@@ -2173,5 +2173,35 @@
     "rerolldice_per_hour": 3385,
     "coins_per_hour": 45892857142857,
     "cells_per_hour": 24821
+  },
+  {
+    "date": "2025-08-06",
+    "run_type": "farm - day",
+    "tier": 14,
+    "time": 1.27,
+    "waves": 1550,
+    "coins": 31790000000000,
+    "cells": 13100,
+    "rerolldice": 2790,
+    "comments": "bad perk run",
+    "epoch": 1754452800,
+    "rerolldice_per_hour": 2196,
+    "coins_per_hour": 25031496062992,
+    "cells_per_hour": 10314
+  },
+  {
+    "date": "2025-08-06",
+    "run_type": "farm - day",
+    "tier": 14,
+    "time": 4.38,
+    "waves": 4035,
+    "coins": 266790000000000,
+    "cells": 129300,
+    "rerolldice": 14200,
+    "comments": "",
+    "epoch": 1754452800,
+    "rerolldice_per_hour": 3242,
+    "coins_per_hour": 60910958904109,
+    "cells_per_hour": 29520
   }
 ]
