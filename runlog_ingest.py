@@ -41,6 +41,8 @@ def parse_coin_value(raw):
         return float(value[:-1]) * 1_000_000_000_000_000_000  # Quintillion
     elif value.endswith("T"):
         return float(value[:-1]) * 1_000_000_000_000  # Trillion
+    elif value.endswith("B"):
+        return float(value[:-1]) * 1_000_000_000  # Billion
     else:
         return float(value) * 1_000_000_000_000  # Default to Trillions
 
@@ -103,7 +105,7 @@ def validate_row(row, index):
 
         run_type = row.get("run_type", "").strip()
         row["run_type"] = fuzzy_match_run_type(run_type)
-        row["comments"] = row.get("comments", "").strip()
+        # row["comments"] = row.get("comments", "").strip()
 
         row["coins_per_hour"] = int(row["coins"] / row["time"])
         row["cells_per_hour"] = int(row["cells"] / row["time"])
