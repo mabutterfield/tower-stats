@@ -12,7 +12,9 @@ def parse_args():
     parser.add_argument("--days", type=int, default=7, help="Limit analysis to the past X days (default: 7)")
     parser.add_argument("--last", type=int, help="Limit analysis to the last X runs")
     # parser.add_argument("--tier", type=int, help="Limit analysis to tier X")
+    # parser.add_argument("--grouping", choices=["tier", "label"], help="Group summary by base tier or detailed label")
     parser.add_argument("--tier", type=int, nargs="+", help="Tier(s) to include (e.g. --tier 13 14)")
+    parser.add_argument("--grouping", action="store_true", help="Group summary detailed label")
     parser.add_argument("--coin", action="store_true", help="Include coin stats")
     parser.add_argument("--cell", action="store_true", help="Include cell stats")
     parser.add_argument("--dice", action="store_true", help="Include dice stats")
@@ -66,7 +68,7 @@ def print_ascii_table(headers, rows, title=None):
     
     print(sep)
 ### begin summarize
-def summarize_by_tier(runs, days=7, last=None, include=None):
+def summarize_by_tier(runs, days=7, last=None, include=None, grouping=False):
     if include is None:
         include = {"coin": True, "cell": True, "dice": True, "time": False, "wave": False}
 
@@ -75,13 +77,21 @@ def summarize_by_tier(runs, days=7, last=None, include=None):
     if last:
         recent = recent[-last:]
 
-    by_tier = defaultdict(list)
-    for r in recent:
-        by_tier[r["tier"]].append(r)
+    run_data = defaultdict(list)
+    if grouping:
+        for r in recent:
+            run_data[get_tier_label(r, format="short")].append(r)
+    else:
+        for r in recent:
+            run_data[r["tier"]].append(r)
+
+    # for r in recent:
+    #     by_label[r[get_tier_label(r, format="short")]].append(r)
+    
 
     rows = []
-    for tier in sorted(by_tier):
-        data = by_tier[tier]
+    for tier in sorted(run_data):
+        data = run_data[tier]
         row = [tier]
         
         if include["coin"]:
@@ -130,6 +140,35 @@ def summarize_by_tier(runs, days=7, last=None, include=None):
     print_ascii_table(headers, rows, title )
 
 ####
+def get_tier_label(r, format="long"):
+    rt = r.get("run_type", "").lower()
+    tier = r.get("tier", "")
+    if format == "long":
+        match rt:
+            case rt if "day" in rt:
+                return f"{tier} Day"
+            case rt if "overnight" in rt:
+                return f"{tier} Night"
+            case rt if "milestone" in rt:
+                return f"{tier} Mile"
+            case rt if "tournament" in rt:
+                return "Tourn"
+            case _:
+                return str(tier)
+    else: 
+        match rt:
+                    case rt if "day" in rt:
+                        return f"{tier}D"
+                    case rt if "overnight" in rt:
+                        return f"{tier}N"
+                    case rt if "milestone" in rt:
+                        return f"{tier}M"
+                    case rt if "tournament" in rt:
+                        return "T"
+                    case _:
+                        return str(tier)
+
+
 def summarize_by_run(runs, days=7, last=None, tiers=None, include=None):
     if include is None:
         include = {"coin": True, "cell": True, "dice": True, "time": False, "wave": False}
@@ -164,22 +203,7 @@ def summarize_by_run(runs, days=7, last=None, tiers=None, include=None):
 
     rows = []
     for r in recent:
-        run_type = r.get("run_type", "").lower()
-        match run_type:
-            case rt if "Day" in rt:
-                label = "day"
-                tier_label = f"{r['tier']} {label}".strip()
-            case rt if "overnight" in rt:
-                label = "Night"
-                tier_label = f"{r['tier']} {label}".strip()
-            case rt if "milestone" in rt:
-                label = "Mile"
-                tier_label = f"{r['tier']} {label}".strip()
-            case rt if "tournament" in rt:
-                label = "Tourn"
-                tier_label = f"{label}".strip()
-            case _:
-                tier_label = f"{r['tier']}"
+        tier_label = get_tier_label(r)
         row = [r["date"], tier_label]
         if include["coin"]:
             row.append(format_number(r.get("coins", 0)))
@@ -215,7 +239,9 @@ def summarize_by_day(runs, days=7):
             daysummary[d]["coins"] += run["coins"]
             daysummary[d]["cells"] += run["cells"]
             daysummary[d]["dice"] += run.get("rerolldice", 0)
-            daysummary[d]["tiers"].append(str(run["tier"]))
+            # daysummary[d]["tiers"].append(str(run["tier"]))
+            daysummary[d]["tiers"].append(get_tier_label(run, format="short"))
+
 
     rows = []
     for date in sorted(daysummary):
@@ -248,7 +274,7 @@ def main():
         fields["coin"] = fields["cell"] = fields["dice"] = True
 
     if args.summary:
-        summarize_by_tier(runs, days=args.days, last=args.last, include=fields)
+        summarize_by_tier(runs, days=args.days, last=args.last, include=fields, grouping=args.grouping)
 
     if args.daily:
         summarize_by_day(runs, args.days)
