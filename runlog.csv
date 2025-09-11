@@ -64,7 +64,7 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 8/22/25,Farm - Overnight,13,7h30m,6542,563.91T,187.81K,26.05K,full automated run
 8/23/25,Milestone,17,1h11m,1567,7.82B,13.10K,4.77K,t17 milestone
 8/23/25,Farm - Day,13,7h24m,6431,661.14T,192.64K,27.90K,after tourney respec
-8/23/25,Tournament,T,30m,765,50.73B,0.417K,0.930K,second tournament run
+8/23/25,Tournament,99,30m,765,50.73B,0.417K,0.930K,second tournament run
 8/23/25,Farm - Overnight,12,10h14m,8633,755.67T,235.33K,40.33K,First run with WA+
 8/24/25,Farm - Day,13,7h11m,6290,687.39T,188.88K,27.0K,first t13 with WA+
 8/24/25,Farm - Day,13,7h34m,6554,768.14T,200.06K,25.48K,first t13 with WA+2
@@ -121,6 +121,7 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 9/9/25,Farm - Day,14,4h38m,4535,597.36T,148.68K,20.55K,full automated run
 9/9/25,Farm - Day,15,58m,1586,22.27T,12.97K,1.98K,farm run no PWR
 9/9/25,Farm - Overnight,13,7h55m,6992,919.91T,198.03K,32.95K,overnight auto
+9/10/25,Tournament,99,27m,790,62.76B,557,930,fast and ranged BC 
 9/10/25,Milestone,15,4h55m,4161,50.55T,86.44K,24.21K,milestone run with tourney setup
 9/10/25,Milestone,15,5h12m,4233,43.82T,94K,19.77K,milestone with gcomp and PC and tourney enhancements
 9/10/25,Farm - Day,14,4h1m,4058,613.94T,119K,15.08K,farm after tourney/milestone runs

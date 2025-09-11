@@ -976,6 +976,21 @@
   },
   {
     "date": "2025-08-23",
+    "run_type": "tournament",
+    "tier": 99,
+    "time": 0.5,
+    "waves": 765,
+    "coins": 50730000000,
+    "cells": 417,
+    "rerolldice": 930,
+    "comments": "second tournament run",
+    "epoch": 1755921600,
+    "rerolldice_per_hour": 1860,
+    "coins_per_hour": 101460000000,
+    "cells_per_hour": 834
+  },
+  {
+    "date": "2025-08-23",
     "run_type": "farm - overnight",
     "tier": 12,
     "time": 10.23,
@@ -1813,6 +1828,21 @@
     "rerolldice_per_hour": 4160,
     "coins_per_hour": 116150252525252,
     "cells_per_hour": 25003
+  },
+  {
+    "date": "2025-09-10",
+    "run_type": "tournament",
+    "tier": 99,
+    "time": 0.45,
+    "waves": 790,
+    "coins": 62760000000,
+    "cells": 557000,
+    "rerolldice": 930000,
+    "comments": "fast and ranged BC ",
+    "epoch": 1757476800,
+    "rerolldice_per_hour": 2066666,
+    "coins_per_hour": 139466666666,
+    "cells_per_hour": 1237777
   },
   {
     "date": "2025-09-10",

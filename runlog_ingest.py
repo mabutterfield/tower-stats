@@ -14,7 +14,7 @@ BACKUP_JSON = f"{OUTPUT_JSON}.{DATE_SUFFIX}"
 MANDATORY_FIELDS = ["date", "tier", "time", "waves", "coins", "cells"]
 OPTIONAL_FIELDS = ["run_type", "comments", "rerolldice"]
 
-VALID_RUN_TYPES = ["farm - overnight", "farm - day", "milestone"]
+VALID_RUN_TYPES = ["farm - overnight", "farm - day", "milestone", "tournament"]
 DEFAULT_RUN_TYPE = "other"
 
 KNOWN_DATE_FORMATS = ["%Y-%m-%d", "%Y/%m/%d", "%m-%d-%Y", "%m/%d/%Y", "%m-%d-%y", "%m/%d/%y"]
