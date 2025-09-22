@@ -121,10 +121,61 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 9/9/25,Farm - Day,14,4h38m,4535,597.36T,148.68K,20.55K,full automated run
 9/9/25,Farm - Day,15,58m,1586,22.27T,12.97K,1.98K,farm run no PWR
 9/9/25,Farm - Overnight,13,7h55m,6992,919.91T,198.03K,32.95K,overnight auto
-9/10/25,Tournament,99,27m,790,62.76B,557,930,fast and ranged BC 
+9/10/25,Tournament,99,27m,790,62.76B,.557K,930,fast and ranged BC 
 9/10/25,Milestone,15,4h55m,4161,50.55T,86.44K,24.21K,milestone run with tourney setup
 9/10/25,Milestone,15,5h12m,4233,43.82T,94K,19.77K,milestone with gcomp and PC and tourney enhancements
 9/10/25,Farm - Day,14,4h1m,4058,613.94T,119K,15.08K,farm after tourney/milestone runs
 9/10/25,Farm - Overnight,13,7h56m,6989,1.04q,196.38K,29.85K,farm after respec lower regen-higher coins and cells
 9/11/25,Farm - Day,14,4h39m,4566,787.83T,169.45K,22.76K,gt+2-optimized run
+9/11/25,Farm - Day,14,4h37m,4536,748.70T,151.57K,18.99K,baseline run
+9/11/25,Farm - Day,14,4h11m,4194,557.98T,135.79K,16.03K,first PC primary GTDur+2.-- ended early for overnight
+9/11/25,Farm - Overnight,13,7h34m,6710,1.23q,214.89K,29.75K,back to MVN --new baseline for GTDur
+9/12/25,Farm - Day,14,4h37m,4525,770T,168.09K,21.97K,back to MVN/DC for updated baseline
+9/12/25,Farm - Day,14,4h45m,4605,660.09T,171.40K,17.07K,PC/DC for baseline - late PWR
+9/12/25,Farm - Day,14,4h46m,4644,794.58T,179.50K,20.19K,First 4T/min 
+9/12/25,Farm - Overnight,13,7h56m,6992,1.27q,223.89K,31.73K,
+9/13/25,Tournament,99,19m,930,27.60B,.583K,2.32K,PF/PH-DC/HC 
+9/13/25,Milestone,19,8m,170,55.61B,0,1.84K,ran with Tourney mods
+9/13/25,Milestone,16,3h10m,3055,21.53T,57.04K,16K,unlocked tier skin
+9/13/25,Tournament,99,19m,973,44.02B,.864K,1.24K,PF/GC-DC/PC near pbh for CC.  33 total elites
+9/13/25,Farm - Day,13,8h2m,7083,1.31q,227.56K,34K,farm baseline after respec 1.42 coins
+9/13/25,Farm - Day,15,1h27m,2061,172.09T,40.04K,5.83K,ehp farm of t15-no def% perks
+9/13/25,Farm - Overnight,13,7h25m,6610,927.98T,199.05K,29.55K,tried PC again-unsure of patch time
+9/14/25,Farm - Day,13,7h58m,7007,1.47q,236.55K,29.58K,PC after Ray patch-GT+bug hit 112T/sec briefly
+9/14/25,Farm - Day,14,3h21m,3518,514.37T,101.22K,12.69K,forgot UW turnon
+9/14/25,Farm - Day,14,3h49m,3904,622.89T,117.86K,16K,end early for bed - first Armor ass
+9/14/25,Farm - Overnight,13,6h41m,6019,957.37T,176.61K,26.45K,automated full run SD Armor ass
+9/15/25,Farm - Day,14,4h36m,4528,696.29T,152.09K,19.69K,SD Assmod-orb at 30/60m
+9/15/25,Farm - Day,14,3h59m,4013,636.76T,123.49K,14.29K,range lab 5-range 76 orbs at ~60
+9/15/25,Farm - Day,14,5h7m,4884,917.67T,190.20K,22.80K,hit 4.53T/min at 4838 max spawn
+9/15/25,Farm - Overnight,13,8h18m,7276,1.37q,236.66K,32.63K,first DM Mastery run-late CL on
+9/16/25,Farm - Day,14,4h46m,4518,825.49T,164.36K,19.93K,dm tinkering
+9/16/25,Farm - Day,14,5h44m,5347,1.09q,241.99K,24.14K,PC + SD in Assmod
+9/16/25,Farm - Day,15,2h41m,3004,456.38T,95.20K,13.40K,short time before bed PC+SD
+9/16/25,Farm - Overnight,13,8h47m,7656,1.53q,263.81K,38.30K,CL on in am
+9/17/25,Tournament,99,30m,965,128.2B,.862K,3.46K,GC+SD=PC in Assmod
+9/17/25,Farm - Day,14,5h41m,5303,1.12q,237.81K,26.80K,NMP+PC+BHD in Assmod
+9/17/25,Farm - Day,14,5h43m,5337,1.06q,241.37K,24.17K,
+9/17/25,Farm - Overnight,13,8h46m,7610,1.52q,252.52K,38.18K,
+9/18/25,Farm - Day,14,5h49m,5385,1.21q,242.27K,26.80K,unlock cannon assmod-GT+3
+9/18/25,Farm - Day,14,5h52m,5419,1.28q,247.29K,28.16K,
+9/18/25,Farm - Day,15,1h45m,2278,260.98T,48.55K,6.41K,short run before bed
+9/18/25,Farm - Overnight,13,7h27m,6621,1.39q,200.09K,32.83K,ended early w/o CL
+9/19/25,Farm - Day,14,5h45m,5270,1.17q,226.76K,28.54K,fully automatic run
+9/19/25,Farm - Day,13,8h49m,7661,1.76q,261.61K,37.45K,
+9/19/25,Farm - Overnight,13,9h1m,7794,1.51q,248.88K,41.88K,
+9/20/25,Farm - Day,14,5h44m,5370,1.41q,228.95K,28.10K,SatAM pre Tourney
+9/20/25,Tournament,99,33m,1075,190.77B,1.25K,5.59K,DM+3 and AS primary cannon
+9/20/25,Milestone,19,10m,241,64.17B,0.240K,1.98K,milestone with Tourney loadout
+9/20/25,Farm - Day,13,9h15m,7982,2.14q,278.24K,37.20K,CPK enhancements
+9/20/25,Farm - Overnight,13,8h59m,7750,2.08q,267.33K,43.33K,start at 1230am
+9/21/25,Farm - Day,14,5h45m,5374,1.44q,236.82K,31.90K,
+9/21/25,Farm - Day,14,5h50m,5394,1.49q,248.86K,28.80K,
+9/21/25,Farm - Overnight,13,9h18m,8024,2.20q,282.11K,41.05K,post run 60q respeq value
+
+
+
+
+
+
 
