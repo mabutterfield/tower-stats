@@ -252,11 +252,127 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 10/5/25,Farm - Day,14,4h59m,4488,1.30q,180.29K,21.42K,forgot dmg UW - scatter
 10/5/25,Farm - Day,15,3h38m,3911,1.15q,174.05K,20.14K,killed by Ray
 10/5/25,Farm - Overnight,13,9h3m,7976,2.49q,302.30K,37.38K,UW on in AM
-
-
-
-
-
+10/6/25,Farm - Day,15,3h37m,3908,1.18q,168.30K,21.54K,drive to airport
+10/6/25,Farm - Day,15,3h26m,3752,1.09q,153.23K,15.95K,at airport
+10/6/25,Farm - Day,15,3h27m,3759,1.09q,151.69K,21.10K,in airplane
+10/6/25,Farm - Overnight,13,9h24m,8266,2.28q,277.80K,48.0K,overnight w/UW on
+10/7/25,Farm - Day,15,3h26m,3750,1.10q,155.44K,19.36K,houston trip
+10/7/25,Farm - Day,15,3h41m,3943,1.23q,173.86K,19.30K,houston after lunch
+10/7/25,Farm - Day,14,6h5m,5755,2.04q,273.53K,33.09K,flight home
+10/8/25,Tournament,99,8m,550,871.02B,.249K,0,farm run of tournament
+10/8/25,Farm - Day,15,3h34m,3855,1.16q,163.86K,18.30K,normal run
+10/8/25,Tournament,99,30m,1251,274.24B,1.97K,6.36K,PH-killed by range
+10/8/25,Tournament,99,22m,1291,206.39B,1.76K,2.63K,PBH-killed by boss
+10/8/25,Milestone,18,1h43m,2197,4.37T,40.08K,21.65K,full tourney loadout-new high
+10/8/25,Milestone,19,22m,411,285.18B,.679K,2.70K,new high
+10/8/25,Milestone,18,1h35m,2140,2.88T,34.12K,22.28K,pbh and no enemy health TO
+10/8/25,Farm - Day,15,3h30m,3805,1.29q,161.50K,22.51K,repsec farm
+10/8/25,Farm - Overnight,13,8h42m,7727,2.79q,284.59K,34.65K,myth BHD first t13_forgot perks overnight
+10/9/25,Farm - Day,15,3h32m,3817,1.35q,164.22K,19.16K,myth BHD first t15
+10/9/25,Farm - Day,15,3h2m,3453,1.11q,124.30K,15.02K,don't know why died early
+10/9/25,Farm - Day,15,3h27m,3761,1.38q,157.40K,16.0K,
+10/9/25,Farm - Day,15,3h35m,3876,1.42q,169.82K,19.09K,
+10/9/25,Farm - Overnight,13,9h26m,8257,3.10q,285.15K,44.33K,
+10/10/25,Farm - Day,15,3h34m,3876,1.41q,170.64K,19.75K,
+10/10/25,Farm - Day,15,3h43m,3953,1.51q,173.10K,19.35K,
+10/10/25,Farm - Day,15,6h5m,5753,2.27q,256.64K,31.85K,
+10/10/25,Tournament,99,18m,571,4.91T,.599K,.155K,farm run for placement
+10/10/25,Farm - Overnight,13,9h31m,8361,2.87q,288.69K,44.70K,
+10/11/25,Farm - Day,14,6h6m,5756,2.34q,261.25K,31.63K,
+10/11/25,Farm- Day,15,3h21m,3693,1.34q,149.20K,19.29K,last run before respec
+10/11/25,Tournament,99,19m,1227,69.96B,.863K,1.24K,first run with value
+10/11/25,Tournament,99,31m,1373,414.65B,2.80K,4.94K,fixed GenMod GC/PF
+10/11/25,Milestone,20,5m,65,45.72B,0.051K,9.75K,attempt with new updates - no progress
+10/11/25,Farm - Day,15,4h10m,4333,1.94q,216.77K,23.94K,first farm with v27.1
+10/11/25,Farm - Overnight,14,6h48m,6311,2.45q,301.47K,34.31K,first farm with v27.1
+10/12/25,Farm - Day,15,4h18m,4438,1.95q,227.19K,23.97K,
+10/12/25,Farm - Day,15,4h6m,4292,1.99q,209.92K,24.92K,
+10/12/25,Farm - Day,15,4h10m,4337,1.89q,218.32K,26.76K,
+10/12/25,Farm - Overnight,13,10h14m,8950,3.78q,345.29K,50.93K,first t13 farm with v27.1
+10/13/25,Farm - Day,15,4h12m,4354,2.0q,216.21K,23.26K,
+10/13/25,Farm - Day,15,4h7m,4289,1.83q,212.25K,21.88K,
+10/13/25,Farm - Day,15,2h29m,3020,872.97T,89.21K,11.31K,turned CL off-scatter killed
+10/13/25,Farm - Overnight,13,10h24m,9092,3.45q,330.81K,47.65K,
+10/14/25,Farm - Day,15,4h14m,4377,1.69q,220.17K,22.97K,
+10/14/25,Farm - Day,15,4h4m,4258,1.95q,209.99K,21.50K,
+10/14/25,Farm - Day,15,4h4m,4250,1.98q,210.21K,25.16K,
+10/14/25,Tournament,99,24m,1270,77.49B,1.61K,3.42K,ran new mod-single run
+10/14/25,Farm - Overnight,13,10h19m,9011,3.43q,320.96K,48.28K,
+10/15/25,Farm - Day,14,6h53m,6355,2.92q,301.99K,37.45K,delayed - at work
+10/15/25,Farm - Day,16,2h18m,2878,1.02q,102.73K,15.11K,farm t16 try
+10/15/25,Farm - Overnight,13,10h10m,8902,4.04q,351.05K,50.38K,
+10/16/25,Farm - Day,15,4h11m,4354,2.03q,212.05K,22.57K,
+10/16/25,Farm - Day,15,4h13m,4378,2.06q,216.63K,23.97K,
+10/16/25,Farm - Day,16,2h17m,2865,1.05q,101.29K,12.23K,unable to replicate- PC Bug ?
+10/16/25,Farm - Overnight,14,7h5m,6536,3.07q,324.80K,39.84K,PC bug?
+10/17/25,Farm - Day,13,8h16m,7401,3.21q,262.63K,38.35K,range day
+10/17/25,Farm - Day,15,4h16m,4412,2.06q,222.11K,26.47K,
+10/17/25,Farm - Day,15,2h9m,2755,775.24T,70.19K,11.67K,ended early for overnight
+10/17/25,Farm - Overnight,13,9h33m,8358,3.70q,318.29K,48.43K,
+10/18/25,Farm - Day,14,6h59m,6438,2.98q,310.88K,37.12K,last before tournament
+10/18/25,Tournament,99,22m,1286,48.57B,1.12K,1.55K,RB+PF
+10/18/25,Tournament,99,26m,1238,101.37B,1.20K,4.33K,PF+PH
+10/18/25,Tournament,99,26m,1211,100B,1.20K,4.0K,RB+PH
+10/18/25,Farm - Day,15,4h10m,4323,2.06q,216.17K,23.84K,first after repsec
+10/18/25,Farm - Overnight,13,8h11m,7339,3.14q,260.43K,36.15K,no CL
+10/19/25,Farm - Day,15,4h20m,4457,2.04q,229.33K,26.41K,
+10/19/25,Farm - Day,15,3h57m,4339,1.88q,214.78K,22.99K,
+10/19/25,Farm - Day,15,4h10m,4490,2.19q,232.17K,24.35K,
+10/19/25,Farm - Overnight,14,6h56m,6562,3.06q,326.09K,40.05K,overnight new high
+10/20/25,Farm - Day,15,4h7m,4427,2.33q,220.53K,23.08K,first with summon
+10/20/25,Farm - Day,15,4h4m,4425,2.36q,225.79K,24.90K,summon baseline w/new DW CD GC/BHD
+10/20/25,Farm - Day,15,4h10m,4481,2.70q,237.15K,19.21K,first with BHD/GC
+10/20/25,Farm - Day,15,3h21m,3852,1.91q,157.40K,15.87K,ended early for overnight
+10/20/25,Farm - Overnight,14,6h45m,6437,3.38q,311.72K,38.02K,first overnight with BHD/GC
+10/21/25,Farm - Day,15,4h7m,4458,2.71q,228.26K,24.47K,
+10/21/25,Farm - Day,15,4h7m,4448,2.69q,228.30K,24.48K,
+10/21/25,Farm - Day,15,4h10m,4490,2.75q,231.67K,23.41K,regen mastery unlocked
+10/21/25,Tournament,99,10m,614,3.52T,.314K,.620K,farm run to 4th place
+10/21/25,Farm - Overnight,13,8h24m,7652,3.32q,236.80K,37K,ended early to do higher tier
+10/22/25,Farm - Day,14,6h54m,6535,3.78q,322K,42.53K,regen mastery lv0-69t regen
+10/22/25,Tournament,99,20m,1376,74.86B,1.82K,1.39K,rank 3 
+10/22/25,Tournament,99,25m,1289,122.29B,1.74K,3.25K,186q in workshop
+10/22/25,Farm - Day,15,2h27m,3165,571T,72.79K,12.91K,forgot MVN-ended early
+10/22/25,Farm - Overnight,14,7h8m,6723,3.97q,335.96K,41.70K,regen mastery lv1-88T regen
+10/23/25,Farm - Day,15,5h9m,4679,2.97q,253.40K,27.76K,
+10/23/25,Farm - Day,15,4h17m,4570,2.87q,240.49K,28.45K,first autorestart
+10/23/25,Farm - Day,15,4h22m,4651,2.99q,246.25K,25.30K,second autorestart
+10/23/25,Farm - Overnight,15,4h14m,4537,2.81q,237.63K,27.18K,overnight autorestart - finish 6am(UTC0
+10/23/25,Farm - Overnight,15,4h28m,4729,3.07q,260.37K,29.90K,6am to 11am autorun(UTC)
+10/24/25,Farm - Day,15,4h23m,4633,2.99q,243.56K,23.05K,autorun AM
+10/24/25,Farm - Day,15,4h23m,4650,3.01q,248.15K,28.80K, baseline for MVN/PC
+10/24/25,Farm - Day,15,6h10m,5977,3.73q,377.23K,37.98K, baseline for PC/DC
+10/24/25,Tournament,99,17m,546,6.38T,.786K,.465K,tournamet spot placement
+10/24/25,Farm - Overnight,15,26m,1561,22.78T,7.27K,1.55K,killed overnight early for perks
+10/24/25,Farm - Overnight,15,4h28m,4729,3.06q,256.28K,28.86K,overnight autorun-manual start
+10/24/25,Farm - Overnight,15,4h26m,4689,2.96q,249.63K,29.20K,overnight autorun
+10/26/25,Farm - Overnight,15,4h45m,4931,3.49q,277.33K,28.15K,Start tracking based on game log - overnight first
+10/26/25,Farm - Overnight,15,4h30m,4754,3.18q,258.35K,28.44K,8:40am  end
+10/26/25,Farm - Day,15,4h44m,4910,3.44q,275.32K,33.89K,
+10/26/25,Farm - Day,15,4h42m,4875,3.21q,267.95K,31.20K,
+10/26/25,Farm - Day,15,4h37m,4826,3.33q,270.76K,31.71K,11:24pm end
+10/27/25,Farm - Overnight,15,4h41m,4866,3.35q,273.41K,28.90K,
+10/27/25,Farm - Overnight,15,4h33m,4785,3.27q,265.44K,29.57K,
+10/27/25,Farm - Day,15,4h33m,4771,3.29q,261.93K,33.12K,
+10/27/25,Farm - Day,15,4h31m,4762,3.19q,258.62K,28.24K,
+10/27/25,Farm - Day,15,4h38m,4825,3.37q,265.14K,31.10K,
+10/28/25,Farm - Overnight,15,4h43m,4912,3.58q,281.94K,27.31K,first run w/WA8
+10/28/25,Farm - Overnight,15,4h36m,4819,3.54q,273.63K,27.07K,
+10/28/25,Farm - Day,15,4h46m,4941,3.74q,283.66K,33.25K,
+10/28/25,Farm - Day,15,4h35m,4793,3.39q,267.37K,31.60K,
+10/28/25,Farm - Day,15,4h34m,4784,3.49q,267.56K,29.66K,
+10/28/25,Tournament,99,10m,760,201.69B,.537K,.183K,farm run for placement
+10/29/25,Farm - Overnight,15,4h21m,4606,3.41q,251.12K,26.213K,summon respeced
+10/29/25,Farm - Overnight,15,4h26m,4693,3.46q,254.18K,25.65K,
+10/29/25,Tournament,99,19m,1350,28.23B,1.41K,1.24K,Farm Armour/range-RB+PF-DC+HC
+10/29/25,Tournament,99,23m,1466,24.08B,2.04K,.465K,normal range-RB+PF_DC+HC
+10/29/25,Tournament,99,24m,1416,178.37B,2.23K,3.55K,GC+PF-DC+PC_Just shy of PBH with UW BC
+10/29/25,Tournament,99,24m,1428,69.56B,1.95K,1.86K,min range_RB+PF-DC+HC_has potential- all ended via RAY
+10/29/25,Milestone,16,5h26m,4872,21.38T,150.70K,36.68K,RB+PF-DC+HC-TournSpec-PBH 46/46 via perk/DC substat
+10/25/25,Milestone,19,39m,728,694.59B,2.32K,8.82K,hit 500 milestone
+10/29/25,Farm - Day,18,2h16m,2697,6.68T,52.64K,26.30K,got 2500 milestone Rhino
+10/29/25,Farm - Day,15,
+10/30/25,Farm - Overnight,15
 
 
 
