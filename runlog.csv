@@ -371,8 +371,35 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 10/29/25,Milestone,16,5h26m,4872,21.38T,150.70K,36.68K,RB+PF-DC+HC-TournSpec-PBH 46/46 via perk/DC substat
 10/25/25,Milestone,19,39m,728,694.59B,2.32K,8.82K,hit 500 milestone
 10/29/25,Farm - Day,18,2h16m,2697,6.68T,52.64K,26.30K,got 2500 milestone Rhino
-10/29/25,Farm - Day,15,
-10/30/25,Farm - Overnight,15
+10/30/25,Farm - Overnight,15,4h55m,5078,3.87q,293.35K,33.67K,first after respec
+10/30/25,Farm - Overnight,15,4h48m,4977,3.72q,287.99K,31.54K,
+10/30/25,Farm - Day,15,4h49m,4969,3.85q,280.57K,30.34K,
+10/30/25,Farm - Day,15,4h56m,5033,4.02q,285.40K,32.53K,first 4q run
+10/30/25,Farm - Day,15,4h44m,4926,3.7q,283.81K,31.50K,killed by scatter
+10/31/25,Farm - Overnight,15,4h54m,5049,3.98q,293.04K,31.62K,killed by boss
+10/31/25,Farm - Overnight,15,4h50m,4994,4.01q,284.92K,29.05K,killed by ray
+10/31/25,Farm - Day,15,4h55m,5059,3.83q,294.14K,28.34K,killed by Ray
+10/31/25,Farm - Day,15,4h47m,4966,3.97q,287.12K,31.50K,killed by ray
+11/1/25,Farm - Overnight,15,4h47m,4949,3.91q,287.23K,30.36K,
+11/1/25,Farm - Overnight,15,4h45m,4932,3.65q,276.43K,32.58K,
+11/1/25,Tournament,99,8m,616,865.23B,.572K,0,placement run
+11/1/25,Farm - Day,15,4h56m,5073,4.24q,296.86K,37.35K,
+11/1/25,Farm - Day,15,4h37m,4836,3.84q,274.19K,27.83K,
+11/1/25,Tournament,99,30m,1437,129.97B,2.12K,4.48K,killed by ranged ult_RB-PF_DC-PC
+11/1/25,Tournament,99,31m,1436,147.93B,1.94K,4.95K,i think this was min range
+11/1/25,Tournament,99,38m,1436,545.69B,2.76K,4.82K,i think this was min range PBH
+11/1/25,Tournament,99,49m,1527,220.17B,3.20K,6.03K,90m range-heavy monitoring at 1420 to nuke elites
+11/2/25,Farm - Overnight,15,4h38m,5002,3.63q,280.50K,27.96K, first after tournament respec
+11/2/25,Farm - Overnight,15,4h32m,4942,3.94q,282.12K,29.24K,overnight
+11/2/25,Farm - Day,15,4h35m,4921,3.83q,281.07K,30.22K,
+11/2/25,Farm - Day,15,4h34m,4954,3.82q,283.45K,26.87K,
+11/2/25,Farm - Day,15,4h48m,5122,4.13q,305.46K,29.24K,
+11/3/25,Farm - Overnight,15,4h43m,5065,4.22q,294.67K,27.70K,
+11/3/25,Farm - Overnight,15,4h35m,4962,4.07q,285.33K,30.10K,
+11/3/25,Farm - Day,15,4h35m,4950,4.10q,280.56K,31.59K,
+11/3/25,Farm - Day,16,27m,1509,137.86T,11.51K,.990K,tried ehp-t16-failed
+11/3/25,Farm - Day,15,4h39m,5026,4.20q,290.24K,28.68K,normal Farming
+11/3/25,Farm - Day,15,
 
 
 
