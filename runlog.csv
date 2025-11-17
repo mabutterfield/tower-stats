@@ -462,5 +462,24 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 11/13/25,Farm - Day,15,1h44m,2898,1.24q,74.43K,7.07K,ended early to upgrade OA
 11/13/25,Farm - Day,15,4h34m,5097,5.4q,302.89K,29.34K,minRange+AncOA
 11/13/25,Farm - Day,15,4h35m,5121,5.55q,309.22K,29.78K,minRange+AncOA_hit30T/min
-
-
+11/13/25,Farm - Day,15,4h26m,5010,4.75q,294.67K,25.26K,upgraded range to 69.5
+11/14/25,Farm - Overnight,15,4h31m,5076,5.41q,305.75K,31.24K,
+11/14/25,Farm - Overnight,15,4h14m,4857,4.89q,279.29K,24.84K,
+11/14/25,Farm - Day,15,4h47m,5250,5.42q,332.38K,31.40K,
+11/14/25,Farm - Day,15,4h42m,5206,5.46q,326.16K,29.65K,
+11/14/25,Farm - Day,15,4h39m,5172,5.58q,311.59K,30.03K,
+11/14/25,Tournament,99,15m,1148,913.17B,1.57K,1.08K,farm placement
+11/15/25,Farm - Overnight,15,4h47m,5276,6.03q,330.66K,31.51K,
+11/15/25,Farm - Overnight,15,4h36m,5141,5.69q,312.91K,28.26K,
+11/15/25,Farm - Day,15,4h30m,5051,5.7q,303.78K,30.97K,
+11/15/25,Tournament,99,22m,1408,144.26B,1.83K,.155K,Boss
+11/15/25,Tournament,99,27m,1432,343.89B,2.39K,3.71K,Boss
+11/15/25,Tournament,99,28m,1498,141.53B,2.21K,2.17K,Overcharge
+11/15/25,Tournament,99,29m,1466,125.62B,2.4K,3.4K,Boss
+11/15/25,Farm - Day,15,4h36m,5138,5.47q,314K,28.43K,
+11/16/25,Farm - Overnight,15,4h49m,5288,6.2q,332.75K,32.07K,
+11/16/25,Farm - Overnight, 15,4h30m,5056,5.11q,304.58K,27.33K,
+11/16/25,Farm - Day,15,1h30m,2726,642.75T,60.08K,5.55K,ended manually-noCTO
+11/16/25,Farm - Day,15,4h33m,5106,5.88q,307.42K,32.66K,
+11/16/25,Farm - Day,15,4h41m,5206,5.63q,319.99K,30.68K,
+11/16/25,Farm - Day,15,4h38m,5156,5.94q,322.35K,31.88K,
