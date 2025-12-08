@@ -506,7 +506,7 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 11/20/25,Farm - Overnight,15,5h7m,5522,6.78q,355.56K,34.73K,
 11/20/25,Farm - Overnight,15,4h58m,5409,6.34q,340.13K,32.18K,
 11/20/25,Farm - Day,15,4h58m,5412,6.48q,347.58K,33.38K,last on iphone12 progress
-11/20/25,Farm - Day,15,4h49m,5276,6.25q,327.57K,33.64q,First on iphone 13. All Coin perks by 1800
+11/20/25,Farm - Day,15,4h49m,5276,6.25q,327.57K,33.64K,First on iphone 13. All Coin perks by 1800
 11/20/25,Farm - Day,15,5h5m,5509,6.70q,355.69K,34.16K,
 11/21/25,Farm - Overnight,15,4h59m,5427,6.26q,336.44K,35.34K,screensaver stoped autorestart
 11/21/25,Farm - Day,15,4h55m,5369,6.26q,334.66K,30.74K,normal AM run
@@ -516,6 +516,86 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 11/22/25,Farm - Overnight,15,4h55m,5370,6.45q,337.94K,36.16K,
 11/22/25,Farm - Day,15,5h0m,5408,6.58q,344.74K,33.54K,last before tournament
 11/22/25,Tournament,99,48m,1535,1.95T,3.57K,9.45K,GC+PF_ACP+SD_DC+PC_AS+AD_killed by ray
-
-
-
+11/22/25,Tournament,99,34m,1490,361.16B,2.20K,4.17K,killed by ranged
+11/22/25,Milestone,19,1h26m,1173,2.27T,11.15K,21.86K, hit new milestone.
+11/23/25,Farm - Overnight,15,2h39m,3633,3.03q,137.22K,14.14K,wrong mod loadout
+11/23/25,Farm - Overnight,15,2h37m,3593,2.81q,126.49K,14.70K,wrong mod loadout
+11/23/25,Farm - Overnight,15,2h48m,3722,3.19q,141.69K,17.46K,wrong mod loadout
+11/23/25,Farm - Overnight,15,67m,2300,475.11T,30.63K,4.24K,wrong mod loadout-ended early
+11/23/25,Farm - Day,15,5h10m,5561,6.87q,354.79K,43.34K,fixed mods
+11/23/25,Farm - Day,15,5h17m,5609,7.11q,361.86K,38.89K,
+11/23/25,Farm - Day,15,5h11m,5562,6.89q,358.20K,43.03K,
+11/24/25,Farm - Overnight,15,5h3m,5487,6.80q,352.65K,33.78K,
+11/24/25,Farm - Overnight,15,4h53m,5334,6.54q,331.79K,32.80K,felt like bad rng ended early
+11/24/25,Farm - Day,15,5h20m,5680,6.94q,370.58K,41.86K,Dropepd CritCoin to test
+11/24/25,Farm - Day,15,5h6m,5519,6.86q,349.58K,35.70K,readded crit coin
+11/25/25,Farm - Overnight,15,5h12m,5588,7.03q,359.05K,36.68K,
+11/25/25,Farm - Overnight,15,5h19m,5669,7.28q,374.09K,41.88K,
+11/25/25,Farm - Day,15,30m,1938,168.31T,13.31K,.640K,ended - bad perks
+11/25/25,Farm - Day,15,49m,2188,505.57T,26.29K,2.24K,ended - try GC Farm
+11/25/25,Farm - Day,16,3h19m,4126,4.06q,215.21K,25.23K,GC FARM attempt 1
+11/25/25,Farm - Day,16,2h12m,3264,2.24q,123.58K,16.40K,GC FARM attempt 2
+11/25/25,Farm - Day,15,5h25m,5753,5.74q,347.40K,37.82K,GC FARM attempt 3
+11/26/25,Farm - Overnight,15,5h7m,5511,7.35q,342.54K,36.97K,back to EHP farm_1.6 Enhancements
+11/26/25,Farm - Overnight,15,5h1m,5448,7.16q,332.85K,34.84K,
+11/26/25,Farm - Day,15,4h59m,5416,7.33q,337.06K,38.63K,
+11/26/25,Farm - Day,15,3h12m,4045,4.15q,175.31K,21.54K,ended early-Tourn?
+11/26/25,Tournament,99,24m,1557,138.66B,2.19K,1.70K,
+11/26/25,Tournament,99,22m,1494,7.99B,1.85K,1.70K,
+11/27/25,Farm - Overnight,15,5h18m,5661,7.86q,374.53K,38.02K,
+11/27/25,Farm - Overnight,15,5h5m,5500,7.30q,343.46K,38.66K,
+11/27/25,Farm - Day,15,5h4m,5461,7.47q,337.49K,37.16K,
+11/27/25,Farm - Day,15,4h55m,5385,7.06q,333.57K,33.81K,
+11/27/25,Farm - Day,15,5h7m,5538,8.73q,348.22K,44.20K,
+11/28/25,Farm - Overnight,15,4h59m,5424,8.31q,332.72K,38.24K,
+11/28/25,Farm - Overnight,15,4h53m,5352,8.32q,324.50K,35.27K,
+11/28/25,Farm - Day,15,4h48m,5275,8.32q,318.45K,35.99K,
+11/28/25,Farm - Day,15,5h4m,5474,8.58q,341.82K,41.28K,
+11/28/25,Farm - Day,16,3h4m,3913,5.50q,203.86K,26.89K,
+11/28/25,Tournament,99,12m,948,3.88T,1.46K,1.08K,placement
+11/29/25,Farm - Overnight,15,5h16m,5635,9.28q,359.76K,41.29K,
+11/29/25,Farm - Overnight,15,5h2m,5446,8.59q,345.19K,39.61K,
+11/29/25,Farm - Day,16,2h59m,3889,5.39q,201.42K,26.62K,
+11/29/25,Tournament,99,23m,1740,47.31B,3.02K,1.24K,full IS auto run
+11/29/25,Tournament,99,24m,1626,248.72B,2.74K,1.55K,couldn't improve same run
+11/29/25,Milestone,17,4h24m,4501,24.23T,142.66K,38.11K,got milestone and died
+11/29/25,Farm - Day,15,5h22m,5701,9.74q,367.09K,45.11K,post tourney/milestone
+11/30/25,Farm - Overnight,15,5h4m,5480,8.94q,345.72K,38.19K,
+11/30/25,Farm - Day,16,2h26m,3444,4.24q,144.90K,16.79K,t16 farm trials
+11/30/25,Farm - Day,16,2h44m,3676,4.81q,172.04K,20.02K,t16 farm trials
+11/30/25,Farm - Day,16,3h2m,3815,5.48q,196.25K,25.13K,t16 farm trials
+11/30/25,Farm - Day,16,2h55m,3571,5.03q,177.74K,19.53K,t16 farm trials
+12/1/25,Farm - Overnight,15,5h27m,5760,9.60q,367.64K,42.14K,back to t15 farm
+12/1/25,Farm - Overnight,15,5h12m,5585,9.36q,356.66K,35.32K,
+12/1/25,Farm - Day,15,5h18m,5653,9.32q,365.29K,44.82K,
+12/1/25,Farm - Day,15,5h30m,5797,11.48q,381.13K,41.13K,first run with ANC assmod
+12/2/25,Farm - Overnight,15,5h34m,5826,11.38q,382.71K,45.79K,
+12/2/25,Farm - Overnight,15,5h36m,5902,11.52q,393.78K,41.30K,
+12/2/25,Farm - Day,15,5h33m,5858,11.42q,387.98K,45.27K,
+12/2/25,Farm - Day,15,5h38m,5890,11.38q,390.69K,46.19K,
+12/2/25,Tournament,99,12m,729,7.87T,.647K,.31K,placement run-Patch
+12/3/25,Farm - Overnight,15,5h10m,5557,10.45q,356.69K,42.58K,
+12/3/25,Farm - Overnight,15,5h20m,5680,10.68q,364.00K,46.18K,
+12/3/25,Tournament,99,39m,1677,373.06B,3.84K,9.58K,RB+ancPF full away
+12/3/25,Tournament,99,326m,1644,168.56B,2.49K,2.47K,RB+PF try2
+12/3/25,Tournament,99,24m,1617,70.68B,2.07K,1.24K,PF+PH
+12/3/25,Farm - Day,15,5h0m,5447,10.08q,339.61K,38.47K,
+12/3/25,Farm - Day,15,5h26m,5769,10.70q,374.83K,42.21K,NMP instead of OA
+12/4/25,Farm - Overnight,15,5h31m,5820,11.41q,382.39K,46.95K,oa and max bonus GB
+12/4/25,Farm - Overnight,15,5h16m,5625,11.01q,360.24K,38.06K,
+12/4/25,Farm - Day,15,5h45m,5999,8.98q,411.72K,43.64K,FlameBot test
+12/4/25,Farm - Day,15,5h20m,5670,10.77q,366.90K,42.23K,back to full GB bonux
+12/5/25,Farm - Overnight,15,5h29m,5784,11.03q,386.25K,44.32K,
+12/5/25,Farm - Overnight,15,5h16m,5615,10.59q,359.10K,42.12K,
+12/5/25,Farm - Day,15,5h14m,5608,10.28q,356.22K,41.77K,
+12/5/25,Farm - Day,15,5h13m,5599,10.20q,359.45K,43.87K,
+12/6/25,Farm - Overnight,15,5h42m,5967,11.99q,398.43K,41.93K,first with Legendary Armor/Core
+12/6/25,Tournament,99,10m,737,4T,.624K,.465K,middle of night tournament placement (4am)
+12/6/25,Farm - Overnight,15,5h36m,5880,11.79q,395.38K,46.15K,second tourney with legen armor/Core
+12/6/25,Tournament,99,33m,1707,194.63B,2.88K,5.87K,First tourney with Legendary Armor/Core
+12/6/25,Tournament,99,28m,1730,30.44B,2.56K,3.09K,First tourney with Amp Bot (rest the same from prior)
+12/6/25,Farm - Day,16,3h30m,42273,7.40q,253.43K,34.11K,try t16
+12/7/25,Farm - Overnight,15,6h0m,6208,12.36q,426.31K,51.06K,t15 baseline after tourney
+12/7/25,Farm - Overnight,15,5h50m,6051,11.82q,420K,50.03K,
+12/7/25,Farm - Day,16,3h12m,4053,7.31q,226.42K,22.04K,
+12/7/25,Farm - Day,16,3h30m,4270,8.02q,253.33K,34.97K,
