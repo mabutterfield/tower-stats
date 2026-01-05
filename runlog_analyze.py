@@ -6,26 +6,47 @@ from datetime import datetime, timedelta
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Analyze runlog.json")
-    parser.add_argument("--summary", action="store_true", help="Show per-hour summary by tier (last 7 days by default)")
-    parser.add_argument("--daily", action="store_true", help="Show total daily resources")
-    parser.add_argument("--runlog", action="store_true", help="Show per-hour summary of recent runs")
-    parser.add_argument("--days", type=int, default=7, help="Limit analysis to the past X days (default: 7)")
+    parser.add_argument(
+        "--summary",
+        action="store_true",
+        help="Show per-hour summary by tier (last 7 days by default)",
+    )
+    parser.add_argument(
+        "--daily", action="store_true", help="Show total daily resources"
+    )
+    parser.add_argument(
+        "--runlog", action="store_true", help="Show per-hour summary of recent runs"
+    )
+    parser.add_argument(
+        "--days",
+        type=int,
+        default=7,
+        help="Limit analysis to the past X days (default: 7)",
+    )
     parser.add_argument("--last", type=int, help="Limit analysis to the last X runs")
     # parser.add_argument("--tier", type=int, help="Limit analysis to tier X")
     # parser.add_argument("--grouping", choices=["tier", "label"], help="Group summary by base tier or detailed label")
-    parser.add_argument("--tier", type=int, nargs="+", help="Tier(s) to include (e.g. --tier 13 14)")
-    parser.add_argument("--grouping", action="store_true", help="Group summary detailed label")
+    parser.add_argument(
+        "--tier", type=int, nargs="+", help="Tier(s) to include (e.g. --tier 13 14)"
+    )
+    parser.add_argument(
+        "--grouping", action="store_true", help="Group summary detailed label"
+    )
     parser.add_argument("--coin", action="store_true", help="Include coin stats")
     parser.add_argument("--cell", action="store_true", help="Include cell stats")
     parser.add_argument("--dice", action="store_true", help="Include dice stats")
-    parser.add_argument("--time", action="store_true", help="Include time stats (formatted as XhYYm)")
+    parser.add_argument(
+        "--time", action="store_true", help="Include time stats (formatted as XhYYm)"
+    )
     parser.add_argument("--wave", action="store_true", help="Include wave stats")
     parser.add_argument("--comments", action="store_true", help="Include wave Comments")
     return parser.parse_args()
 
+
 def load_json():
     with open("runlog.json", "r") as f:
         return json.load(f)
+
 
 def format_number(n):
     if n >= 1e18:
@@ -43,10 +64,12 @@ def format_number(n):
     else:
         return str(n)
 
+
 def format_time(n):
     hours = int(n)
     minutes = int((n - hours) * 60)
     return f"{hours}h{minutes:02}m"
+
 
 def print_ascii_table(headers, rows, title=None):
     col_widths = [max(len(str(val)) for val in col) for col in zip(headers, *rows)]
@@ -65,12 +88,20 @@ def print_ascii_table(headers, rows, title=None):
 
     for row in rows:
         print(" | ".join(f"{str(c):<{w}}" for c, w in zip(row, col_widths)))
-    
+
     print(sep)
+
+
 ### begin summarize
 def summarize_by_tier(runs, days=7, last=None, include=None, grouping=False):
     if include is None:
-        include = {"coin": True, "cell": True, "dice": True, "time": False, "wave": False}
+        include = {
+            "coin": True,
+            "cell": True,
+            "dice": True,
+            "time": False,
+            "wave": False,
+        }
 
     cutoff = datetime.now() - timedelta(days=days)
     recent = [r for r in runs if datetime.strptime(r["date"], "%Y-%m-%d") >= cutoff]
@@ -87,32 +118,47 @@ def summarize_by_tier(runs, days=7, last=None, include=None, grouping=False):
 
     # for r in recent:
     #     by_label[r[get_tier_label(r, format="short")]].append(r)
-    
 
     rows = []
     for tier in sorted(run_data):
         data = run_data[tier]
         row = [tier]
-        
+
         if include["coin"]:
             cph = [r["coins_per_hour"] for r in data]
-            row += [format_number(min(cph)), format_number(max(cph)), format_number(sum(cph)/len(cph))]
+            row += [
+                format_number(min(cph)),
+                format_number(max(cph)),
+                format_number(sum(cph) / len(cph)),
+            ]
 
         if include["cell"]:
             cellph = [r["cells_per_hour"] for r in data]
-            row += [format_number(min(cellph)), format_number(max(cellph)), format_number(sum(cellph)/len(cellph))]
+            row += [
+                format_number(min(cellph)),
+                format_number(max(cellph)),
+                format_number(sum(cellph) / len(cellph)),
+            ]
 
         if include["dice"]:
             diceph = [r.get("rerolldice_per_hour", 0) for r in data]
-            row += [format_number(min(diceph)), format_number(max(diceph)), format_number(sum(diceph)/len(diceph))]
+            row += [
+                format_number(min(diceph)),
+                format_number(max(diceph)),
+                format_number(sum(diceph) / len(diceph)),
+            ]
 
         if include["time"]:
             time = [r["time"] for r in data]
-            row += [format_time(min(time)), format_time(max(time)), format_time(sum(time)/len(time))]
+            row += [
+                format_time(min(time)),
+                format_time(max(time)),
+                format_time(sum(time) / len(time)),
+            ]
 
         if include["wave"]:
             waves = [r["waves"] for r in data]
-            row += [min(waves), max(waves), round(sum(waves)/len(waves), 1)]
+            row += [min(waves), max(waves), round(sum(waves) / len(waves), 1)]
 
         row.append(len(data))
         rows.append(row)
@@ -135,9 +181,10 @@ def summarize_by_tier(runs, days=7, last=None, include=None, grouping=False):
         title_parts.append(f"for Last {last} Runs")
     else:
         title_parts.append(f"for Last {days} Days")
-    
-    title=" ".join(title_parts)
-    print_ascii_table(headers, rows, title )
+
+    title = " ".join(title_parts)
+    print_ascii_table(headers, rows, title)
+
 
 ####
 def get_tier_label(r, format="long"):
@@ -155,23 +202,29 @@ def get_tier_label(r, format="long"):
                 return "Tourn"
             case _:
                 return str(tier)
-    else: 
+    else:
         match rt:
-                    case rt if "day" in rt:
-                        return f"{tier}D"
-                    case rt if "overnight" in rt:
-                        return f"{tier}N"
-                    case rt if "milestone" in rt:
-                        return f"{tier}M"
-                    case rt if "tournament" in rt:
-                        return "T"
-                    case _:
-                        return str(tier)
+            case rt if "day" in rt:
+                return f"{tier}D"
+            case rt if "overnight" in rt:
+                return f"{tier}N"
+            case rt if "milestone" in rt:
+                return f"{tier}M"
+            case rt if "tournament" in rt:
+                return "T"
+            case _:
+                return str(tier)
 
 
 def summarize_by_run(runs, days=7, last=None, tiers=None, include=None):
     if include is None:
-        include = {"coin": True, "cell": True, "dice": True, "time": False, "wave": False}
+        include = {
+            "coin": True,
+            "cell": True,
+            "dice": True,
+            "time": False,
+            "wave": False,
+        }
 
     # Filter by days
     cutoff = datetime.now() - timedelta(days=days)
@@ -217,45 +270,50 @@ def summarize_by_run(runs, days=7, last=None, tiers=None, include=None):
             row.append(format_time(r.get("time", 0)))
         if include["wave"]:
             row.append(r.get("waves", 0))
-        if include["comments"]:     
+        if include["comments"]:
             raw_comment = r.get("comments", "")
-            trimmed_comment = (raw_comment[:40] + "…") if len(raw_comment) > 40 else raw_comment
+            trimmed_comment = (
+                (raw_comment[:40] + "…") if len(raw_comment) > 40 else raw_comment
+            )
             row.append(trimmed_comment)
         rows.append(row)
 
     print_ascii_table(headers, rows, title="Raw Run Log")
 
 
-  
-
 def summarize_by_day(runs, days=7):
     cutoff = datetime.now() - timedelta(days=days)
-    daysummary = defaultdict(lambda: {"coins": 0, "cells": 0, "dice": 0, "tiers": []})
+    daysummary = defaultdict(
+        lambda: {"time": 0, "coins": 0, "cells": 0, "dice": 0, "tiers": []}
+    )
 
     for run in runs:
         run_date = datetime.strptime(run["date"], "%Y-%m-%d")
         if run_date >= cutoff:
             d = run["date"]
+            daysummary[d]["time"] += run["time"]
             daysummary[d]["coins"] += run["coins"]
             daysummary[d]["cells"] += run["cells"]
             daysummary[d]["dice"] += run.get("rerolldice", 0)
             # daysummary[d]["tiers"].append(str(run["tier"]))
             daysummary[d]["tiers"].append(get_tier_label(run, format="short"))
 
-
     rows = []
     for date in sorted(daysummary):
         day = daysummary[date]
-        rows.append([
-            date,
-            format_number(day["coins"]),
-            format_number(day["cells"]),
-            format_number(day["dice"]),
-            " ".join(day["tiers"])
-        ])
+        rows.append(
+            [
+                date,
+                round(day["time"],1),
+                format_number(day["coins"]),
+                format_number(day["cells"]),
+                format_number(day["dice"]),
+                " ".join(day["tiers"]),
+            ]
+        )
 
     title = "Daily Totals (Last {} Days):".format(days)
-    headers = ["Tier", "Coins", "Cells", "Dice", "Tiers"]
+    headers = ["Tier", "Time", "Coins", "Cells", "Dice", "Tiers"]
     print_ascii_table(headers, rows, title=title)
 
 
@@ -269,18 +327,29 @@ def main():
         return
 
     # Default columns
-    fields = {"coin": args.coin, "cell": args.cell, "dice": args.dice, "time": args.time, "wave": args.wave, "comments": args.comments}
+    fields = {
+        "coin": args.coin,
+        "cell": args.cell,
+        "dice": args.dice,
+        "time": args.time,
+        "wave": args.wave,
+        "comments": args.comments,
+    }
     if not any(fields.values()):
         fields["coin"] = fields["cell"] = fields["dice"] = True
 
     if args.summary:
-        summarize_by_tier(runs, days=args.days, last=args.last, include=fields, grouping=args.grouping)
+        summarize_by_tier(
+            runs, days=args.days, last=args.last, include=fields, grouping=args.grouping
+        )
 
     if args.daily:
         summarize_by_day(runs, args.days)
 
     if args.runlog:
-        summarize_by_run(runs, days=args.days, last=args.last, tiers=args.tier, include=fields)
+        summarize_by_run(
+            runs, days=args.days, last=args.last, tiers=args.tier, include=fields
+        )
         return
 
 

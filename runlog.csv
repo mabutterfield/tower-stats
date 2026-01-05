@@ -729,7 +729,7 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 12/26/25,Farm - Day,16,6h0m,5434,17.02q,379.74K,49.58K,
 12/27/25,Farm - Overnight,16,4h29m,5064,14.84q,332.02K,44.57K,
 12/27/25,Farm - Overnight,16,4h51m,5328,16.33q,359.65K,45.85K,
-12/27/25,Farm - Overnight,16,4h38m,5162,15.75k,347.25K,41.96K,
+12/27/25,Farm - Overnight,16,4h38m,5162,15.75q,347.25K,41.96K,
 12/27/25,Farm - Day,16,4h50m,5337,17q,367.75K,47.57K,
 12/27/25,Tournament,99,16m,1019,48.71B,.848K,1.84K,
 12/27/25,Tournament,99,21m,1045,124.35B,1.45K,2.52K,
@@ -747,4 +747,40 @@ date,run_type,tier,time,waves,coins,cells,rerolldice,comments
 12/30/25,Farm - Overnight,16,5h7m,5532,17.67q,408.55K,53.77K,back to SD+ACP
 12/30/25,Farm - Overnight,16,4h49m,5293,16.12q,377.48K,42.59K,auto nuke
 12/30/25,Farm - Overnight,16,4h54m,5365,16.88q,381.54K,45.98K,manual nuke in AM
-12/30/25,Farm - Day,16,
+12/30/25,Farm - Day,16,4h57m,5393,16.93q,391.74K,44.30K,
+12/30/25,Farm - Day,16,5h6m,5512,18.12q,397.71K,57.30K,
+12/31/25,Farm - Overnight,16,5h8m,5498,17.51q,398.99K,50.83K,
+12/31/25,Farm - Overnight,16,5h5m,5497,17.51q,396.61K,44.96K,
+12/31/25,Tournament,99,21m,1105,161.7B,1.82K,3.51K,
+12/31/25,Tournament,99,25m,1106,73.17B,2.44K,3.34K,
+12/31/25,Tournament,99,22m,1037,194.68B,1.94K,5.52K,
+12/31/25,Tournament,99,25m,1037,109.28B,1.88K,5.01K,
+12/31/25,Farm - Day,16,5h46m,6013,19.68q,447.62K,54.27K,
+12/31/25,Farm - Day,16,5h42m,5949,17.57q,444.60K,69.98K,
+1/1/26,Farm - Overnight,16,5h44m,5966,20.67q,449.28K,54.80K,
+1/1/26,Farm - Overnight,16,5h16m,5497,17.69q,389.30K,52.95K,
+1/1/26,Farm - Day,16,5h11m,5560,18.89q,392.63K,50.17K,
+1/1/26,Farm - Day,16,4h28m,5049,15.59q,329.31K,44.73K,no idea what happened here
+1/1/26,Farm - Day,16,5h33m,5841,19.40q,425.64K,61.92K,
+1/2/26,Farm - Overnight,16,5h27m,5771,20.36q,432.34K,54.24K,
+1/2/26,Farm - Overnight,16,5h6m,5498,18.54q,392.39K,49.18K,
+1/2/26,Farm - Day,16,5h11m,5532,19.33q,400.88K,51.39K,
+1/2/26,Farm - Day,18,57m,2296,2.25q,50.14K,14.06K,
+1/2/26,Farm - Day,17,3h15m,4076,12.38q,247.92K,37.40K,
+1/3/26,Farm - Overnight,16,5h11m,5552,18.97q,398.44K,49.75K,
+1/3/26,Farm - Overnight,16,5h9m,5533,18.80q,401.01K,47.34K,
+1/3/26,Tournament,99,18m,1016,49.84B,1.15K,1.84K,
+1/3/26,Tournament,99,29m,1076,126.47B,2.52K,8.52K,
+1/3/26,Tournament,99,20m,1016,49.60B,1.40K,3.55K,
+1/3/26,Tournament,99,20m,988,95.92B,1.81K,4.84K,
+1/3/26,Farm - Day,16,2h49m,3741,7.26q,174.47K,23.35K,messed up post tourynement
+1/3/26,Farm - Day,16,35m,2012,474.94T,22.13K,1.16K,still messed up
+1/3/26,Farm - Day,16,5h45m,5979,19.53q,450.33K,57.11K,better-but forgot summon
+1/4/26,Farm - Overnight,16,5h6m,5497,22.29q,393.71K,47.54K,GT+7
+1/4/26,Farm - Overnight,16,5h47m,6035,25.60q,467.11K,58.95K,
+1/4/26,Farm - Day,16,5h46m,5998,27.06q,461.81K,62.48K,MVN+DWCD
+1/4/26,Farm - Day,16,5h7m,5498,24.04q,401.76K,46.62K,PC
+1/5/25,Farm - Overnight,16,5h47m,6014,27.08q,471.16K,50.21K,PC-forgot autorestart
+1/5/25,Farm - Overnight,16,5h38m,5884,26.75q,451.73K,55.29K,PC
+1/5/25,Farm - Day,16,
+
